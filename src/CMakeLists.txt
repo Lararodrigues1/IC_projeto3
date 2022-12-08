@@ -13,6 +13,6 @@ SET (CMAKE_CXX_FLAGS_DEBUG "-g3 -fsanitize=address")
 SET (BASE_DIR ${CMAKE_SOURCE_DIR} )
 SET (CMAKE_RUNTIME_OUTPUT_DIRECTORY ${BASE_DIR}/../bin)
 
-
+add_executable (test_fcm test_fcm.cpp)
 
 

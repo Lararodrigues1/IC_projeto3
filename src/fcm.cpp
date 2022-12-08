@@ -71,7 +71,7 @@ class fcm {
         }
 
 
-        void fcm::estimate(map<string, map<char, int>> &model, char *filename){
+        void estimate(map<string, map<char, int>> &model, char *filename){
             ifstream ifs(filename, std::ios::in);
             if(!ifs.is_open()){
                 throw runtime_error("Error: Could not open file!");
@@ -138,90 +138,44 @@ void loadModel(map<string, map<char, int>> &model, char *filename){
     char aux;
     for (int i = 0; i < k; i++){
         readChar(ifs, &aux);
-        ctx.append(1, aux);
+        ctx.append(1, aux);                 // 4 letras do texto
     }
 
     do{
         readChar(ifs, &aux);
-
-        if (model.count(ctx) > 0){
-            model[ctx][aux]++;
+        if (model.count(ctx) > 0){          // model.count() retorna 1 se o se o elemento com key 'ctx' aparece no map model 
+            model[ctx][aux]++;              // conta quantas vezes o ctx aparece no mapa model e incrementa o valor 
         }else{
-            map<char, int> empty;
+            map<char, int> empty;           
             model[ctx] = empty;
-            model[ctx][aux]++;
+            model[ctx][aux]++;              // NAO SEI OQUE FAZ
         }
         // update ctx
-        ctx.erase(0,1); // removes first character
-        ctx.append(1, aux);
+        ctx.erase(0,1);                     // removes first character in ctx
+        ctx.append(1, aux);                 // adiciona proximo caracter a ctx
     }while(!ifs.eof());
 
     // Filename path to a file were to store the model
     size_t dot = string(filename).find_last_of(".");
     string destFilename = string(filename).substr(0, dot);
     destFilename += "model.txt";
-    cout << destFilename << endl;
+    cout << destFilename << endl;                                   // cria o ficheiro onde vai escrever com o nome como queremos
 
     ofstream myfile;
     myfile.open (destFilename);
-    myfile << k << "\t" << alpha << endl;
+    myfile << k << "\t" << alpha << endl;                           // escreve no ficheiro o alpha e k que usamos                         
     for(auto i : model) {
         map<char, int> &occur = model[i.first];
-        myfile << i.first;
+        myfile << i.first;                                          // i.first tem as k letras que tamos a ver
+        
         for(auto j : occur){
-            myfile << '\t' << j.first << '\t' << j.second;
+            myfile << '\t' << j.first << '\t' << j.second;          // j.first é letra que vem a seguir e j.second é o numero de vezes em q aparece 
         }
         myfile << endl;
     }
     myfile.close();
 }
 
-void loadExistingModel(map<string, map<char, int>> &model, char *filename) {
-    ifstream file(filename);
-    string line;
-    int i = -2;
-    string a;
-    char b;
-    int c;
-    while (getline(file, line)) {
-        istringstream lin(line);
-        
-        while(i < 0) {
-            getline(lin, line, '\t');
-            if(i== -2) {
-                k = stoi(line);
-            }
-            else {
-                alpha = stod(line);
-            }
-            i++;
-        }
-
-        if(i >= 0) {
-            while(getline(lin, line, '\t')) {
-                if(i == 0) {
-                    a = line;
-                    i++;
-                }
-                else if(i == 1) {
-                    b = line[0];
-                    i++;
-                }
-                else {
-                    c = stoi(line);
-                    model[a][b] = c;
-                    if(getline(lin, line, '\t')) {
-                        b = line[0];
-                        i = 2;
-                    }
-                    else {
-                        i = 0;
-                    }
-                }
-            }
-        }
-    }
-}
 
 void readChar(ifstream &ifs, char *c){
     char s;
