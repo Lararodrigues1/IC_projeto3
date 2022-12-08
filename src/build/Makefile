@@ -110,46 +110,6 @@ depend:
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
-#=============================================================================
-# Target rules for targets named cp_image
-
-# Build rule for target.
-cp_image: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 cp_image
-.PHONY : cp_image
-
-# fast build rule for target.
-cp_image/fast:
-	$(MAKE) -f CMakeFiles/cp_image.dir/build.make CMakeFiles/cp_image.dir/build
-.PHONY : cp_image/fast
-
-cp_image.o: cp_image.cpp.o
-
-.PHONY : cp_image.o
-
-# target to build an object file
-cp_image.cpp.o:
-	$(MAKE) -f CMakeFiles/cp_image.dir/build.make CMakeFiles/cp_image.dir/cp_image.cpp.o
-.PHONY : cp_image.cpp.o
-
-cp_image.i: cp_image.cpp.i
-
-.PHONY : cp_image.i
-
-# target to preprocess a source file
-cp_image.cpp.i:
-	$(MAKE) -f CMakeFiles/cp_image.dir/build.make CMakeFiles/cp_image.dir/cp_image.cpp.i
-.PHONY : cp_image.cpp.i
-
-cp_image.s: cp_image.cpp.s
-
-.PHONY : cp_image.s
-
-# target to generate assembly for a file
-cp_image.cpp.s:
-	$(MAKE) -f CMakeFiles/cp_image.dir/build.make CMakeFiles/cp_image.dir/cp_image.cpp.s
-.PHONY : cp_image.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -158,10 +118,6 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... cp_image"
-	@echo "... cp_image.o"
-	@echo "... cp_image.i"
-	@echo "... cp_image.s"
 .PHONY : help
 
 

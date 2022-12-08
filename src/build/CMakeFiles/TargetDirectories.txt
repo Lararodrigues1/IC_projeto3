@@ -1,3 +1,2 @@
 /home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/build/CMakeFiles/rebuild_cache.dir
 /home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/build/CMakeFiles/edit_cache.dir
-/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/src/build/CMakeFiles/cp_image.dir
