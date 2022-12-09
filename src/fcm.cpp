@@ -71,18 +71,19 @@ class fcm {
         }
 
 
-        void estimate(map<string, map<char, int>> &model, char *filename){
-            ifstream ifs(filename, std::ios::in);
+        void estimate(map<string, map<char, int>> &model, char *filename){      // n*ggas come for drake and they under estimate
+            ifstream ifs(filename, std::ios::in);                               // take it from a vet thats a rookie ass mistake
             if(!ifs.is_open()){
                 throw runtime_error("Error: Could not open file!");
-            }
+            }                                                                   // abre o ficheiro de entrada (simple.txt)
 
             string ctx;
             char aux;
             for (int i = 0; i < k; i++){
                 readChar(ifs, &aux);
+                cout << aux << endl;
                 ctx.append(1, aux);
-            }
+            }                                                                   // ctx fica com o primeiro conjunto de chars com tamanho k
 
             int noccur, totalOccur;
             double sumH = 0;
@@ -144,11 +145,12 @@ void loadModel(map<string, map<char, int>> &model, char *filename){
     do{
         readChar(ifs, &aux);
         if (model.count(ctx) > 0){          // model.count() retorna 1 se o se o elemento com key 'ctx' aparece no map model 
-            model[ctx][aux]++;              // conta quantas vezes o ctx aparece no mapa model e incrementa o valor 
+            model[ctx][aux]++;              // se o conjutnp de chars está no mapa fazemos aux++ para incrementar o contador para esse conjunto
         }else{
-            map<char, int> empty;           
-            model[ctx] = empty;
-            model[ctx][aux]++;              // NAO SEI OQUE FAZ
+            map<char, int> empty;           // para entrar neste else, é poque este conjunto de chars está a aparecer pela primeira vez no texto
+                     
+            model[ctx] = empty;             // transformamos o value do mapa model num mapa
+            model[ctx][aux]++;              // adiciona um novo conjunto de chars ao mapa
         }
         // update ctx
         ctx.erase(0,1);                     // removes first character in ctx
@@ -172,7 +174,7 @@ void loadModel(map<string, map<char, int>> &model, char *filename){
             myfile << '\t' << j.first << '\t' << j.second;          // j.first é letra que vem a seguir e j.second é o numero de vezes em q aparece 
         }
         myfile << endl;
-    }
+    }                                                               // este for serve para escrever oque está no mapa para o ficheiro
     myfile.close();
 }
 
