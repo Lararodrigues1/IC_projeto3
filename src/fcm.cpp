@@ -81,7 +81,6 @@ class fcm {
             char aux;
             for (int i = 0; i < k; i++){
                 readChar(ifs, &aux);
-                cout << aux << endl;
                 ctx.append(1, aux);
             }                                                                   // ctx fica com o primeiro conjunto de chars com tamanho k
 

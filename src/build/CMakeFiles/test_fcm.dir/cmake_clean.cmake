@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/henriqueramos/Desktop/IC/IC_projeto3/bin/test_fcm"
-  "/home/henriqueramos/Desktop/IC/IC_projeto3/bin/test_fcm.pdb"
+  "/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/bin/test_fcm"
+  "/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/bin/test_fcm.pdb"
   "CMakeFiles/test_fcm.dir/test_fcm.cpp.o"
-  "CMakeFiles/test_fcm.dir/test_fcm.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.

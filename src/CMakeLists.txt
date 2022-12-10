@@ -14,5 +14,6 @@ SET (BASE_DIR ${CMAKE_SOURCE_DIR} )
 SET (CMAKE_RUNTIME_OUTPUT_DIRECTORY ${BASE_DIR}/../bin)
 
 add_executable (test_fcm test_fcm.cpp)
-
+add_executable (lang lang.cpp)
+add_executable (findlang findlang.cpp)
 
