@@ -4,6 +4,14 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+<<<<<<< Updated upstream
+=======
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/lara/Desktop/IC_projeto3/src/test_fcm.cpp" "/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles/test_fcm.dir/test_fcm.cpp.o"
+>>>>>>> Stashed changes
   )
 
 # The set of dependency files which are needed:

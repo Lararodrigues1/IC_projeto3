@@ -72,60 +72,61 @@ class fcm {
 
 
         void estimate(map<string, map<char, int>> &model, char *filename){      
-            ifstream ifs(filename, std::ios::in);                               
-            if(!ifs.is_open()){
-                throw runtime_error("Error: Could not open file!");
-            }                                                                   // abre o ficheiro de entrada (simple.txt)
+           ifstream ifs(filename, std::ios::in);
+    if(!ifs.is_open()){
+        throw runtime_error("Error: Could not open file!");
+    }
 
-            string ctx;
-            char aux;
-            for (int i = 0; i < k; i++){
-                readChar(ifs, &aux);
-                ctx.append(1, aux);
-            }                                                                   // ctx fica com o primeiro conjunto de chars com tamanho k
+    string ctx;
+    char aux;
 
-            int noccur, totalOccur;
-            double sumH = 0;
-            int count = 0;
+    for (int i = 0; i < k; i++){
+        readChar(ifs, &aux);
+        ctx.append(1, aux);
+    }
+    
+    int noccur, totalOccur;
+    double sumH = 0;
+    int count = 0;
 
-            do{
-                readChar(ifs, &aux);
-                count++;
+    while(!ifs.eof()){
+        readChar(ifs, &aux);
+        count++;
 
-                totalOccur = 0;
-                // modelo contem contexto
-                if(model.count(ctx) > 0){
-                    map<char, int> &occur = model[ctx];
-                    // contexto tem o char que procuramos
-                    if(occur.count(aux) > 0){  
-                        noccur = occur[aux];
-                    }else{ // não tem
-                        noccur = 0;
-                    }
-                    for(auto i : occur){
-                        // contar o número total de entrys para o contexto
-                        totalOccur += i.second;
-                    }
-                }else{  // não contêm
-                    noccur = 0;
-                    totalOccur = 0;
-                }
+        totalOccur = 0;
+        // modelo contem contexto
+        if(model.count(ctx) > 0){
+            map<char, int> &occur = model[ctx];
+            // contexto tem o char que procuramos
+            if(occur.count(aux) > 0){  
+                noccur = occur[aux];
+               }else{ // não tem
+                noccur = 0;
+            }
+            for(auto i : occur){
+                // contar o número total de entrys para o contexto
+                totalOccur += i.second;
+            }
+        }else{  // não contêm
+            noccur = 0;
+            totalOccur = 0;
+        }
 
-                sumH += -log2((noccur + alpha) / (totalOccur + (alpha * ALPHABETH_SIZE)));
+        sumH += -log2((noccur + alpha) / (totalOccur + (alpha * ALPHABETH_SIZE)));
 
-                // update ctx
-                ctx.erase(0,1); // removes first character
-                ctx.append(1, aux);
-            }while(!ifs.eof());
+        // update ctx
+        ctx.erase(0,1); // removes first character
+        ctx.append(1, aux);
+    }
 
-            // save estimated distance
-            distance = sumH;
+    // save estimated distance
+    distance = sumH;
 
-            // save estimated entropy
-            estimatedEntropy = sumH / count;
+    // save estimated entropy
+    estimatedEntropy = sumH / count;
 
-            // Update number of characters in the file
-            nLetters = count;
+    // Update number of characters in the file
+    nLetters = count;
         }
 
 void loadModel(map<string, map<char, int>> &model, char *filename){
@@ -179,15 +180,10 @@ void loadModel(map<string, map<char, int>> &model, char *filename){
 }
 
 
-void readChar(ifstream &ifs, char *c){
-    char s;
-    do{
-        ifs.get(s);
-        if(!(s == '\n'| s == '\t')) {
-            *c = s;
-        }
-    }while((*c == '\n'|*c == '\t') && !ifs.eof());
+void readChar(ifstream &ifs, char *c) {
+  ifs.get(*c);
 }
+
 
 
 

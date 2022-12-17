@@ -57,10 +57,17 @@ RM = /usr/local/lib/python2.7/dist-packages/cmake/data/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< Updated upstream
 CMAKE_SOURCE_DIR = /home/henriqueramos/Desktop/IC/IC_projeto3/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/henriqueramos/Desktop/IC/IC_projeto3/src/build
+=======
+CMAKE_SOURCE_DIR = /home/lara/Desktop/IC_projeto3/src
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = /home/lara/Desktop/IC_projeto3/src/build
+>>>>>>> Stashed changes
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +94,15 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
+<<<<<<< Updated upstream
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles /home/henriqueramos/Desktop/IC/IC_projeto3/src/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles 0
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles/progress.marks
+	$(MAKE) -f CMakeFiles/Makefile2 all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles 0
+>>>>>>> Stashed changes
 .PHONY : all
 
 # The main clean target
