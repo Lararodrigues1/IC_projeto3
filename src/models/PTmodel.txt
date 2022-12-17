@@ -1,4 +1,4 @@
-5	0.1
+k: 5	alpha: 0.1
    En	c	1
   Com	e	1
   Con	v	1

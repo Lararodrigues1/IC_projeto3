@@ -81,14 +81,14 @@ class fcm {
             char aux;
             for (int i = 0; i < k; i++){
                 readChar(ifs, &aux);
-                ctx.append(1, aux);
+                ctx = ctx + aux;
             }                                                                   // ctx fica com o primeiro conjunto de chars com tamanho k
 
             int noccur, totalOccur;
             double sumH = 0;
             int count = 0;
 
-            do{
+            while(!ifs.eof()){
                 readChar(ifs, &aux);
                 count++;
 
@@ -114,9 +114,9 @@ class fcm {
                 sumH += -log2((noccur + alpha) / (totalOccur + (alpha * ALPHABETH_SIZE)));
 
                 // update ctx
-                ctx.erase(0,1); // removes first character
-                ctx.append(1, aux);
-            }while(!ifs.eof());
+                ctx = ctx.substr(1,ctx.size() -1);
+                ctx = ctx + aux;
+            }
 
             // save estimated distance
             distance = sumH;
@@ -130,42 +130,46 @@ class fcm {
 
 void loadModel(map<string, map<char, int>> &model, char *filename){
     ifstream ifs(filename, std::ios::in);
-    if(!ifs.is_open()){
-        throw runtime_error("Error: Could not open file!");
-    }
-
-    string ctx;
+    string ctx, aux_s;
     char aux;
     for (int i = 0; i < k; i++){
         readChar(ifs, &aux);
-        ctx.append(1, aux);                 // 4 letras do texto
-        
+        ctx = ctx + aux;                
     }
-
-    do{
+    while(!ifs.eof()){
         readChar(ifs, &aux);
-        if (model.count(ctx) > 0){          // model.count() retorna 1 se o se o elemento com key 'ctx' aparece no map model 
-            model[ctx][aux]++;              // se o conjutnp de chars está no mapa fazemos aux++ para incrementar o contador para esse conjunto
+        if(model.find(ctx) == model.end()){
+            map<char, int> empty;           
+            model[ctx] = empty;             
+            model[ctx][aux]++;
         }else{
-            map<char, int> empty;           // para entrar neste else, é poque este conjunto de chars está a aparecer pela primeira vez no texto
-                     
-            model[ctx] = empty;             // transformamos o value do mapa model num mapa
-            model[ctx][aux]++;              // adiciona um novo conjunto de chars ao mapa
-        }
-        // update ctx
-        ctx.erase(0,1);                     // removes first character in ctx
-        ctx.append(1, aux);                 // adiciona proximo caracter a ctx
-    }while(!ifs.eof());
+            model[ctx][aux]++;              
+        }        
+        ctx = ctx.substr(1,ctx.size() -1);
+        ctx = ctx + aux;                
+    };
 
-    // Filename path to a file were to store the model
-    size_t dot = string(filename).find_last_of(".");
-    string destFilename = string(filename).substr(0, dot);
-    destFilename += "model.txt";
-    cout << destFilename << endl;                                   // cria o ficheiro onde vai escrever com o nome como queremos
+    // NOME DO FICHEIRO
+    string destFilename = "";
+    string flag = "";
+    
+    for (int i = string(filename).size(); i-- > 0;){
+        if( filename[i] == '.'){
+            flag = "1";
+        }
+        if(flag == "1"){
+            destFilename = filename[i] + destFilename;
+        }
+    }
+    destFilename = "." + destFilename.substr(1,destFilename.size() -2) + "model.txt";
+    cout << "created file path: " << destFilename << endl;   
+   
+       
 
     ofstream myfile;
     myfile.open (destFilename);
-    myfile << "AAAAAAAAAAAAA" << k << "\t" << alpha << endl;                           // escreve no ficheiro o alpha e k que usamos                         
+    myfile <<  "k: " << k << "\t" << "alpha: " << alpha << endl;                           // escreve no ficheiro o alpha e k que usamos                         
+    
     for(auto i : model) {
         map<char, int> &occur = model[i.first];
         myfile << i.first;                                          // i.first tem as k letras que tamos a ver
@@ -194,5 +198,3 @@ void readChar(ifstream &ifs, char *c){
            
    
 };
-
-

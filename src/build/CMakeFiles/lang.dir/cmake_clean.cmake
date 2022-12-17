@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
-  "/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/bin/lang"
-  "/home/goncaloaguiar/Desktop/IC_rep/IC3/IC_projeto3/bin/lang.pdb"
+  "/home/henriqueramos/Desktop/IC/IC_projeto3/bin/lang"
+  "/home/henriqueramos/Desktop/IC/IC_projeto3/bin/lang.pdb"
   "CMakeFiles/lang.dir/lang.cpp.o"
+  "CMakeFiles/lang.dir/lang.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.
