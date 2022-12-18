@@ -3,7 +3,7 @@
 
 CMakeFiles/lang.dir/lang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projeto3/src/lang.cpp \
   /usr/include/stdc-predef.h \
-  /home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm.cpp \
+  /home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm_novo.cpp \
   /usr/include/c++/7/fstream \
   /usr/include/c++/7/istream \
   /usr/include/c++/7/ios \
@@ -322,6 +322,10 @@ CMakeFiles/lang.dir/lang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projeto3/src/l
 
 /usr/include/c++/7/exception:
 
+/usr/include/c++/7/bits/concept_check.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
+
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
 /usr/include/c++/7/bits/move.h:
@@ -354,12 +358,6 @@ CMakeFiles/lang.dir/lang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projeto3/src/l
 
 /usr/include/c++/7/backward/binders.h:
 
-/usr/include/c++/7/bits/concept_check.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
-
 /usr/include/c++/7/bits/exception_ptr.h:
 
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
@@ -378,19 +376,21 @@ CMakeFiles/lang.dir/lang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projeto3/src/l
 
 /usr/include/c++/7/iosfwd:
 
+/home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm_novo.cpp:
+
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+
 /usr/include/c++/7/iostream:
 
 /usr/include/c++/7/fstream:
 
 /usr/include/c++/7/bits/stl_iterator_base_funcs.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
@@ -487,6 +487,8 @@ CMakeFiles/lang.dir/lang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projeto3/src/l
 /usr/include/c++/7/string:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/gthr.h:
 
@@ -623,8 +625,6 @@ CMakeFiles/lang.dir/lang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projeto3/src/l
 /usr/include/x86_64-linux-gnu/bits/select2.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
-
-/home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm.cpp:
 
 /usr/include/c++/7/bits/std_abs.h:
 

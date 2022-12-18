@@ -1,7 +1,7 @@
 CMakeFiles/lang.dir/lang.cpp.o: \
  /home/henriqueramos/Desktop/IC/IC_projeto3/src/lang.cpp \
  /usr/include/stdc-predef.h \
- /home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm.cpp \
+ /home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm_novo.cpp \
  /usr/include/c++/7/fstream /usr/include/c++/7/istream \
  /usr/include/c++/7/ios /usr/include/c++/7/iosfwd \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \

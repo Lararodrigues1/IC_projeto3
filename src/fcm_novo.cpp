@@ -111,7 +111,7 @@ class fcm {
                     }
                 }
                 
-                cout << noccur << endl;
+                
                 sumH = sumH + (-log2((noccur + alpha) / (totalOccur + (alpha * ALPHABETH_SIZE))));
 
                 ctx = ctx.substr(1,ctx.size() -1);
