@@ -41,10 +41,10 @@ class fcm {
                 map<char, int> &occur = model[i.first];
                 aux = 0;
                 for(auto i : occur){
-                    aux += i.second;
+                    aux = aux + i.second;
                 }
                 totalOccurCtx[i.first] = aux;
-                totalEntrys += aux;
+                totalEntrys = totalEntrys + aux;
                 
             }
            
@@ -61,10 +61,10 @@ class fcm {
                 ctxEntropy = 0;
                 for(auto i : occur){
                     prob = (double) i.second / ctxTotal;
-                    ctxEntropy -= prob * log2(prob);
+                    ctxEntropy = ctxEntropy - prob * log2(prob);
                    
                 }
-                H += ctxEntropy * probCtx;
+                H = H + ctxEntropy * probCtx;
                 
             }
             modelEntropy = H;
@@ -72,10 +72,7 @@ class fcm {
 
 
         void estimate(map<string, map<char, int>> &model, char *filename){      
-            ifstream ifs(filename, std::ios::in);                               
-            if(!ifs.is_open()){
-                throw runtime_error("Error: Could not open file!");
-            }                                                                   // abre o ficheiro de entrada (simple.txt)
+            ifstream ifs(filename, std::ios::in);      
 
             string ctx;
             char aux;
@@ -93,38 +90,36 @@ class fcm {
                 count++;
 
                 totalOccur = 0;
-                // modelo contem contexto
-                if(model.count(ctx) > 0){
-                    map<char, int> &occur = model[ctx];
-                    // contexto tem o char que procuramos
-                    if(occur.count(aux) > 0){  
-                        noccur = occur[aux];
-                    }else{ // não tem
-                        noccur = 0;
-                    }
-                    for(auto i : occur){
-                        // contar o número total de entrys para o contexto
-                        totalOccur += i.second;
-                    }
-                }else{  // não contêm
+                
+                if(model.find(ctx) == model.end()){
                     noccur = 0;
                     totalOccur = 0;
+                    
+                }else{ 
+                    map<char, int> &occur = model[ctx];
+                    
+                    // if(occur.count(aux) > 0){  
+                    //     noccur = occur[aux];
+                    // }else{ // não tem
+                    //     noccur = 0;
+                    // }
+                    noccur = occur[aux];
+                    ///
+
+                    for(auto i : occur){
+                        totalOccur += i.second;
+                    }
                 }
+                
+                cout << noccur << endl;
+                sumH = sumH + (-log2((noccur + alpha) / (totalOccur + (alpha * ALPHABETH_SIZE))));
 
-                sumH += -log2((noccur + alpha) / (totalOccur + (alpha * ALPHABETH_SIZE)));
-
-                // update ctx
                 ctx = ctx.substr(1,ctx.size() -1);
                 ctx = ctx + aux;
             }
 
-            // save estimated distance
             distance = sumH;
-
-            // save estimated entropy
             estimatedEntropy = sumH / count;
-
-            // Update number of characters in the file
             nLetters = count;
         }
 
@@ -183,6 +178,7 @@ void loadModel(map<string, map<char, int>> &model, char *filename){
 }
 
 
+
 void readChar(ifstream &ifs, char *c){
     char s;
     do{
@@ -192,9 +188,6 @@ void readChar(ifstream &ifs, char *c){
         }
     }while((*c == '\n'|*c == '\t') && !ifs.eof());
 }
-
-
-
            
    
 };

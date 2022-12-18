@@ -54,17 +54,10 @@ RM = /usr/local/lib/python2.7/dist-packages/cmake/data/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-<<<<<<< Updated upstream
 CMAKE_SOURCE_DIR = /home/henriqueramos/Desktop/IC/IC_projeto3/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/henriqueramos/Desktop/IC/IC_projeto3/src/build
-=======
-CMAKE_SOURCE_DIR = /home/lara/Desktop/IC_projeto3/src
-
-# The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lara/Desktop/IC_projeto3/src/build
->>>>>>> Stashed changes
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -89,7 +82,6 @@ clean: CMakeFiles/findlang.dir/clean
 # Target rules for target CMakeFiles/test_fcm.dir
 
 # All Build rule for target.
-<<<<<<< Updated upstream
 CMakeFiles/test_fcm.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_fcm.dir/build.make CMakeFiles/test_fcm.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_fcm.dir/build.make CMakeFiles/test_fcm.dir/build
@@ -102,20 +94,6 @@ CMakeFiles/test_fcm.dir/rule: cmake_check_build_system
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/test_fcm.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles 0
 .PHONY : CMakeFiles/test_fcm.dir/rule
-=======
-CMakeFiles/findlang.dir/all:
-	$(MAKE) -f CMakeFiles/findlang.dir/build.make CMakeFiles/findlang.dir/depend
-	$(MAKE) -f CMakeFiles/findlang.dir/build.make CMakeFiles/findlang.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles --progress-num=1,2 "Built target findlang"
-.PHONY : CMakeFiles/findlang.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/findlang.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/findlang.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles 0
-.PHONY : CMakeFiles/findlang.dir/rule
->>>>>>> Stashed changes
 
 # Convenience name for target.
 test_fcm: CMakeFiles/test_fcm.dir/rule
@@ -131,28 +109,16 @@ CMakeFiles/test_fcm.dir/clean:
 
 # All Build rule for target.
 CMakeFiles/lang.dir/all:
-<<<<<<< Updated upstream
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lang.dir/build.make CMakeFiles/lang.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lang.dir/build.make CMakeFiles/lang.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles --progress-num=3,4 "Built target lang"
-=======
-	$(MAKE) -f CMakeFiles/lang.dir/build.make CMakeFiles/lang.dir/depend
-	$(MAKE) -f CMakeFiles/lang.dir/build.make CMakeFiles/lang.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles --progress-num=3,4 "Built target lang"
->>>>>>> Stashed changes
 .PHONY : CMakeFiles/lang.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lang.dir/rule: cmake_check_build_system
-<<<<<<< Updated upstream
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lang.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles 0
-=======
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/lang.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles 0
->>>>>>> Stashed changes
 .PHONY : CMakeFiles/lang.dir/rule
 
 # Convenience name for target.
@@ -168,7 +134,6 @@ CMakeFiles/lang.dir/clean:
 # Target rules for target CMakeFiles/findlang.dir
 
 # All Build rule for target.
-<<<<<<< Updated upstream
 CMakeFiles/findlang.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/findlang.dir/build.make CMakeFiles/findlang.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/findlang.dir/build.make CMakeFiles/findlang.dir/build
@@ -181,20 +146,6 @@ CMakeFiles/findlang.dir/rule: cmake_check_build_system
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/findlang.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles 0
 .PHONY : CMakeFiles/findlang.dir/rule
-=======
-CMakeFiles/test_fcm.dir/all:
-	$(MAKE) -f CMakeFiles/test_fcm.dir/build.make CMakeFiles/test_fcm.dir/depend
-	$(MAKE) -f CMakeFiles/test_fcm.dir/build.make CMakeFiles/test_fcm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles --progress-num=5,6 "Built target test_fcm"
-.PHONY : CMakeFiles/test_fcm.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/test_fcm.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test_fcm.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lara/Desktop/IC_projeto3/src/build/CMakeFiles 0
-.PHONY : CMakeFiles/test_fcm.dir/rule
->>>>>>> Stashed changes
 
 # Convenience name for target.
 findlang: CMakeFiles/findlang.dir/rule

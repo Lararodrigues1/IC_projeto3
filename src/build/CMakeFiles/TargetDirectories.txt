@@ -1,13 +1,5 @@
-<<<<<<< Updated upstream
 /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles/test_fcm.dir
 /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles/lang.dir
 /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles/findlang.dir
 /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles/edit_cache.dir
 /home/henriqueramos/Desktop/IC/IC_projeto3/src/build/CMakeFiles/rebuild_cache.dir
-=======
-/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles/rebuild_cache.dir
-/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles/findlang.dir
-/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles/edit_cache.dir
-/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles/lang.dir
-/home/lara/Desktop/IC_projeto3/src/build/CMakeFiles/test_fcm.dir
->>>>>>> Stashed changes
