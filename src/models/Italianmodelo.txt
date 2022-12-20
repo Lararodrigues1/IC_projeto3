@@ -1,0 +1,1117 @@
+3	0.1
+ "g	u	1
+ - 	o	1
+ 10	0	1
+ 19	3	2	4	4
+ 27	0	1
+ 90	0	1
+ A 	p	1
+ Ba	l	3
+ CC	-	1
+ Ca	m	1
+ Co	m	1
+ Cr	e	1
+ Di	s	1
+ Fi	n	3
+ Kr	i	1
+ La	 	1
+ Le	g	1
+ Og	n	1
+ Po	l	2
+ So	v	1
+ Un	i	1
+ Wi	k	1
+ Wo	j	1
+ a 	c	2	p	1
+ ac	q	1
+ ad	 	1	o	1
+ af	f	3
+ al	 	2	l	4	m	1	t	2
+ an	c	1	f	2	n	1
+ ba	c	2	l	1	s	1	t	1
+ bo	n	1
+ ca	m	2	p	1
+ ch	e	1	i	1
+ ci	r	1
+ co	l	1	m	6	n	12	o	1	p	1	s	2
+ cr	e	1
+ d'	i	1
+ da	l	4
+ de	g	1	i	1	l	19
+ di	 	9	s	1	v	2	z	1
+ du	r	1
+ e 	f	1	l	3	m	1	p	2	s	2	v	1
+ ed	 	4
+ ee	g	1	r	1	s	1
+ en	c	1
+ es	i	1	s	1
+ fi	n	5
+ fo	n	2	r	1
+ fr	a	1
+ fu	 	3	n	1	r	2
+ ga	r	1
+ ge	o	1
+ gi	u	1
+ gl	i	1
+ go	l	1
+ gr	a	1	o	1	u	1
+ gu	e	2	i	1
+ il	 	7	l	1
+ im	p	1
+ in	 	3	f	1	i	1	t	1
+ l'	i	1
+ la	 	7	r	1
+ le	 	6	e	2	g	1	o	1
+ li	b	1	c	1	m	1	n	2
+ ma	 	1	g	2	r	4
+ me	d	2
+ mi	g	2	l	1	n	2
+ mo	d	1	n	1
+ na	v	5
+ ne	l	5
+ no	n	2	v	1
+ nu	o	1
+ o 	c	1	l	1
+ oc	c	1
+ ol	t	2
+ on	l	1
+ op	e	2
+ ot	t	1
+ pa	r	4
+ pe	r	3
+ pi	√	2	c	1	u	2
+ po	l	1
+ pr	e	1
+ pu	√	2	b	2
+ qu	e	1
+ re	g	2
+ ri	s	1
+ sa	b	1
+ sc	a	1	o	1
+ se	c	1	t	2
+ si	a	2
+ so	t	2	v	2
+ sp	e	1	o	2
+ st	a	1
+ su	 	1
+ sv	o	1
+ te	a	3	d	4
+ ti	p	1
+ tr	a	5
+ un	 	1	'	1	a	1	i	2	n	1
+ vi	d	1
+ wi	k	1
+ zo	n	1
+ √®	 	6
+". 	A	1
+"gu	e	1
+'am	b	1
+'en	c	1
+'in	s	1	v	2
+'us	c	1
+, W	i	1
+, a	 	1	l	2
+, c	o	1
+, d	a	2	i	3
+, e	 	1	d	2	e	1
+, f	i	1
+, i	l	2	m	1	n	1
+, n	e	2
+- o	t	1
+-BY	-	1
+-SA	 	1
+. A	 	1
+. D	i	1
+. L	a	1
+. O	g	1
+..C	o	1
+..I	l	1
+..L	u	1
+..W	i	2
+.Co	r	1
+.Il	 	1
+.Lu	n	1
+.Wi	k	2
+0 l	i	1
+0 m	i	2
+0, 	a	1
+00 	m	2
+1 l	e	1
+100	 	1
+193	9	3
+194	0	1	1	1	4	1	5	2
+270	 	1
+39 	a	2	e	1
+40,	 	1
+41 	l	1
+44;	 	1
+45.	 	1	.	1
+4; 	l	1
+5. 	L	1
+5..	L	1
+70 	l	1
+9 a	 	1	l	1
+9 e	d	1
+900	 	1
+939	 	3
+940	,	1
+941	 	1
+944	;	1
+945	.	2
+: a	l	1
+: c	h	1
+: i	n	1
+; i	n	1
+; l	a	1	e	1
+;;r	i	1
+;;t	r	1
+;ri	s	1
+;tr	a	1
+? L	e	1
+A e	 	1
+A p	a	1
+BY-	S	1
+Bal	t	3
+C-B	Y	1
+CC-	B	1
+Cam	p	1
+Com	m	1
+Cor	d	1
+Cre	a	1
+Dis	p	1
+Fin	l	3
+Il 	t	1
+Kri	e	1
+La 	c	1
+Leg	g	1
+Lun	g	1
+Mar	y	1
+Ogn	i	1
+Pol	o	1	s	1
+SA 	e	1
+Sov	i	1
+Uni	o	1
+Vuo	i	1
+Wik	i	3
+Woj	e	1
+Y-S	A	1
+a "	g	1
+a 1	0	1
+a C	r	1
+a F	i	1
+a K	r	1
+a P	o	2
+a W	o	1
+a a	f	1
+a c	a	1	o	6
+a d	'	1	a	1	e	3	i	1
+a e	 	3	d	1	e	1
+a f	i	1	u	1
+a g	l	1	r	1	u	2
+a i	l	1	n	1
+a l	a	1	e	2	i	1
+a m	a	1	e	1	o	1
+a n	o	1
+a o	 	1	n	1
+a p	i	1	o	1
+a q	u	1
+a r	e	1
+a s	c	1	e	1	i	1
+a t	e	1
+a w	i	1
+a z	o	1
+a √	®	2
+a, 	e	2	i	2	n	1
+a. 	D	1
+a..	.	1	I	1
+a;;	r	1	t	1
+aMa	r	1
+aaM	a	1
+aag	u	1
+aau	n	1
+abb	i	1
+abi	l	1
+abo	r	1
+acc	a	1	h	1
+aci	n	3
+acq	u	1
+ad 	a	1
+adi	c	1	z	1
+ado	t	1
+aff	i	1	r	3
+afi	c	1
+agg	i	2
+agl	i	1
+agn	a	1	e	1
+agu	e	1
+al 	c	1	f	2	g	1	m	1	s	1
+ala	,	1
+ale	 	1	,	1
+ali	 	4	:	1	i	2	s	2
+all	'	1	a	2	e	1
+alm	a	1	e	1
+alt	e	1	i	4	r	1
+amb	i	1
+ame	n	4
+amm	e	1
+amp	a	2	o	1
+ana	c	1
+anc	h	1
+and	e	1	i	4	o	2
+anf	i	2
+ann	i	1
+ant	e	1	i	2	o	1
+api	l	1
+ar 	B	3
+ara	n	1	s	1
+ard	i	1
+are	 	2	?	1
+arg	o	2
+ari	 	2	;	1	a	1	n	3
+ark	a	1
+arl	e	1
+arn	e	1
+aro	n	3
+ars	i	3
+art	e	1	i	2
+ary	n	1
+arz	o	1
+asi	o	1
+ass	i	1	o	1
+ata	 	1
+ate	 	2	e	1	r	1
+ati	 	1	v	2
+ato	 	3	r	1
+atr	o	3
+att	a	1	e	1	i	1	u	1
+atu	i	1
+aun	i	1
+ava	l	5
+avv	e	1
+azi	o	4
+bac	i	3
+bal	t	1
+bas	s	1
+bat	t	3
+bbi	o	1
+bbl	i	3
+ber	a	1
+bie	 	2
+bil	e	2
+bio	s	1
+bit	o	1
+bli	c	2	g	1
+bon	i	1
+bor	a	1
+bre	 	5
+bui	r	1
+buz	i	1
+ca 	1	1	K	1	P	1	d	1	e	1
+ca,	 	1
+cab	i	1
+cal	a	1
+cam	e	1	p	2
+can	t	1
+cap	i	1
+car	l	1
+cat	o	1
+caz	i	1
+cca	 	1
+cch	i	1
+cco	l	1	r	1
+ce 	l	1
+cen	z	2
+cep	s	1
+che	 	4	,	1	.	1
+chi	,	1	u	1
+ci 	d	1	e	2
+cia	l	1
+cic	l	2
+cii	r	1
+cin	o	3
+cip	a	1
+cir	c	1
+cit	a	1
+clo	p	2
+clu	s	1
+co 	√	1	c	1	d	1	s	1
+co,	 	1
+col	a	2	l	1
+com	b	2	e	1	p	3	u	1
+con	 	1	c	1	d	1	f	3	s	1	t	7
+coo	m	1	p	1
+cop	i	1
+cor	s	1
+cos	i	1	t	1
+cqu	e	1
+cre	a	1
+d U	n	1
+d a	f	1	n	1
+d i	l	1
+d o	c	1
+d'i	n	1
+da 	g	1
+da;	;	1
+dal	 	4	e	1
+dam	e	1
+dde	t	1
+de 	a	1	c	1	l	1
+deg	l	1
+dei	 	1
+del	 	9	l	10
+den	t	1
+des	c	4	e	1	i	1
+det	t	1
+di 	F	2	a	1	b	1	d	1	g	2	l	1	n	1	o	1	u	1
+di,	 	1
+dia	 	8	l	1
+dic	a	1
+die	 	1
+dif	i	1
+dis	t	1
+div	e	3
+diz	i	2
+do 	l	1
+don	e	1
+dot	t	1
+dur	a	1
+dyc	e	1
+e -	 	1
+e 2	7	1
+e 9	0	1
+e C	a	1	o	1
+e S	o	1
+e a	c	1	f	1	l	2
+e b	a	1
+e c	a	2	h	1	o	5
+e d	a	1	e	10	i	3
+e e	 	2	n	1
+e f	i	2	o	2
+e g	u	1
+e i	l	2	n	2
+e l	'	1	a	3	e	3	i	1
+e m	e	1	i	1	o	1
+e n	a	2
+e o	p	1
+e p	e	1	i	1	u	3
+e r	e	1
+e s	a	1	o	2	p	1	u	1	v	1
+e t	e	1	r	2
+e u	n	1
+e v	i	1
+e √	®	1
+e, 	W	1	c	1	d	3	i	1	n	1
+e. 	O	1
+e..	C	1	W	2
+e: 	c	1
+e; 	l	1
+e? 	L	1
+ear	n	1
+eat	i	1	r	3
+ece	 	1
+eci	a	1	p	1
+eco	n	1
+ed 	U	1	a	1	i	1	o	1
+ede	s	5
+edi	a	5	e	1
+ee 	g	1
+eef	o	1
+eeg	r	1
+eel	a	1
+eem	a	1
+een	e	2
+eeo	s	1
+eep	r	1
+eer	i	1
+ees	o	1
+eev	o	1
+efo	r	1
+egg	e	1	i	1
+egi	s	1
+egl	i	1
+egn	a	1
+ego	l	1
+egr	a	1
+egs	m	1
+ei 	c	1
+el 	1	6	b	1	c	1	m	3	s	1
+ela	 	1
+ell	'	2	1	2	a	4	e	4	i	1	s	1
+ema	r	1
+emb	r	4
+eme	 	1
+emi	c	1
+enc	i	2
+end	e	2
+ene	l	1	m	1
+enn	a	1
+ens	a	1	o	1
+ent	a	2	e	3	i	5	o	1
+enu	t	1
+enz	a	2
+eog	r	1
+eon	a	1
+eos	t	1
+epr	o	1
+eps	 	1
+er 	b	1
+era	l	1	m	1	n	1	r	1	z	2
+erc	a	1
+ere	 	1	,	1
+eri	u	1
+ern	o	1
+ero	o	1
+err	a	4	q	1
+ers	a	1	i	4
+ert	a	1
+esc	a	3	h	1
+ese	 	2	n	1
+esi	 	1	m	1	s	1
+eso	p	1
+ess	e	1
+est	o	1
+eti	c	3
+ett	a	3	e	4	o	1
+evo	c	1
+fet	t	1
+ffi	c	1
+ffr	o	3
+fib	i	2
+fic	a	2	i	1	o	1
+fin	e	2	l	1	o	2
+fli	t	2
+fo 	d	1
+fon	d	2
+for	m	1	z	1
+fra	m	1
+fro	n	4
+fu 	p	1	t	2
+fun	g	1
+fur	o	2
+gar	a	1
+gat	o	1
+geo	g	1
+ger	e	1
+gge	r	1
+ggi	 	1	o	2
+gi 	l	1
+gio	 	2
+gis	t	1
+giu	g	1
+gli	 	1	a	3	e	1	i	1
+gna	 	1	t	1
+gne	 	1
+gni	 	1
+gno	 	1
+go 	c	1	o	1	p	1
+gol	e	1	f	1
+gom	e	1
+gra	f	1	n	1	t	1
+gro	s	1
+gru	p	1
+gsm	a	1
+gue	,	1	r	4
+gui	d	1
+he 	c	1	e	1	i	1	p	1
+he,	 	1
+he.	.	1
+hi,	 	1
+hiu	n	1
+i F	i	2
+i a	 	1	d	1	n	3
+i b	a	2
+i c	o	3
+i d	e	1	i	2
+i e	 	2	s	1
+i f	u	2
+i g	a	1	e	1	r	2
+i l	e	1	i	1
+i n	a	2	e	1	u	1
+i o	 	1	p	1
+i p	a	1	e	1	r	1
+i s	c	1	i	1	p	2	t	1
+i t	e	2	i	1	r	1
+i u	n	1
+i, 	a	1	d	1
+i: 	a	1	i	1
+i; 	i	1
+ia 	√	2	a	1	d	1	e	2	g	1	o	2	q	1	s	1
+ia,	 	2
+ia.	.	1
+ia;	;	1
+ial	e	1	i	1	m	1
+iar	g	1
+iat	a	1	o	1
+iav	v	1
+ibe	r	1
+ibi	e	2	l	1
+ibu	i	1	z	1
+ica	,	1	b	1	m	1	r	1	t	1	z	1
+icc	o	1
+ice	n	2
+ich	e	3
+ici	 	2	i	1
+icl	o	2
+ico	 	4	,	1	l	1	o	1
+ida	;	1
+idd	e	1
+ide	 	2
+ie 	d	1	s	3	t	2
+ieg	s	1
+iem	e	1
+iet	i	3
+ifi	c	2
+iga	t	1
+igl	i	3
+iia	r	1	v	1
+iie	 	1
+iii	n	1
+iin	 	1
+iir	i	1
+iki	p	3	q	1
+il 	b	1	c	1	g	1	m	2	n	1	t	1
+ila	t	1
+ile	 	1	,	1	:	1
+ili	t	2	z	1
+ill	a	1	c	1
+ima	 	1
+ime	n	1
+imi	t	1
+imp	e	1
+in 	a	1	c	1	o	1	p	1
+ina	t	1
+ind	i	1
+ine	 	6	,	1	e	1
+inf	e	1
+ing	u	1
+ini	z	1
+inl	a	4
+ino	 	5
+ins	i	1
+int	e	1
+inu	a	1
+inv	a	1	e	2
+io 	d	2
+ion	a	2	e	5	i	3
+ios	o	1
+ipa	r	1
+ipe	d	3
+ipi	c	1
+ipr	e	1
+iqu	e	1
+irc	a	1
+ire	 	3
+iri	s	1
+is 	√	1
+isp	e	1	o	1
+ist	e	1	i	1	r	3
+isu	l	1
+ita	 	1	.	1	r	1	t	1
+ito	 	1	i	1
+itt	o	2
+it√	†	3
+iug	n	1
+iun	q	1
+iut	i	1	t	2
+iva	 	1
+ive	 	1	r	3
+izi	a	1	o	2
+izz	a	1
+i√π	π	1	 	1
+jen	n	1
+ka 	W	1
+kaa	M	1
+kip	e	3
+kiq	u	1
+l 1	9	6
+l b	a	2
+l c	o	3
+l f	i	1	o	1
+l g	i	1	o	1
+l m	a	6
+l n	o	1
+l s	e	2
+l t	e	1	r	1
+l'a	m	1
+l'i	n	2
+l'u	s	1
+l19	3	1	4	1
+la 	F	1	P	1	c	3	d	1	e	1	f	1	m	1	p	1	r	1	s	1	t	1	w	1
+la,	 	1
+laa	g	1
+lab	o	1
+lac	c	1
+lan	d	4
+lar	e	2	g	1
+lat	e	1
+lco	m	1
+le 	C	1	a	2	b	1	e	1	f	2	i	1	o	1	r	1	u	1
+le,	 	2
+le.	.	1
+le:	 	1
+lee	f	1	m	1	o	1	p	1	v	1
+leg	g	1
+leo	n	1
+lfo	 	1
+li 	d	1	e	1	p	1	s	2	t	1
+li:	 	1
+lia	 	1	,	1	t	1
+lib	e	1
+lic	a	2	e	2
+lie	 	1
+lig	a	1
+lii	a	2	e	1
+lim	i	1
+lin	e	2	g	1
+lis	 	1	t	1
+lit	√	1	a	1	t	2
+liz	z	1
+ll'	a	1	i	1	u	1
+ll1	9	2
+lla	 	5	a	1	b	1	r	1
+llc	o	1
+lle	 	2	e	3
+lli	 	1
+lls	e	1
+lma	n	1
+lme	n	1
+lon	i	1
+lop	e	2
+lse	t	1
+lsk	a	1
+lta	r	1
+lte	r	1	s	1
+lti	c	4
+ltr	e	3
+lus	i	1
+ma 	l	1	n	1
+mag	g	2
+man	a	1
+mar	 	3	i	3	z	1
+mba	t	2
+mbi	t	1
+mbr	e	4
+me 	d	1	i	1
+med	e	1	i	1
+men	t	8
+mer	c	1
+mic	h	1	o	1
+mig	l	2
+mil	i	1
+min	a	1	e	1
+mit	a	1
+mme	n	1
+mmo	n	1
+mod	i	1
+mon	d	1	s	1
+mpa	g	2
+mpe	g	1	n	1
+mpo	n	1	r	1
+mpr	e	1
+mun	e	1
+n a	l	1
+n c	o	1
+n f	u	2
+n m	i	1
+n o	l	1
+n p	a	1
+n'e	n	1
+na 	f	1	i	1
+na,	 	1
+nac	c	1
+nal	i	1
+nar	d	1	i	1	k	1
+nat	e	2
+nav	a	5
+nba	c	1
+nch	e	1
+nci	c	2
+ncl	u	1
+nda	 	1	l	1	m	1
+nde	 	1	n	1	s	1
+ndi	 	2	a	4
+ndo	 	1	n	1
+ne 	√	1	S	1	c	3	d	4	e	1	i	1	m	1	n	1	s	1	t	1
+ne,	 	1
+nee	 	1	n	1
+nel	 	3	l	3
+nem	i	1
+nfe	t	1
+nfi	b	2
+nfl	i	2
+nfr	o	1
+ngo	 	2
+ngu	e	1
+ni 	a	2	c	1	p	1	s	1
+nia	;	1
+nib	i	1
+nif	i	1
+nil	a	1
+nio	n	1
+nit	√	2
+niz	i	1
+nla	n	4
+nli	n	1
+nna	,	1
+nnb	a	1
+nni	 	1
+nno	b	1
+no 	a	2	c	1	d	2	f	1	l	1	p	1	t	1
+no"	.	1
+nob	b	1
+non	 	1	n	1
+noo	i	1	q	1
+not	u	1
+nov	e	1
+nqu	e	1
+ns 	C	1
+nsa	 	1
+nsi	e	1	g	1
+nso	,	1
+nta	 	1	l	1	r	4
+nte	 	2	,	1	e	1	n	3
+nti	 	3	:	1	i	1	l	1	n	1	r	1
+nto	 	1	,	1
+ntr	i	2	o	2
+nua	r	1
+nuo	v	1
+nut	o	1
+nva	s	1
+nve	c	1	r	1
+nza	 	1	.	1
+o a	d	1	l	2
+o c	i	1	o	2	r	1
+o d	e	7	i	4	u	1
+o e	 	1	e	1	s	1
+o f	r	1	u	1
+o i	l	2
+o l	a	3
+o n	e	1	o	1
+o o	l	1
+o p	a	1	i	1
+o r	i	1
+o s	o	2
+o t	r	1
+o √	®	2
+o".	 	1
+o, 	a	1	d	1	e	2	f	1	i	1
+obb	l	1
+obr	e	1
+occ	o	1
+oci	 	1
+odi	f	1	v	1
+ogr	a	1
+oi 	p	1
+oid	e	1
+oin	v	1
+oje	n	1
+ola	 	1	c	1	r	1
+ole	 	1
+olf	o	1
+oli	c	1
+oll	a	1
+olo	n	1
+ols	k	1
+olt	e	1	r	2
+oma	r	1
+omb	a	2
+ome	 	1	n	1	r	1
+omm	o	1
+omp	e	1	o	1	r	1
+omu	n	1
+on 	f	1	m	1
+ona	l	1	r	2
+onc	l	1
+ond	a	3	i	1
+one	 	7
+onf	l	2	r	1
+oni	 	3	a	1	b	1	f	1
+onl	i	1
+onn	o	1
+ono	 	3	o	2	t	1
+ons	 	1	i	1
+ont	a	4	e	2	i	1	r	4
+ood	i	1
+ooi	n	1
+ool	i	1
+oom	e	1
+oop	e	1
+ooq	u	1
+ope	d	2	r	3
+opi	a	1
+opr	a	1	i	1
+oqu	i	1
+ora	d	1	t	1
+ord	y	1
+ore	.	1
+ori	a	1
+orm	i	1
+ors	e	1
+ort	a	1
+orz	e	1
+osi	d	1
+oso	,	1
+oss	i	1
+ost	a	1	i	1	o	2
+ott	a	1	o	3
+otu	s	1
+ove	.	1	m	1
+ovi	e	3
+pag	n	2
+par	a	1	e	1	t	3
+pec	i	1
+ped	i	5
+peg	n	1
+pen	s	1
+per	 	1	a	3	r	1	t	1
+pet	t	1
+pi 	n	1
+pia	t	1
+pic	c	1	i	1
+pil	l	1
+piu	t	2
+pi√	π	2
+pol	a	1
+pon	i	1	o	1
+por	a	1	e	1	t	1
+ppi	 	1
+pra	t	1
+pre	n	1	s	2
+pri	e	1
+pro	p	1
+ps 	u	1
+pub	b	2
+pu√	≤	2
+que	 	2	l	1	s	1	t	1
+qui	n	1
+r B	a	3
+r b	o	1
+ra 	c	1	d	1	g	1	i	1	l	1	m	1	z	1
+raa	u	1
+rad	i	2
+raf	f	1	i	1
+ral	i	1
+ram	e	1	m	1
+ran	d	2	t	2
+rar	o	1
+ras	s	1
+rat	i	1	t	1	u	1
+raz	i	3
+rca	 	1	n	1
+rdi	,	1
+rdy	c	1
+re 	-	1	2	1	9	1	a	1	c	1	d	6	l	3
+re,	 	1
+re.	.	1
+re?	 	1
+rea	r	1	t	1
+reg	i	1	o	1
+ren	d	1
+res	e	2
+ret	t	1
+rgo	 	1	m	1
+ri 	g	1	t	2
+ri;	 	1
+ria	,	1	.	1
+rib	u	2
+rie	 	1	g	1
+rin	e	3
+rip	r	1
+ris	p	1	t	1	u	1
+riu	t	1
+rka	 	1
+rle	.	1
+rmi	c	1
+rne	 	1
+rno	"	1
+ro 	d	3	i	2
+ron	o	5	t	4
+roo	d	1
+rop	r	1
+ros	s	1
+rqu	e	1
+rra	 	4
+rrq	u	1
+rsa	r	1
+rse	r	1
+rsi	 	7
+rta	m	1	n	1
+rte	c	1
+rti	c	1	r	1
+rup	p	1
+ryn	a	1
+rze	 	1
+rzo	 	1
+s C	C	1
+s l	e	1
+s u	n	1
+s √	®	1
+sa 	g	1
+sab	b	1
+sar	i	1
+sca	 	3	l	1
+sch	e	1
+sci	t	1
+sco	n	1
+se 	c	1	d	1
+sec	o	1
+sen	t	1
+ser	e	1	o	1
+set	t	3
+si 	a	2	c	1	f	2	g	1	n	1	s	2
+sia	 	2
+sid	d	1
+sie	m	1
+sig	l	1
+sim	a	1
+sio	n	2
+sis	t	1
+sit	o	1
+ska	a	1
+sma	r	1
+so 	e	1
+so,	 	2
+sop	r	1
+sot	t	2
+sov	i	2
+spe	c	1	t	1
+spo	n	1	r	2
+sse	r	1
+ssi	 	1	t	1
+sso	 	1
+sta	 	1	t	1
+ste	n	1
+sti	c	1	l	1
+sto	 	3
+str	a	1	e	1	i	1
+su 	p	1
+sul	t	1
+svo	l	1
+ta 	"	1	d	2	l	2	m	1	s	1
+ta.	 	1
+tag	l	1
+tal	i	1
+tam	e	1
+tan	d	1	t	1
+tar	i	2	o	1	s	3
+tat	e	1	i	1
+te 	c	1	d	1	f	1	m	1
+te,	 	1
+te;	 	1
+tea	t	3
+tec	i	1
+ted	e	4
+tee	l	1	n	1
+tem	b	3
+ten	d	1	s	1	t	1	u	1
+ter	a	2	s	1
+tes	i	1
+ti 	b	1	n	1	o	1	t	1
+ti:	 	1
+tic	a	1	h	2	i	1	o	5
+tii	i	1
+til	e	1	i	2
+tim	e	1
+tin	u	1
+tip	i	1
+tir	e	2
+tiv	a	1	e	1
+to 	√	1	a	1	d	2	e	2	f	1	n	2	r	1	s	1
+to,	 	3
+tob	r	1
+toi	d	1
+tom	a	1
+too	l	1
+tor	i	1
+tos	t	2
+tra	 	3	a	1	d	1	f	1	z	1
+tre	 	3	t	1
+tri	 	1	b	2
+tro	 	5
+tta	 	3	g	1	n	1
+tte	;	1	m	3	r	1
+tti	m	1
+tto	 	2	,	2	b	1	m	1	o	1	s	2
+ttu	t	1
+tui	t	1
+tus	 	1
+tut	t	1
+t√†	 	3
+u p	i	2
+u t	e	2
+uar	o	1
+ubb	l	2
+ue 	p	2
+ue,	 	1
+uel	l	1
+uer	r	4
+ues	t	1
+uet	t	1
+ugn	o	1
+uid	a	1
+uin	d	1
+uir	e	1
+uit	a	1
+ult	a	1
+un 	f	1
+un'	e	1
+una	 	1
+une	e	1
+ung	o	2
+uni	l	1	t	2
+unn	b	1
+unq	u	1
+uoi	 	1
+uov	e	1
+upp	i	1
+ura	n	1
+uro	n	2
+us 	l	1
+usc	i	1
+usi	o	1
+uti	l	1
+uto	 	1
+utt	o	3
+uzi	o	1
+u√≤	 	2
+va 	e	1
+val	i	5
+vas	i	1
+ve 	C	1
+ve.	 	1
+vec	e	1
+vem	b	1
+ver	n	1	s	4
+vid	e	1
+vie	t	3
+voc	i	1
+vol	t	1
+vve	r	1
+wik	i	1
+yce	p	1
+yna	r	1
+za 	C	1
+za.	.	1
+zat	o	1
+ze 	n	1
+zia	l	1
+zio	n	7
+zo 	d	1
+zon	e	1
+zza	t	1
+† l	e	1
+† n	a	1	e	1
+® c	o	1
+® l	i	1
+® p	u	1
+® u	n	3
+≤ c	o	1
+≤ p	e	1
+π m	i	1
+πri	p	1
+ππr	i	1
+√† 	l	1	n	2
+√® 	c	1	l	1	p	1	u	3
+√≤ 	c	1	p	1
+√π 	m	1
+√ππ	r	1

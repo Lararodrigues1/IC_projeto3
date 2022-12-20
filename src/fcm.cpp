@@ -6,6 +6,7 @@
 #include<map>
 #include<string>
 
+
 using namespace std;
 
 #define ALPHABETH_SIZE 27
@@ -26,12 +27,12 @@ class fcm {
             this->alpha= alpha;
         }
 
-        double distance;
-        double modelEntropy;
-        double estimatedEntropy;
-        int nLetters;
+        double dist;
+        double m_entropy;
+        double e_entropy;
+        int num_letras;
     
-        void calculateModelEntropy(map<string, map<char, int>> &model){
+        void getEntropy(map<string, map<char, int>> &model){
         
         
             int aux;
@@ -61,13 +62,12 @@ class fcm {
                 ctxEntropy = 0;
                 for(auto i : occur){
                     prob = (double) i.second / ctxTotal;
-                    ctxEntropy -= prob * log2(prob);
-                   
+                    ctxEntropy -= prob * log2(prob);       
                 }
                 H += ctxEntropy * probCtx;
                 
             }
-            modelEntropy = H;
+            m_entropy = H;
         }
 
 
@@ -119,17 +119,17 @@ class fcm {
                 ctx.append(1, aux);
             }
 
-            // save estimated distance
-            distance = sumH;
+            // save estimated dist
+            dist = sumH;
 
             // save estimated entropy
-            estimatedEntropy = sumH / count;
+            e_entropy = sumH / count;
 
             // Update number of characters in the file
-            nLetters = count;
+            num_letras = count;
             }
 
-void loadModel(map<string, map<char, int>> &model, char *filename){
+void getModelo(map<string, map<char, int>> &model, char *filename){
     ifstream ifs(filename, std::ios::in);
     if(!ifs.is_open()){
         throw runtime_error("Error: Could not open file!");
@@ -166,7 +166,7 @@ void loadModel(map<string, map<char, int>> &model, char *filename){
 
     ofstream myfile;
     myfile.open (destFilename);
-    myfile << "AAAAAAAAAAAAA" << k << "\t" << alpha << endl;                           // escreve no ficheiro o alpha e k que usamos                         
+    myfile << k << "\t" << alpha << endl;                           // escreve no ficheiro o alpha e k que usamos                         
     for(auto i : model) {
         map<char, int> &occur = model[i.first];
         myfile << i.first;                                          // i.first tem as k letras que tamos a ver

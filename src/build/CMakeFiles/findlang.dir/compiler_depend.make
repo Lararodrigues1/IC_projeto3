@@ -3,7 +3,7 @@
 
 CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projeto3/src/findlang.cpp \
   /usr/include/stdc-predef.h \
-  /home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm.cpp \
+  /home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm_novo.cpp \
   /usr/include/c++/7/fstream \
   /usr/include/c++/7/istream \
   /usr/include/c++/7/ios \
@@ -221,8 +221,24 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
   /usr/include/c++/7/array \
   /usr/include/c++/7/bits/uses_allocator.h \
   /usr/include/c++/7/bits/invoke.h \
-  /usr/include/c++/7/bits/stl_multimap.h
+  /usr/include/c++/7/bits/stl_multimap.h \
+  /usr/include/c++/7/vector \
+  /usr/include/c++/7/bits/stl_construct.h \
+  /usr/include/c++/7/bits/stl_uninitialized.h \
+  /usr/include/c++/7/bits/stl_vector.h \
+  /usr/include/c++/7/bits/stl_bvector.h \
+  /usr/include/c++/7/bits/vector.tcc \
+  /usr/include/c++/7/iterator \
+  /usr/include/c++/7/bits/stream_iterator.h \
+  /usr/include/c++/7/numeric \
+  /usr/include/c++/7/bits/stl_numeric.h
 
+
+/usr/include/c++/7/numeric:
+
+/usr/include/c++/7/iterator:
+
+/usr/include/c++/7/bits/stl_vector.h:
 
 /usr/include/c++/7/bits/invoke.h:
 
@@ -302,6 +318,8 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 
 /usr/include/c++/7/bits/predefined_ops.h:
 
+/usr/include/c++/7/bits/stream_iterator.h:
+
 /usr/include/c++/7/bits/stl_pair.h:
 
 /usr/include/c++/7/bits/enable_special_members.h:
@@ -323,6 +341,10 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 /usr/include/c++/7/bits/stl_algobase.h:
 
 /usr/include/c++/7/exception:
+
+/usr/include/c++/7/bits/concept_check.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
@@ -346,6 +368,8 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 
 /usr/include/time.h:
 
+/usr/include/c++/7/bits/stl_construct.h:
+
 /usr/include/c++/7/cstdint:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
@@ -355,12 +379,6 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 /usr/include/locale.h:
 
 /usr/include/c++/7/backward/binders.h:
-
-/usr/include/c++/7/bits/concept_check.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/c++/7/bits/exception_ptr.h:
 
@@ -374,6 +392,8 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
+/home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm_novo.cpp:
+
 /usr/include/c++/7/iosfwd:
 
 /usr/include/x86_64-linux-gnu/asm/errno.h:
@@ -382,13 +402,13 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+
 /usr/include/c++/7/iostream:
 
 /usr/include/c++/7/fstream:
 
 /usr/include/c++/7/bits/stl_iterator_base_funcs.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
@@ -460,6 +480,8 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 
 /usr/include/c++/7/cerrno:
 
+/usr/include/c++/7/vector:
+
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
 
 /usr/include/c++/7/bits/stl_map.h:
@@ -487,6 +509,8 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 /usr/include/c++/7/string:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/gthr.h:
 
@@ -590,6 +614,8 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
+/usr/include/c++/7/bits/vector.tcc:
+
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
@@ -608,6 +634,8 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 
 /usr/include/c++/7/bits/basic_ios.h:
 
+/usr/include/c++/7/bits/stl_numeric.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib.h:
@@ -624,9 +652,9 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
-/home/henriqueramos/Desktop/IC/IC_projeto3/src/fcm.cpp:
-
 /usr/include/c++/7/bits/std_abs.h:
+
+/usr/include/c++/7/bits/stl_uninitialized.h:
 
 /usr/include/stdint.h:
 
@@ -639,6 +667,8 @@ CMakeFiles/findlang.dir/findlang.cpp.o: /home/henriqueramos/Desktop/IC/IC_projet
 /usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio2.h:
+
+/usr/include/c++/7/bits/stl_bvector.h:
 
 /usr/include/errno.h:
 

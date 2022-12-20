@@ -2,10 +2,12 @@
 #include<string>
 #include<iostream>
 #include<cmath>
-#include <sstream>
+#include<sstream>
 #include<map>
 #include<string>
-
+#include<vector>
+#include<iterator>
+#include<numeric>
 using namespace std;
 
 #define ALPHABETH_SIZE 27
@@ -26,62 +28,66 @@ class fcm {
             this->alpha= alpha;
         }
 
-        double distance;
-        double modelEntropy;
-        double estimatedEntropy;
-        int nLetters;
+        double dist;
+        double m_entropy;
+        double e_entropy;
+        int num_letras;
     
-        void calculateModelEntropy(map<string, map<char, int>> &model){
+        void getEntropy(map<string, map<char, int>> &modelo){
         
         
             int aux;
-            int totalEntrys = 0;
-            map<string, int> totalOccurCtx;
-            for(auto i : model){
-                map<char, int> &occur = model[i.first];
+            int entradas = 0;
+            map<string, int> num_contexto;
+            for(std::map<string,std::map<char,int>>::iterator it = modelo.begin(); it != modelo.end(); ++it){
+                map<char, int> &mapa_novo = modelo[it->first];
                 aux = 0;
-                for(auto i : occur){
-                    aux = aux + i.second;
+                std::vector<int> value;
+                for(std::map<char,int>::iterator it = mapa_novo.begin(); it != mapa_novo.end(); ++it){
+                    value.push_back(it->second);
                 }
-                totalOccurCtx[i.first] = aux;
-                totalEntrys = totalEntrys + aux;
+                int aux = std::accumulate(value.begin(), value.end(), 0);
+
+                num_contexto[it->first] = aux;
+                entradas = entradas + aux;
                 
             }
            
-            double probCtx, prob, ctxEntropy, H;
-            int ctxTotal;
+            double contexto_prob, prob, contexto_entropia, H;
+            int total;
 
-            for(auto i : model){
-                map<char, int> &occur = model[i.first];
+            for(std::map<string,std::map<char,int>>::iterator it = modelo.begin(); it != modelo.end(); ++it){
+                map<char, int> &mapa_novo = modelo[it->first];
 
-                ctxTotal = totalOccurCtx[i.first];
-                probCtx = (double)ctxTotal / totalEntrys;
+                total = num_contexto[it->first];
+                contexto_prob = (double)total / entradas;
 
                
-                ctxEntropy = 0;
-                for(auto i : occur){
-                    prob = (double) i.second / ctxTotal;
-                    ctxEntropy = ctxEntropy - prob * log2(prob);
-                   
+                contexto_entropia = 0;
+                
+                for(std::map<char,int>::iterator it = mapa_novo.begin(); it != mapa_novo.end(); ++it) {
+                    prob = (double) it->second / total;
+                    contexto_entropia = contexto_entropia - prob * log2(prob);
                 }
-                H = H + ctxEntropy * probCtx;
+                
+                H = H + contexto_entropia * contexto_prob;
                 
             }
-            modelEntropy = H;
+            m_entropy = H;
         }
 
 
-        void estimate(map<string, map<char, int>> &model, char *filename){      
+        void estimate(map<string, map<char, int>> &modelo, char *filename){      
             ifstream ifs(filename, std::ios::in);      
 
-            string ctx;
+            string contexto;
             char aux;
             for (int i = 0; i < k; i++){
                 readChar(ifs, &aux);
-                ctx = ctx + aux;
-            }                                                                   // ctx fica com o primeiro conjunto de chars com tamanho k
+                contexto = contexto + aux;
+            }                                                                   // contexto fica com o primeiro conjunto de chars com tamanho k
 
-            int noccur, totalOccur;
+            int n, total_n;
             double sumH = 0;
             int count = 0;
 
@@ -89,63 +95,65 @@ class fcm {
                 readChar(ifs, &aux);
                 count++;
 
-                totalOccur = 0;
+                total_n = 0;
                 
-                if(model.find(ctx) == model.end()){
-                    noccur = 0;
-                    totalOccur = 0;
+                if(modelo.find(contexto) == modelo.end()){
+                    n = 0;
+                    total_n = 0;
                     
                 }else{ 
-                    map<char, int> &occur = model[ctx];
+                    map<char, int> &mapa_novo = modelo[contexto];
                     
-                    // if(occur.count(aux) > 0){  
-                    //     noccur = occur[aux];
+                    // if(mapa_novo.count(aux) > 0){  
+                    //     n = mapa_novo[aux];
                     // }else{ // não tem
-                    //     noccur = 0;
+                    //     n = 0;
                     // }
-                    noccur = occur[aux];
-                    ///
-
-                    for(auto i : occur){
-                        totalOccur += i.second;
+                    n = mapa_novo[aux];
+                
+                    std::vector<int> value;
+                    for(std::map<char,int>::iterator it = mapa_novo.begin(); it != mapa_novo.end(); ++it){
+                        value.push_back(it->second);
                     }
+                    total_n = std::accumulate(value.begin(), value.end(), 0);
+             
                 }
                 
                 
-                sumH = sumH + (-log2((noccur + alpha) / (totalOccur + (alpha * ALPHABETH_SIZE))));
+                sumH = sumH + (-log2((n + alpha) / (total_n + (alpha * ALPHABETH_SIZE))));
 
-                ctx = ctx.substr(1,ctx.size() -1);
-                ctx = ctx + aux;
+                contexto = contexto.substr(1,contexto.size() -1);
+                contexto = contexto + aux;
             }
 
-            distance = sumH;
-            estimatedEntropy = sumH / count;
-            nLetters = count;
+            dist = sumH;
+            e_entropy = sumH / count;
+            num_letras = count;
         }
 
-void loadModel(map<string, map<char, int>> &model, char *filename){
+void getModelo(map<string, map<char, int>> &modelo, char *filename){
     ifstream ifs(filename, std::ios::in);
-    string ctx, aux_s;
+    string contexto, aux_s;
     char aux;
     for (int i = 0; i < k; i++){
         readChar(ifs, &aux);
-        ctx = ctx + aux;                
+        contexto = contexto + aux;                
     }
     while(!ifs.eof()){
         readChar(ifs, &aux);
-        if(model.find(ctx) == model.end()){
+        if(modelo.find(contexto) == modelo.end()){
             map<char, int> empty;           
-            model[ctx] = empty;             
-            model[ctx][aux]++;
+            modelo[contexto] = empty;             
+            modelo[contexto][aux]++;
         }else{
-            model[ctx][aux]++;              
+            modelo[contexto][aux]++;              
         }        
-        ctx = ctx.substr(1,ctx.size() -1);
-        ctx = ctx + aux;                
+        contexto = contexto.substr(1,contexto.size() -1);
+        contexto = contexto + aux;                
     };
 
     // NOME DO FICHEIRO
-    string destFilename = "";
+    string fich_destino = "";
     string flag = "";
     
     for (int i = string(filename).size(); i-- > 0;){
@@ -153,24 +161,24 @@ void loadModel(map<string, map<char, int>> &model, char *filename){
             flag = "1";
         }
         if(flag == "1"){
-            destFilename = filename[i] + destFilename;
+            fich_destino = filename[i] + fich_destino;
         }
     }
-    destFilename = "." + destFilename.substr(1,destFilename.size() -2) + "model.txt";
-    cout << "created file path: " << destFilename << endl;   
+    fich_destino = "." + fich_destino.substr(1,fich_destino.size() -2) + "modelo.txt";
+    cout << "created file path: " << fich_destino << endl;   
    
        
 
     ofstream myfile;
-    myfile.open (destFilename);
-    myfile <<  "k: " << k << "\t" << "alpha: " << alpha << endl;                           // escreve no ficheiro o alpha e k que usamos                         
+    myfile.open (fich_destino);
+    myfile << k << "\t" << alpha << endl;                           // escreve no ficheiro o alpha e k que usamos                         
     
-    for(auto i : model) {
-        map<char, int> &occur = model[i.first];
-        myfile << i.first;                                          // i.first tem as k letras que tamos a ver
+    for(std::map<string,std::map<char,int>>::iterator it = modelo.begin(); it != modelo.end(); ++it) {
+        map<char, int> &mapa_novo = modelo[it->first];
+        myfile << it->first;                                          // i.first tem as k letras que tamos a ver
         
-        for(auto j : occur){
-            myfile << '\t' << j.first << '\t' << j.second;          // j.first é letra que vem a seguir e j.second é o numero de vezes em q aparece 
+        for(std::map<char,int>::iterator it = mapa_novo.begin(); it != mapa_novo.end(); ++it){
+            myfile << '\t' << it->first << '\t' << it->second;          // j.first é letra que vem a seguir e j.second é o numero de vezes em q aparece 
         }
         myfile << endl;
     }                                                               // este for serve para escrever oque está no mapa para o ficheiro

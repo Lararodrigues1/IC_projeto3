@@ -33,7 +33,7 @@ int main(int argc, char** argv)
         
         cout << "Begin processing " << argv[i] << endl;
         
-        f.loadModel(model, argv[i]);
+        f.getModelo(model, argv[i]);
         
     
 
@@ -43,12 +43,12 @@ int main(int argc, char** argv)
 
         if(i == 1) {
             modelLang = argv[i];
-            distMin = f.distance;
+            distMin = f.dist;
         }
         else {
-            if(distMin > f.distance) {
+            if(distMin > f.dist) {
                 modelLang = argv[i];
-                distMin = f.distance;
+                distMin = f.dist;
             }
         }
         cout << "Model loaded sucessfully!" << endl;

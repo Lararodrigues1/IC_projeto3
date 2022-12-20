@@ -30,15 +30,15 @@ int main(int argc, char** argv)
     map<string, map<char, int>> model;
     cout << "Begin processing..." << endl;
    
-    f.loadModel(model, argv[1]);
+    f.getModelo(model, argv[1]);
   
         
     cout << "Model loaded sucessfully!" << endl;
 
     //estimated number of bits required to compress second file
     f.estimate(model, argv[2]);
-    cout << "Estimated number of bits to compress file: " << f.distance<< endl;
-    cout << "Estimated number of bits per character: " << f.distance/f.nLetters << endl;
+    cout << "Estimated number of bits to compress file: " << f.dist<< endl;
+    cout << "Estimated number of bits per character: " << f.dist/f.num_letras << endl;
 
     
     return 0;
