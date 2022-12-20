@@ -1,0 +1,1913 @@
+5	0.1
+ (IUC	N	1
+ (fot	o	1
+ (ima	g	1
+ (lei	a	1
+ - qu	e	1
+ 2,5m	.	1
+ 200 	m	2
+ 2011	 	1
+ 50m,	 	1
+ AAes	p	1
+ Ango	l	1
+ Arge	n	1
+ Bras	i	2
+ Colu	m	1
+ Cons	e	1
+ Con√	≠	1
+ Cr√≠	t	1
+ E qu	e	2
+ Eiff	e	1
+ Evan	g	1
+ Exti	n	1
+ Ferr	o	1
+ Guer	r	1
+ Gust	a	1
+ Hall	?	1
+ I do	 	1
+ Igre	j	1
+ Inte	r	1
+ Mari	l	2
+ Mont	y	1
+ Natu	r	2
+ Nord	e	1
+ Nova	k	1
+ Ocup	a	1
+ Open	 	1
+ Pal√	°	1
+ Para	g	1
+ Pedr	o	1
+ Perg	u	1
+ Peri	g	1
+ Port	o	1
+ Prob	l	1
+ Sama	n	1
+ Sava	n	1
+ Stos	u	1
+ Sua 	f	1
+ Uni√	£	1
+ Wiki	p	1
+ XIX 	f	1
+ a Co	n	1
+ a Gu	e	1
+ a Ma	r	1
+ a Un	i	1
+ a en	c	1
+ a es	p	1
+ a gr	a	1
+ a ma	i	1
+ a pa	r	1
+ a um	a	1
+ acad	√	1
+ alto	 	1
+ altu	r	2
+ angu	s	1
+ anos	 	1
+ ao P	r	1
+ ao l	a	1
+ apen	a	1
+ arb√	≥	1
+ atin	g	1
+ atr√	°	1
+ auto	r	1
+ bras	i	1
+ cape	l	1
+ cart	a	1
+ cham	a	1
+ colo	c	1
+ colu	n	1
+ com 	u	1	v	1
+ como	 	3
+ conh	e	1
+ cons	e	1
+ cont	e	1	u	1
+ cora	√	1
+ cr√™	 	1
+ cr√≠	t	2
+ curi	.	1
+ da A	r	1
+ da N	a	1
+ da a	u	1
+ da f	l	1
+ da i	g	1
+ da n	a	1
+ daaL	a	1
+ dand	o	1
+ de 2	,	1	0	1
+ de 5	0	1
+ de F	e	1
+ de G	u	1
+ de M	o	1
+ de N	o	1
+ de P	e	1
+ de a	c	1	n	1
+ de c	a	1
+ de e	s	1
+ de o	r	1
+ de s	i	1
+ deeL	u	1
+ desc	r	1
+ diss	e	1
+ di√¢	m	1
+ di√≥	i	1
+ do B	r	2
+ do E	v	1
+ do P	a	1
+ do p	e	1
+ do s	√	1
+ doad	o	1
+ domi	n	1
+ doss	R	1
+ dura	n	1
+ e Pa	r	1
+ e Sa	m	1
+ e do	s	1
+ e ho	j	1
+ e se	m	1
+ econ	√	1
+ edif	√	1
+ edit	a	1
+ eear	a	1
+ eles	 	1
+ elog	i	1
+ em P	e	1
+ em p	e	1
+ em s	u	1
+ enci	c	1
+ enco	n	1
+ entr	e	1
+ envo	l	1
+ espa	√	1
+ esp√	©	1
+ esta	c	1
+ est√	°	1
+ expl	o	1
+ femi	n	1
+ flor	e	1
+ foi 	d	1	i	2	t	1
+ form	a	1
+ fra√	ß	1
+ gran	d	1
+ heli	√	1
+ hist	√	1
+ hoje	 	1
+ igre	j	1
+ ind√	≠	1
+ inic	i	1
+ inte	n	1
+ isso	 	1
+ km¬≤	,	1
+ lado	 	1
+ lame	n	1
+ livr	e	1
+ made	i	1
+ maio	r	1
+ mais	 	2	.	1
+ majo	r	1
+ mass	s	1	t	1
+ mate	m	1
+ mil 	k	1
+ milh	√	1
+ mist	a	1
+ muit	o	1
+ m√≠n	i	1
+ na c	a	1
+ na f	e	1
+ na p	a	1
+ nas 	p	1
+ na√ß	√	1
+ no P	o	1
+ no s	u	1
+ nome	 	1	s	1
+ num 	p	1
+ numm	m	1
+ n√£o	 	2
+ o co	r	1
+ o es	p	1
+ o pi	n	1
+ ocor	r	1
+ onde	 	1
+ oo"a	n	1
+ ooqu	e	1
+ orig	e	2	i	1
+ ou u	m	1
+ pais	a	1
+ para	 	1
+ pare	c	1
+ parq	u	1
+ part	i	1
+ peit	o	1
+ pelo	 	2
+ pequ	e	1
+ pess	o	1
+ pinh	e	3
+ pode	 	1	m	1
+ popu	l	1
+ por 	i	1
+ porr	s	1
+ prov	a	1
+ quan	d	1
+ que 	l	1	p	1	s	1	t	1
+ quee	a	1
+ que‚	Ä	1
+ rece	b	1
+ redu	z	1
+ rel√	≠	1
+ remo	n	1
+ resp	o	2
+ se c	r	1
+ se d	i	1
+ se e	n	1
+ segu	n	1
+ seme	n	1
+ send	o	1
+ ser 	d	1
+ seu 	t	1
+ sing	u	1
+ sua 	c	1	p	1	r	1
+ suaa	p	1
+ sul 	d	1
+ s√©c	u	1
+ tamb	√	2
+ ta√ß	a	1
+ term	i	1
+ terr	i	1
+ todo	s	1
+ tran	s	1
+ trec	h	1
+ tron	c	1
+ um d	i	1
+ um e	d	1
+ uma 	√	1	f	1	t	1
+ umbe	l	1
+ util	√	1
+ valo	r	1
+ veem	e	1
+ vier	a	1
+ vit√	≥	1
+ vos 	S	1
+ √† I	g	1
+ √† W	i	1
+ √† a	l	1
+ √† s	u	2
+ √°re	a	1
+ √© a	 	1
+ √© t	a	1
+ √© √	∫	1
+ √∫ni	c	1
+ ƒêok	o	1
+" da 	n	1
+"anal	f	1
+(IUCN	)	1
+(a) √	†	1
+(foto	)	1
+(imag	e	1
+(leia	 	1
+) col	o	1
+) foi	 	1
+) nas	 	1
+) √† 	W	1
+))US 	O	1
+)US O	p	1
+, a e	n	1
+, a p	a	1
+, ao 	l	1
+, com	 	1	o	1
+, con	t	1
+, cur	i	1
+, dan	d	1
+, dur	a	1
+, e h	o	1
+, em 	s	1
+, ent	r	1
+, hel	i	1
+, no 	P	1
+, num	m	1
+, oco	r	1
+, ond	e	1
+, ooq	u	1
+, par	e	1
+, pod	e	1
+, qua	n	1
+, que	 	1
+, res	p	1
+, sen	d	1
+, um 	e	1
+,,per	e	1
+,5m. 	S	1
+,pere	n	1
+- que	 	1
+-bras	i	1
+-do-p	a	2
+-mor 	d	1
+-para	n	2
+-vind	o	1
+. (le	i	1
+. AAe	s	1
+. Con	√	1
+. Mar	i	1
+. Ocu	p	1
+. Sua	 	1
+. o c	o	1
+. o e	s	1
+.))US	 	1
+.. Ma	r	1
+.. o 	c	1	e	1
+..))U	S	1
+... M	a	1
+... o	 	2
+...))	U	1
+..Bem	-	1
+..Sab	i	1
+..Sua	 	1
+.Bem-	v	1
+.Sabi	a	1
+.Sua 	o	1
+0 mil	 	1	h	1
+00 mi	l	2
+011 t	e	1
+0m, c	o	1
+1 ter	m	1
+11 te	r	1
+2,5m.	 	1
+200 m	i	2
+2011 	t	1
+50m, 	c	1
+5m. S	u	1
+; √© 	t	1
+? E q	u	2
+?... 	M	1	o	1
+??...	 	2
+AAesp	√	1
+Aesp√	©	1
+Angol	a	1
+Argen	t	1
+Bem-v	i	1
+Brasi	l	2
+CN) c	o	1
+Civil	 	1
+Colum	b	1
+Conse	r	1
+Con√≠	f	1
+Cr√≠t	i	1
+E que	 	1	e	1
+Eiffe	l	1
+Evang	e	1
+Extin	√	1
+Ferro	,	1
+Guerr	a	1
+Gusta	v	1
+Hall?	 	1
+I do 	B	1
+IUCN)	 	1
+IX fo	i	1
+Igrej	a	1
+Inter	n	1
+Lapa,	 	1
+Luand	a	1
+Maril	y	2
+Monty	 	1
+N) co	l	1
+Natur	a	1	e	1
+Norde	s	1
+Novak	 	1
+O pin	h	1
+Ocupa	n	1
+Open 	2	1
+Pal√°	c	1
+Parag	u	1
+Pedro	 	1
+Pergu	n	1
+Perig	o	1
+Porto	,	1
+Probl	e	1
+Recur	s	1
+S Ope	n	1
+Sabia	 	1
+Saman	t	1
+Savan	t	1
+Stosu	r	1
+Sua f	o	1
+Sua o	r	1
+UCN) 	c	1
+US Op	e	1
+Uni√£	o	1
+Wikip	√	1
+X foi	 	1
+XIX f	o	1
+a Arg	e	1
+a Con	s	1
+a Gue	r	1
+a Mar	i	1
+a Nat	u	1
+a Per	g	1
+a Sto	s	1
+a Uni	√	1
+a a C	o	1
+a a m	a	1
+a ang	u	1
+a aut	o	1
+a cap	e	1
+a col	u	1
+a com	 	1	o	2
+a con	s	1	t	1
+a daa	L	1
+a de 	G	1	M	1	s	1
+a di√	≥	1
+a do 	p	1
+a dom	i	1
+a e P	a	1
+a e S	a	1
+a e d	o	1
+a e s	e	1
+a enc	i	1
+a esp	√	1
+a fem	i	1
+a flo	r	1
+a foi	 	1
+a for	m	1
+a fra	√	1
+a gra	n	1
+a igr	e	1
+a liv	r	1
+a mai	s	2
+a mis	t	1
+a na 	p	1
+a na√	ß	1
+a o p	i	1
+a ori	g	2
+a ou 	u	1
+a pai	s	1
+a par	t	1
+a pel	o	2
+a pes	s	1
+a por	r	1
+a que	‚	1
+a res	p	1
+a ta√	ß	1
+a uma	 	1
+a uti	l	1
+a √°r	e	1
+a √© 	√	1
+a) √†	 	1
+a, a 	e	1
+a, ao	 	1
+a, cu	r	1
+a, he	l	1
+a, no	 	1
+a, nu	m	1
+a, oc	o	1
+a, oo	q	1
+a, pa	r	1
+a, po	d	1
+a, qu	e	1
+a,,pe	r	1
+a-mor	 	1
+a. Oc	u	1
+a..Su	a	1
+a; √©	 	1
+a? E 	q	1
+aCivi	l	1
+aLapa	,	1
+aaCiv	i	1
+aaLap	a	1
+aaomb	r	1
+aapop	u	1
+aapor	 	1
+abeti	s	1
+abia 	q	1
+acad√	™	1
+acion	a	2
+ada p	e	1	o	1
+adeir	a	1
+ado d	o	1
+ado n	u	1
+ado √	†	1
+ado, 	c	1
+ad√™m	i	1
+agem)	 	1
+agemm	b	1
+aguai	,	1
+ai, s	e	1
+aiori	a	1
+ais (	I	1
+ais d	e	1
+ais v	e	1
+ais..	.	1
+aisag	e	1
+ajori	t	1
+ak ƒê	o	1
+al pa	r	1
+alfab	e	1
+all? 	E	1
+allde	 	1
+almen	t	1
+alor 	e	1
+alto 	v	1
+altur	a	2
+al√°c	i	1
+am de	 	1
+am oo	"	1
+amada	 	1
+amant	h	1
+amb√©	m	3
+ament	a	1	e	3	o	1
+ana f	o	1
+analf	a	1
+anda,	 	1
+ande 	m	1
+ando 	m	1	s	1	u	1
+angel	h	1
+angus	t	1
+anos 	a	1
+ansfo	r	1
+ant, 	e	1
+ante 	a	1	d	1
+antha	 	1
+an√° 	√	1	e	1
+ao Pr	o	1
+ao la	d	1
+aombr	√	1
+apa, 	n	1
+apela	-	1
+apena	s	1
+apopu	l	1
+apor 	m	1
+ar..S	a	1
+ara a	 	1
+aragu	a	1
+aran√	°	2
+arauc	√	1
+arb√≥	r	1
+arece	n	1
+ares 	d	1
+ares,	 	1
+ares.	.	1
+ariam	e	1
+arily	n	2
+arque	 	1
+artas	,	1
+artir	 	1
+as cr	√	1
+as de	 	2
+as ma	i	1
+as n√	£	1
+as pr	o	1
+as √†	 	1
+as, c	o	1
+as, e	 	1
+ascul	i	1
+asil 	(	1	m	1
+asile	i	3
+assma	s	1
+asssi	m	1
+assta	m	1
+atem√	°	1
+ating	i	1
+atr√°	s	1
+atura	i	1
+ature	z	1
+auc√°	r	1
+ausol	√	1
+autor	i	1
+ava p	e	1
+avam 	o	1
+avant	,	1
+ave E	i	1
+a√ßa 	o	1
+a√ßo 	e	1
+a√ß√£	o	5
+bea a	n	1
+bela.	 	1
+betis	m	1
+beuum	i	1
+bia q	u	1
+blema	 	1
+brasi	l	3
+br√≥f	i	1
+b√©m 	√	1	c	1	e	1
+b√≥re	a	1
+ca na	 	1
+ca o 	p	1
+ca,,p	e	1
+cad√™	m	1
+capel	a	1
+carta	s	1
+cas m	a	1
+cas n	√	1
+cebeu	u	1
+cendo	 	1
+chama	d	1
+chos 	d	1
+cialm	e	1
+ciclo	p	1
+cidaa	p	1
+cie a	r	1
+cie f	o	1
+cio d	e	1
+cio h	i	1
+ciona	l	1	m	1
+clop√	©	1
+co de	e	1
+co √†	 	1
+co" d	a	1
+co, d	a	1
+coloc	a	1
+colun	a	1
+com u	m	1
+com v	i	1
+como 	C	1	r	1	t	1
+conhe	c	1
+conse	r	1
+conte	n	1
+contr	a	1
+contu	d	1
+con√¥	m	1
+coode	 	1
+cora√	ß	1
+corre	n	1	t	1
+cos -	 	1
+crita	 	1
+cr√™ 	s	1
+cr√≠t	i	2
+culin	a	1
+culo 	X	1
+cupan	d	1
+curi.	 	1
+curso	s	1
+c√°ri	a	1
+da Ar	g	1
+da Na	t	1
+da au	t	1
+da fl	o	1
+da ig	r	1
+da na	√	1
+da pe	l	1
+da po	r	1
+da, q	u	1
+daaLa	p	1
+daapo	r	1
+dando	 	1
+de 2,	5	1
+de 20	0	2
+de 50	m	1
+de Ex	t	1
+de Fe	r	1
+de Gu	s	1
+de Mo	n	1
+de No	v	1
+de Pe	d	1
+de ac	a	1
+de an	o	1
+de at	i	1
+de ca	r	1
+de es	t	1
+de ma	i	1
+de or	i	1
+de se	 	1
+de si	n	1
+de tr	o	1
+deeLu	a	1
+deira	 	1
+dem e	d	1
+descr	i	1
+deste	 	1
+deuuc	o	1
+dia l	i	1
+dia, 	a	1
+dif√≠	c	1
+disse	m	1
+ditar	.	1
+di√¢m	e	1
+di√≥i	c	1
+do Br	a	2
+do Ev	a	1
+do Pa	l	1
+do a 	U	1	g	1	u	1
+do co	n	1
+do do	 	1
+do ma	d	1	j	1
+do nu	m	1
+do n√	£	1
+do pe	i	1
+do su	a	1
+do s√	©	1
+do um	a	2
+do √†	 	1
+do(a)	 	1
+do, c	o	1
+do-pa	r	2
+doado	 	1
+domin	a	1
+dos p	o	1
+dossR	e	1
+dro I	 	1
+duran	t	1
+duzid	o	1
+d√™mi	c	1
+d√≠ge	n	1
+e 2,5	m	1
+e 200	 	2
+e 50m	,	1
+e Eif	f	1
+e Ext	i	1
+e Fer	r	1
+e Gus	t	1
+e Mon	t	1
+e Nov	a	1
+e Par	a	1
+e Ped	r	1
+e Sam	a	1
+e a G	u	1
+e a M	a	1
+e aca	d	1
+e ano	s	1
+e ao 	P	1
+e arb	√	1
+e ati	n	1
+e bra	s	1
+e car	t	1
+e cr√	™	1
+e da 	f	1
+e de 	e	1	o	1
+e des	c	1
+e dis	s	1
+e do 	P	1
+e dos	s	1
+e ele	s	1
+e enc	o	1
+e est	a	1
+e exp	l	1
+e foi	 	1
+e hoj	e	1
+e lam	e	1
+e mai	o	1
+e no 	s	1
+e ori	g	1
+e por	 	1
+e que	 	1
+e se 	c	1	e	1
+e seg	u	1
+e sem	e	1
+e seu	 	1
+e sin	g	1
+e tod	o	1
+e tro	n	1
+eLuan	d	1
+ea an	g	1
+ea do	m	1
+ea or	i	1
+earau	c	1
+eas c	r	1
+ebeuu	m	1
+ecebe	u	1
+ecend	o	1
+echos	 	1
+ecida	a	1
+econ√	¥	1
+ecurs	o	1
+edif√	≠	1
+edita	r	1
+edro 	I	1
+eduzi	d	1
+eeLua	n	1
+eeara	u	1
+eeas 	c	1
+eemen	t	1
+egund	o	1
+eia m	a	1
+eira 	u	1
+eira,	 	1
+eiro 	e	1
+eiro-	b	1	d	2
+eiro.	 	1
+eito 	d	1
+eja d	a	1
+eja, 	a	1
+el, d	u	1
+ela-m	o	1
+ela. 	O	1
+eles 	p	1
+elho?	?	1
+eli√≥	f	1
+elo N	o	1
+elo n	o	1
+elogi	o	1
+el√≠q	u	1
+em Pe	r	1
+em ed	i	1
+em in	d	1
+em pe	q	1
+em re	m	1
+em su	a	1
+em) f	o	1
+em-vi	n	1
+ema d	e	1
+ement	e	2
+emina	v	1
+emini	n	1
+emmbr	a	1
+emont	a	1
+em√°t	i	1
+en 20	1	1
+ena, 	c	1
+enas 	√	1
+encic	l	1
+encon	t	1
+endo 	c	1	m	1	n	1	u	1
+enif√	≥	1
+enos 	t	1
+ensam	e	1
+entav	a	1
+ente 	a	1	d	2	e	1	n	1
+entes	 	1	s	1
+entin	a	1
+ento?	?	1
+entre	 	1
+envol	v	1
+equen	o	1
+er da	 	1
+era d	i	1
+eram 	d	1
+ereni	f	1
+ergun	t	1
+erigo	 	1
+ermin	a	1
+ernac	i	1
+erraa	C	1
+errit	√	1
+erro,	 	1
+ervad	o	1
+erva√	ß	1
+es de	 	2
+es pi	n	1
+es po	p	1
+es vi	e	1
+es, e	n	1
+es..B	e	1
+escri	t	1
+espa√	ß	1
+espon	d	1
+espos	t	1
+esp√©	c	2
+essnu	t	1
+essoa	?	1
+estaa	o	1
+estac	i	1
+este 	b	1
+est√°	 	1
+etame	n	1
+etism	o	1
+etroo	d	1
+eu al	t	1
+eu te	r	1
+euuco	r	1
+euumi	l	1
+explo	r	1
+eza e	 	1
+e‚Ä¶¶	.	1
+fabet	i	1
+fel, 	d	1
+femin	i	1
+fera 	d	1
+ffel,	 	1
+fila 	m	1
+fita,	 	1
+flore	s	1
+foi d	o	1
+foi i	n	2
+foi t	r	1
+folia	.	1
+forma	 	1	d	1
+foto)	 	1
+fra√ß	√	1
+f√≠ci	o	1
+f√≥li	a	1
+gelho	?	1
+gem i	n	1
+gem r	e	1
+gem) 	f	1
+gemmb	r	1
+gena,	 	1
+genti	n	1
+ginal	l	1
+gios 	m	1
+gir a	l	1
+go Cr	√	1
+golan	a	1
+grand	e	1
+greja	 	1	,	1
+guai,	 	1
+gular	e	1
+gundo	 	1
+gunte	 	1
+gusti	f	1
+ha St	o	1
+hamad	a	1
+hares	 	1
+hecid	a	1
+heiro	-	3
+heli√	≥	1
+hist√	≥	1
+ho??.	.	1
+hoje 	s	1
+hos d	a	1
+h√µes	 	1
+i doa	d	1
+i ini	c	1
+i int	e	1
+i tra	n	1
+i, se	n	1
+i. AA	e	1
+ia co	n	1
+ia de	 	1
+ia li	v	1
+ia ma	i	1
+ia qu	e	1
+ia, a	 	1
+ia, h	e	1
+ia, n	u	1
+ia..S	u	1
+ia; √	©	1
+ialme	n	1
+iamen	t	1
+ias d	e	1
+ica n	a	1
+ica,,	p	1
+icas 	m	1	n	1
+icial	m	1
+iclop	√	1
+ico d	e	1
+ico" 	d	1
+ico, 	d	1
+icood	e	1
+icos 	-	1
+idaap	o	1
+ido a	 	1
+ie ar	b	1
+ie fo	i	1
+ieram	 	1
+iffel	,	1
+ifoli	a	1
+if√≠c	i	1
+if√≥l	i	1
+igem 	i	1	r	1
+igina	l	1
+igo C	r	1
+igrej	a	1
+ikip√	©	1
+il (i	m	1
+il An	g	1
+il km	¬	1
+il ma	s	1
+ila m	i	1
+ileir	a	1	o	2
+ilhar	e	1
+ilh√µ	e	1
+ilyn 	v	1
+ilyn,	 	1
+il√≠s	s	1
+im cr	√	1
+ima e	 	1
+ima, 	o	1
+image	m	1
+ina c	o	1
+ina d	e	1
+ina e	 	2
+inall	d	1
+inant	e	1
+inava	 	1
+indo(	a	1
+ind√≠	g	1
+ingir	 	1
+ingul	a	1
+inhei	r	3
+inici	a	1
+inina	 	1
+inten	s	1
+in√ß√	£	1
+io de	 	1
+io es	t	1
+io hi	s	1
+ional	 	1
+ionam	e	1
+ioria	 	1
+ios m	a	1
+ip√©d	i	1
+ir al	t	1
+ir do	 	1
+ira u	t	1
+ira, 	p	1
+iro e	e	1
+iro-b	r	1
+iro-d	o	2
+iro. 	C	1
+is (I	U	1
+is de	 	1
+is ve	e	1
+is...	)	1
+isage	m	1
+ismo 	m	1
+issem	i	1
+isso 	r	1
+ista,	 	1
+ist√≥	r	1
+ita c	o	1
+ita, 	p	1
+itar.	.	1
+itari	a	1
+itiva	s	1
+ito d	e	1
+itos 	n	1
+it√≥r	i	2
+ivas,	 	1
+ivil 	A	1
+ivre 	q	1
+i√¢me	t	1
+i√£o 	I	1
+i√≥fi	t	1
+i√≥ic	a	1
+iƒá (	f	1
+ja da	a	1
+ja, a	o	1
+je se	u	1
+jorit	a	1
+k ƒêo	k	1
+kip√©	d	1
+km¬≤,	 	1
+koviƒ	á	1
+l (im	a	1
+l Ang	o	1
+l do 	B	1
+l km¬	≤	1
+l mas	s	1
+l par	a	1
+l, du	r	1
+l? E 	q	1
+la mi	s	1
+la-mo	r	1
+la. O	c	1
+lado 	d	1
+lamen	t	1
+lana 	f	1
+lares	,	1	.	1
+la√ß√	£	1
+lde 2	0	1
+leia 	m	1
+leira	,	1
+leiro	 	1	.	1
+lema 	d	1
+les p	i	1
+lfabe	t	1
+lhare	s	1
+lho??	.	1
+lh√µe	s	1
+lia, 	h	1
+lia..	S	1
+lina 	e	1
+livre	 	1
+li√≥f	i	1
+ll? E	 	1
+llde 	2	1
+lment	e	1
+lo No	r	1
+lo XI	X	1
+lo no	m	1
+loca 	o	1
+logio	s	1
+lop√©	d	1
+lor e	c	1
+lorad	a	1
+lores	t	1
+lto v	a	1
+ltura	 	1	s	1
+lumbe	a	1
+luna 	P	1
+lvent	e	1
+lyn v	o	1
+lyn, 	r	1
+l√°ci	o	1
+l√©u 	n	1
+l√≠qu	i	1
+l√≠ss	i	1
+m Per	i	1
+m cha	m	1
+m cr√	≠	1
+m de 	a	1
+m di√	¢	1
+m edi	f	1	t	1
+m em 	p	1
+m ind	√	1
+m oo"	a	1
+m par	q	1
+m peq	u	1
+m rem	o	1
+m sua	 	1
+m um 	d	1
+m vit	√	1
+m √† 	s	1
+m) fo	i	1
+m, co	m	1
+m-vin	d	1
+m. Su	a	1
+ma de	 	1
+ma e 	s	1
+ma fr	a	1
+ma ta	√	1
+ma √°	r	1
+ma √©	 	1
+ma, o	o	1
+mada 	p	1
+madei	r	1
+mado 	n	1
+magem	)	1
+maior	i	1
+mais 	d	1	v	1
+mais.	.	1
+major	i	1
+manth	a	1
+mascu	l	1
+masss	i	1
+masst	a	1
+matem	√	1
+mauso	l	1
+mbea 	a	1
+mbela	.	1
+mbras	i	1
+mbr√≥	f	1
+mb√©m	 	3
+me de	 	1
+menta	v	1
+mente	 	4	s	2
+mento	?	1
+mes p	o	1
+metro	o	1
+mico,	 	1
+micos	 	1
+mil k	m	1
+milha	r	1
+milh√	µ	1
+mina 	c	1
+minan	t	1
+minav	a	1
+minin	a	1
+mista	,	1
+mmaus	o	1
+mmbra	s	1
+mmmau	s	1
+mo Co	l	1
+mo ma	t	1
+mo re	l	1
+mo ta	m	1
+monta	 	1
+mor d	a	1
+muito	s	1
+m¬≤, 	a	1
+m√°ti	c	1
+m√≠ni	m	1
+n 201	1	1
+n vos	 	1
+n, re	s	1
+na Pe	r	1
+na ca	p	1
+na co	m	1
+na de	 	1
+na e 	P	1	S	1
+na fe	m	1
+na fo	i	1
+na pa	i	1
+na, c	u	1
+nacio	n	1
+nal p	a	1
+nalfa	b	1
+nalld	e	1
+namen	t	1
+nante	 	1
+nas p	r	1
+nas √	†	1
+nava 	p	1
+na√ß√	£	1
+ncicl	o	1
+nco √	†	1
+ncont	r	1
+nda, 	q	1
+nde m	a	1
+nde s	e	1
+ndeuu	c	1
+ndo a	 	1
+ndo c	o	1
+ndo m	a	2
+ndo n	√	1
+ndo s	u	1
+ndo u	m	2
+ndo(a	)	1
+nd√≠g	e	1
+ngelh	o	1
+ngir 	a	1
+ngola	n	1
+ngula	r	1
+ngust	i	1
+nheci	d	1
+nheir	o	3
+nica 	n	1
+nicia	l	1
+nif√≥	l	1
+nima,	 	1
+nina 	d	1
+ni√£o	 	1
+no Po	r	1
+no su	l	1
+nome 	d	1
+nomes	 	1
+nos a	t	1
+nos t	r	1
+nsame	n	1
+nserv	a	2
+nsfor	m	1
+nt, e	m	1
+nta a	 	1
+ntava	m	1
+nte a	 	2	o	1
+nte d	a	1	e	1	o	1
+nte e	x	1
+nte n	o	1
+ntend	o	1
+ntens	a	1
+ntern	a	1
+ntes 	v	1
+ntess	n	1
+ntha 	S	1
+ntina	 	1
+nto??	.	1
+ntra 	c	1
+ntre 	e	1
+ntudo	 	1
+nty H	a	1
+num p	a	1
+nummm	a	1
+nutri	t	1
+nvolv	e	1
+n√° e	m	1
+n√° √	©	1
+n√£o 	a	1	e	1
+n√ß√£	o	1
+n√≠fe	r	1
+n√¥mi	c	1
+o Bra	s	2
+o Col	u	1
+o Cr√	≠	1
+o Eva	n	1
+o I d	o	1
+o Int	e	1
+o Nor	d	1
+o Pal	√	1
+o Por	t	1
+o Pro	b	1
+o XIX	 	1
+o a U	n	1
+o a g	r	1
+o a u	m	1
+o ape	n	1
+o con	h	1
+o cor	a	1
+o da 	N	1
+o de 	2	1	F	1	P	1
+o dee	L	1
+o do 	E	1
+o eea	r	1
+o elo	g	1
+o env	o	1
+o esp	a	1
+o est	√	1
+o his	t	1
+o lad	o	1
+o mad	e	1
+o maj	o	1
+o mat	e	1
+o m√≠	n	1
+o nom	e	1
+o num	 	1
+o n√£	o	1
+o pei	t	1
+o pin	h	1
+o rec	e	1
+o rel	√	1
+o se 	d	1
+o sua	a	1
+o sul	 	1
+o s√©	c	1
+o tam	b	1
+o uma	 	2
+o val	o	1
+o √† 	I	1	a	1
+o" da	 	1
+o"ana	l	1
+o(a) 	√	1
+o) na	s	1
+o, co	m	1
+o, da	n	1
+o, on	d	1
+o, um	 	1
+o-bra	s	1
+o-do-	p	2
+o-par	a	2
+o. (l	e	1
+o. Co	n	1
+o??..	.	2
+oa? E	 	1
+oado 	√	1
+oblem	a	1
+oca o	 	1
+ocorr	e	1
+ode E	x	1
+ode a	t	1
+ode t	r	1
+odem 	e	1
+odos 	p	1
+ogios	 	1
+oi do	a	1
+oi in	i	1	t	1
+oi tr	a	1
+oje s	e	1
+okovi	ƒ	1
+olana	 	1
+olia.	.	1
+oloca	 	1
+olumb	e	1
+oluna	 	1
+olven	t	1
+ol√©u	 	1
+om um	 	1
+om vi	t	1
+ombr√	≥	1
+ome d	e	1
+omes 	p	1
+omina	n	1
+omo C	o	1
+omo r	e	1
+omo t	a	1
+onal 	p	1
+oname	n	1
+onco 	√	1
+onde 	s	1
+ondeu	u	1
+onhec	i	1
+onser	v	2
+onta 	a	1
+onten	d	1
+ontra	 	1
+ontud	o	1
+onty 	H	1
+on√≠f	e	1
+on√¥m	i	1
+oo"an	a	1
+oode 	E	1	t	1
+ooque	 	1
+opula	√	1	r	1
+op√©d	i	1
+oque 	s	1
+or da	 	1
+or ec	o	1
+or is	s	1
+or mu	i	1
+orada	 	1
+ora√ß	√	1
+ordes	t	1
+orest	a	1
+oria 	c	1	d	1
+orige	m	2
+origi	n	1
+orita	r	1
+orma 	√	1
+ormad	o	1
+orren	d	1
+orret	a	1
+orrse	u	1
+orto,	 	1
+os - 	q	1
+os Na	t	1
+os Sa	v	1
+os at	r	1
+os da	 	1
+os ma	s	1
+os no	m	1
+os po	d	1
+os tr	e	1
+ossRe	c	1
+osta 	c	1
+osur 	n	1
+oto) 	n	1
+ou um	b	1
+ovak 	ƒ	1
+ovass	m	1
+oviƒá	 	1
+pa, n	o	1
+paisa	g	1
+pando	 	1
+para 	a	1
+paran	√	2
+parec	e	1
+parqu	e	1
+parti	r	1
+pa√ßo	 	1
+peito	 	1
+pela-	m	1
+pelo 	N	1	n	1
+pen 2	0	1
+penas	 	1
+peque	n	1
+peren	i	1
+pesso	a	1
+pinhe	i	3
+plora	d	1
+pode 	a	1
+podem	 	1
+ponde	u	1
+popul	a	2
+por i	s	1
+por m	u	1
+porrs	e	1
+posta	 	1
+prova	s	1
+pular	e	1
+pula√	ß	1
+p√©ci	e	2
+p√©di	a	2
+quand	o	1
+que d	e	1
+que l	a	1
+que p	o	1
+que s	e	2
+que t	o	1
+queea	s	1
+queno	s	1
+que‚Ä	¶	1
+quia,	 	1
+r alt	u	1
+r da 	a	1	i	1
+r do 	s	1
+r eco	n	1
+r iss	o	1
+r mui	t	1
+r na 	f	1
+r..Sa	b	1
+ra a 	C	1
+ra co	n	1
+ra di	√	1
+ra do	 	1
+ra ut	i	1
+ra, p	a	1
+raaCi	v	1
+rada 	p	1
+ragua	i	1
+rais 	(	1
+ram d	e	1
+rande	 	1
+ransf	o	1
+rante	 	1
+ran√°	 	2
+ras d	e	1
+rasil	 	2	e	3
+rauc√	°	1
+ra√ß√	£	2
+rb√≥r	e	1
+rdest	e	1
+re el	e	1
+re qu	e	1
+rea d	o	1
+rea o	r	1
+receb	e	1
+recen	d	1
+recho	s	1
+reduz	i	1
+reja 	d	1
+reja,	 	1
+rel√≠	q	1
+remon	t	1
+rendo	 	1
+renif	√	1
+res d	e	1
+res, 	e	1
+res..	B	1
+respo	n	1	s	1
+resta	a	1
+retam	e	1
+reza 	e	1
+rgent	i	1
+rgunt	e	1
+ri. A	A	1
+ria c	o	1
+ria d	e	1
+ria; 	√	1
+riame	n	1
+rias 	d	1
+rico 	d	1
+rigem	 	2
+rigin	a	1
+rigo 	C	1
+rilyn	 	1	,	1
+rio e	s	1
+rita 	c	1
+ritar	i	1
+ritiv	a	1
+rit√≥	r	1
+rma √	©	1
+rmado	 	1
+rmina	 	1
+rnaci	o	1
+ro I 	d	1
+ro ee	a	1
+ro, u	m	1
+ro-br	a	1
+ro-do	-	2
+ro. C	o	1
+roble	m	1
+ronco	 	1
+roode	 	1
+rovas	s	1
+rque 	d	1
+rraaC	i	1
+rrend	o	1
+rreta	m	1
+rrit√	≥	1
+rro, 	u	1
+rrseu	 	1
+rseu 	a	1
+rsos 	N	1
+rtas,	 	1
+rtir 	d	1
+rto, 	o	1
+rvado	,	1
+rva√ß	√	1
+r√°s,	 	1
+r√™ s	e	1
+r√≠ti	c	3
+r√≥fi	l	1
+s (IU	C	1
+s - q	u	1
+s Nat	u	1
+s Sav	a	1
+s atr	√	1
+s cr√	≠	1
+s da 	A	1
+s de 	2	1	5	1	N	1	a	1	c	1
+s mai	s	1
+s mas	s	1
+s nom	e	1
+s n√£	o	1
+s pin	h	1
+s pod	e	1
+s pop	u	1
+s pro	v	1
+s tre	c	1
+s vee	m	1
+s vie	r	1
+s √† 	s	1
+s, co	n	1
+s, e 	h	1
+s, en	t	1
+s, qu	a	1
+s...)	)	1
+s..Be	m	1
+sRecu	r	1
+sagem	m	1
+samen	t	1
+scrit	a	1
+sculi	n	1
+se cr	√	1
+se di	s	1
+se en	c	1
+segun	d	1
+semen	t	1
+semin	a	1
+sendo	 	1
+ser d	a	1
+serva	√	1	d	1
+seu a	l	1
+seu t	e	1
+sform	a	1
+sil (	i	1
+sil m	a	1
+silei	r	3
+sim c	r	1
+sima 	e	1
+singu	l	1
+smasc	u	1
+smo m	a	1
+snutr	i	1
+so re	c	1
+soa? 	E	1
+sol√©	u	1
+sos N	a	1
+spa√ß	o	1
+spond	e	1
+spost	a	1
+sp√©c	i	2
+ssRec	u	1
+ssemi	n	1
+ssim 	c	1
+ssima	 	1
+ssmas	c	1
+ssnut	r	1
+sso r	e	1
+ssoa?	 	1
+sssim	 	1
+sstam	b	1
+sta c	o	1
+sta, 	o	1
+staao	m	1
+staci	o	1
+stamb	√	1
+stave	 	1
+ste b	r	1
+stifo	l	1
+st√° 	r	1
+st√≥r	i	1
+sua c	o	1
+sua p	e	1
+sua r	e	1
+suaap	o	1
+sul d	o	1
+sur n	a	1
+s√©cu	l	1
+t, em	 	1
+ta a 	m	1
+ta co	m	2
+ta, o	c	1
+ta, p	o	1
+taaom	b	1
+tacio	n	1
+tamb√	©	3
+tamen	t	1
+tar..	S	1
+taria	m	1
+tas, 	c	1
+tavam	 	1
+tave 	E	1
+ta√ßa	 	1
+te a 	G	1	M	1
+te ao	 	1
+te br	a	1
+te da	 	1
+te de	s	1
+te do	 	1
+te ex	p	1
+te no	 	1
+tem√°	t	1
+tendo	 	1
+tensa	m	1
+termi	n	1
+terna	c	1
+terri	t	1
+tes v	i	1
+tessn	u	1
+tha S	t	1
+ticas	 	2
+tico"	 	1
+ticoo	d	1
+tifol	i	1
+til√≠	s	1
+tina 	e	1
+tingi	r	1
+tin√ß	√	1
+tir d	o	1
+tismo	 	1
+tivas	,	1
+to de	 	1
+to va	l	1
+to) n	a	1
+to, o	n	1
+to??.	.	1
+todos	 	1
+toria	 	1
+tos n	o	1
+tosur	 	1
+tra c	o	1
+trans	f	1
+tre e	l	1
+trech	o	1
+triti	v	1
+tronc	o	1
+trood	e	1
+tr√°s	,	1
+tudo 	a	1
+tura 	d	1
+turai	s	1
+turas	 	1
+turez	a	1
+ty Ha	l	1
+t√° r	e	1
+t√≥ri	a	1	c	1	o	1
+u alt	o	1
+u na 	c	1
+u ter	r	1
+u umb	e	1
+ua co	l	1
+ua fo	r	1
+ua or	i	1
+ua pe	s	1
+ua re	s	1
+uaapo	p	1
+uai, 	s	1
+uanda	,	1
+uando	 	1
+ucorr	e	1
+uc√°r	i	1
+udo a	 	1
+ue de	 	1
+ue la	m	1
+ue po	r	1
+ue se	 	1	g	1
+ue to	d	1
+ueeas	 	1
+uenos	 	1
+uerra	a	1
+ue‚Ä¶	¶	1
+uia, 	n	1
+uitos	 	1
+ul do	 	1
+ulare	s	2
+ula√ß	√	1
+ulina	 	1
+ulo X	I	1
+um di	√	1
+um ed	i	1
+um pa	r	1
+uma f	r	1
+uma t	a	1
+uma √	°	1
+umbea	 	1
+umbel	a	1
+umilh	a	1
+ummma	u	1
+una P	e	1
+undo 	a	1
+unte 	a	1
+upand	o	1
+ur na	 	1
+ura d	o	1
+urais	 	1
+urant	e	1
+uras 	d	1
+ureza	 	1
+uri. 	A	1
+ursos	 	1
+usol√	©	1
+ustav	e	1
+ustif	o	1
+util√	≠	1
+utori	a	1
+utrit	i	1
+uucor	r	1
+uumil	h	1
+uzido	 	1
+va pe	l	1
+vado,	 	1
+vak ƒ	ê	1
+valor	 	1
+vam o	o	1
+vange	l	1
+vant,	 	1
+vas, 	e	1
+vassm	a	1
+va√ß√	£	1
+ve Ei	f	1
+veeme	n	1
+vente	 	1
+viera	m	1
+vil A	n	1
+vindo	(	1
+vit√≥	r	1
+viƒá 	(	1
+volve	n	1
+vos S	a	1
+vre q	u	1
+xplor	a	1
+xtin√	ß	1
+y Hal	l	1
+yn vo	s	1
+yn, r	e	1
+za e 	d	1
+zido 	a	1
+Ä¶¶..	.	1
+á (fo	t	1
+êokov	i	1
+† Igr	e	1
+† Wik	i	1
+† alt	u	1
+† sua	 	2
+° em 	P	1
+° red	u	1
+° √© 	a	1
+°cio 	d	1
+°rea 	o	1
+°ria;	 	1
+°s, q	u	1
+°tico	"	1
+¢metr	o	1
+£o In	t	1
+£o ap	e	1
+£o da	 	1
+£o de	 	1
+£o el	o	1
+£o m√	≠	1
+£o se	 	1
+£o. (	l	1
+¶... 	o	1
+¶¶...	 	1
+ßa ou	 	1
+ßo en	v	1
+ß√£o 	d	2	m	1	s	1
+ß√£o.	 	1
+ß√£o?	?	1
+© a e	s	1
+© tam	b	1
+© √∫n	i	1
+©cie 	a	1	f	1
+©culo	 	1
+©dia 	l	1
+©dia,	 	1
+©m ch	a	1
+©m em	 	1
+©m √†	 	1
+©u na	 	1
+™ ser	 	1
+™mico	s	1
+≠cio 	h	1
+≠fera	 	1
+≠gena	,	1
+≠nima	,	1
+≠quia	,	1
+≠ssim	a	1
+≠tica	s	2
+≠tico	o	1
+≤, a 	p	1
+≥fila	 	1
+≥fita	,	1
+≥ica,	,	1
+≥lia,	 	1
+≥rea 	d	1
+≥rias	 	1
+≥rico	 	1
+≥rio 	e	1
+¥mico	,	1
+µes d	e	1
+∫nica	 	1
+¬≤, a	 	1
+√† Ig	r	1
+√† Wi	k	1
+√† al	t	1
+√† su	a	2
+√° em	 	1
+√° re	d	1
+√° √©	 	1
+√°cio	 	1
+√°rea	 	1
+√°ria	;	1
+√°s, 	q	1
+√°tic	o	1
+√¢met	r	1
+√£o I	n	1
+√£o a	p	1
+√£o d	a	1	e	1
+√£o e	l	1
+√£o m	√	1
+√£o s	e	1
+√£o. 	(	1
+√£o??	?	1
+√ßa o	u	1
+√ßo e	n	1
+√ß√£o	 	4	.	1	?	1
+√© a 	e	1
+√© ta	m	1
+√© √∫	n	1
+√©cie	 	2
+√©cul	o	1
+√©dia	 	1	,	1
+√©m c	h	1
+√©m e	m	1
+√©m √	†	1
+√©u n	a	1
+√™ se	r	1
+√™mic	o	1
+√≠cio	 	1
+√≠fer	a	1
+√≠gen	a	1
+√≠nim	a	1
+√≠qui	a	1
+√≠ssi	m	1
+√≠tic	a	2	o	1
+√≥fil	a	1
+√≥fit	a	1
+√≥ica	,	1
+√≥lia	,	1
+√≥rea	 	1
+√≥ria	s	1
+√≥ric	o	1
+√≥rio	 	1
+√¥mic	o	1
+√µes 	d	1
+√∫nic	a	1
+ƒá (f	o	1
+ƒêoko	v	1
+‚Ä¶¶.	.	1
