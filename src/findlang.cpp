@@ -1,57 +1,50 @@
-#include "fcm_novo.cpp"
+#include "fcm.cpp"
 
 
 int main(int argc, char** argv)
 {
-   
 
-    //Context order and alpha
     int k = -1;
     float a = 0;
     char l ='a';
 
-    
-
 
     while(k <= 0){
-        cout << "Insert context order (k): ";
+        cout << "Valor de k: ";
         cin >> k;
     }
     while(a <= 0){
-        cout << "Insert alpha (a): ";
+        cout << "Valor de alpha: ";
         cin >> a;
     }
     
     
-    //Load models and processing
     fcm f = fcm(k, a);
     int distMin;
-    string modelLang;
+    string modelo;
     for(int i = 1; i < argc - 1; i++){
         
-        map<string, map<char, int>> model;
+        map<string, map<char, int>> modelo_mapa;
         
-        cout << "Begin processing " << argv[i] << endl;
+        f.getModelo(modelo_mapa, argv[i]);
         
-        f.getModelo(model, argv[i]);
-        
-        f.estimate(model, argv[argc-1]);
+        f.estimate(modelo_mapa, argv[argc-1]);
 
 
         if(i == 1) {
-            modelLang = argv[i];
+            modelo = argv[i];
             distMin = f.dist;
         }
         else {
             if(distMin > f.dist) {
-                modelLang = argv[i];
+                modelo = argv[i];
                 distMin = f.dist;
             }
         }
-        cout << "Model loaded sucessfully!" << endl;
+        cout << "Modelo criado" << endl;
     }
 
-    string filename = modelLang;
+    string filename = modelo;
     int flag = 0;
     string linguagem_final;
 
@@ -67,7 +60,7 @@ int main(int argc, char** argv)
         }
         
     }
-    cout << "\nLanguage of " << argv[argc-1] << " is " << linguagem_final << endl;
+    cout << "\nLinguagem mais provavel de " << argv[argc-1] << ": " << linguagem_final << endl;
     
     return 0;
 }

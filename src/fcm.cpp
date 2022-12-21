@@ -103,12 +103,6 @@ class fcm {
                     
                 }else{ 
                     map<char, int> &mapa_novo = modelo[contexto];
-                    
-                    // if(mapa_novo.count(aux) > 0){  
-                    //     n = mapa_novo[aux];
-                    // }else{ // não tem
-                    //     n = 0;
-                    // }
                     n = mapa_novo[aux];
                 
                     std::vector<int> value;
@@ -165,7 +159,7 @@ void getModelo(map<string, map<char, int>> &modelo, char *filename){
         }
     }
     fich_destino = "." + fich_destino.substr(1,fich_destino.size() -2) + "modelo.txt";
-    cout << "created file path: " << fich_destino << endl;   
+    cout << "path do novo ficheiro: " << fich_destino << endl;   
    
        
 
