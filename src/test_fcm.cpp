@@ -25,7 +25,7 @@ int main(int argc, char *argv[]){
         cout << "entropia do modelo: " << f.m_entropy << endl;
         
         // estimar entropia de um texto de entrada
-        f.estimate(model, (char*)"../src/models/simple.txt");
+        f.estimate(model, (char*)"../src/models/testePT.txt");
         cout << "distancia estimada: " << f.dist << endl;
         cout << "entropia estimada: " << f.e_entropy << endl;
     }

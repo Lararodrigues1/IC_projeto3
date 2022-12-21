@@ -1,0 +1,2201 @@
+5	0.1
+ "civ	i	1
+ "pag	i	1
+ (Hen	r	1
+ (Sul	m	1
+ (in 	1	1
+ 103 	c	1
+ 1501	 	1
+ 1509	9	1
+ 1554	,	1
+ 16 f	u	1
+ 16/1	8	1
+ 20 M	a	1
+ 3â€‰	9	1
+ 43 a	.	1
+ 58 1	0	1
+ 60 c	h	1
+ 90 c	h	1
+ Aevo	 	1
+ Agri	g	2
+ Aliq	u	1
+ Amor	e	1
+ Angl	i	1
+ Anti	q	1
+ Ars 	a	1
+ Arth	u	3
+ Artu	r	1
+ Bisb	o	1
+ Camb	r	2
+ Cath	a	3
+ Cave	:	1
+ Cuiu	s	1
+ Cum 	A	1
+ De m	o	1
+ Disp	u	1
+ Hae 	"	1
+ Henr	i	3
+ Hero	i	1
+ Hoc 	m	1
+ Hodi	e	1
+ Hora	t	1
+ Ital	i	1
+ Lati	n	1
+ Lude	n	1
+ MMXI	I	1
+ Mart	i	1
+ Maxi	m	1
+ Medi	o	1
+ Naso	 	1
+ Omne	s	1
+ Ovid	i	4
+ Pano	r	1
+ Post	e	1
+ PoÃ«	s	1
+ Prop	e	1
+ Prov	i	1
+ Quin	t	1
+ Regi	o	1
+ Roma	n	1
+ Rosa	l	1
+ Sanc	t	1
+ Sept	e	1
+ Si q	u	1
+ Sica	n	1
+ Sici	l	3
+ Summ	u	1
+ Tibu	l	1
+ Tomi	s	1
+ Tudo	r	1
+ Ut c	o	1
+ V du	c	1
+ VII 	A	1
+ VIII	 	2	,	1
+ Verg	i	1
+ Vici	p	4
+ a Pa	n	1
+ a.C.	n	1
+ ab A	g	1
+ ab a	l	1
+ abbi	m	1
+ abes	t	1
+ acci	p	1
+ ad c	a	1	o	2
+ addi	d	1
+ addp	a	1
+ addq	u	1
+ adhu	c	1
+ adse	q	1
+ affl	u	1
+ alii	s	1
+ alio	r	1
+ amat	o	1
+ anno	 	1	s	1
+ ante	r	1
+ appe	l	1
+ apud	 	1
+ atqu	e	1
+ cano	n	1
+ capi	t	1
+ cast	e	1
+ caus	a	1
+ cert	u	1
+ chil	o	2
+ circ	i	2	u	1
+ civi	t	1
+ coll	e	1
+ comi	t	1
+ comm	e	2	u	2
+ conc	e	1
+ cons	e	1	i	1
+ cont	r	1
+ coro	n	1
+ crea	t	1
+ cree	t	1
+ cuii	C	1
+ cult	u	2
+ cum 	e	1	p	1
+ debe	n	1
+ deee	o	1
+ desi	g	1
+ die 	2	1
+ dign	i	1
+ disp	u	1
+ duca	t	1
+ duce	n	1
+ duxi	t	1
+ eam 	a	1	i	1
+ ei c	o	1
+ eleg	i	1
+ ency	c	1
+ esse	.	1	t	1
+ est 	a	1	c	1	i	1	o	1	u	1
+ est)	.	1
+ est,	 	1
+ est.	 	1	.	1
+ et "	c	1
+ et 1	6	1
+ et H	o	1
+ et P	r	1
+ et i	n	1
+ et m	u	1
+ et, 	i	1
+ etia	m	1
+ ex m	a	1
+ face	r	1
+ fact	u	1
+ fere	 	1
+ feud	a	1
+ fiat	 	1
+ fili	o	1
+ frat	r	1
+ freq	u	1
+ fuit	 	2
+ futu	r	1
+ habe	t	1
+ hodi	e	1
+ iam 	d	1
+ id q	u	1
+ in P	r	1
+ in S	i	1
+ in c	u	1
+ in l	o	1
+ in m	a	1	u	1
+ in s	a	1
+ inco	l	2
+ infr	a	1
+ innC	a	1
+ innm	a	1
+ innr	e	1
+ invi	t	1
+ ipsa	 	1
+ iura	a	1
+ iuve	n	1
+ iuxt	a	1
+ libe	r	1
+ litt	e	1
+ loci	s	1
+ magi	s	1
+ maio	r	1
+ malo	r	1
+ matr	i	2
+ meli	o	1
+ meme	n	1
+ mens	e	3	i	5
+ mino	r	1
+ miss	u	1
+ modi	f	1
+ mons	t	1
+ more	 	1
+ mort	u	1
+ mult	a	1
+ muni	c	1
+ myth	o	1
+ natu	s	1
+ numq	u	1
+ opus	 	1
+ pagi	n	8
+ patr	i	1
+ pere	n	1
+ pest	i	1
+ plur	i	1
+ pont	i	1
+ post	 	1
+ poti	s	1
+ poÃ«	m	1	t	2
+ prae	c	1
+ prim	a	1
+ prin	c	1
+ prio	r	1
+ prox	i	2
+ puta	b	1
+ quae	 	3	d	1
+ quan	d	1
+ quid	e	1
+ quo 	c	1
+ quod	 	1
+ redi	r	1
+ rege	m	1
+ saec	u	1
+ scho	l	1
+ scis	,	1
+ sed 	m	1
+ simu	l	1
+ sit.	 	1
+ sunt	 	2
+ supe	r	1
+ supp	e	1
+ suum	 	1
+ tali	s	1
+ test	a	2
+ thes	a	1
+ tres	 	1
+ ubiq	u	1
+ una 	e	1
+ urbs	 	1
+ usor	i	1
+ ut f	r	1
+ ut p	a	1
+ vica	r	1
+ vici	n	1
+ vis 	p	1
+ vix 	s	1
+! Vic	i	2
+" abb	i	1
+" sun	t	1
+"civi	t	1
+"pagi	n	1
+(Henr	i	1
+(Sulm	o	1
+(in 1	5	1
+) fui	t	1
+). Bi	s	1
+). Ho	c	1
+, Amo	r	1
+, Ars	 	1
+, Art	h	1
+, Cat	h	1
+, abe	s	1
+, ad 	c	1
+, add	q	1
+, cap	i	1
+, cum	 	2
+, dis	p	1
+, eti	a	1
+, fut	u	1
+, in 	l	1	m	2
+, inn	r	1
+, plu	r	1
+, pri	m	1	o	1
+, pro	x	1
+, qua	e	1
+, quo	 	1
+, sed	 	1
+,,nup	s	1
+,,sod	e	1
+,nups	i	1
+,sode	s	1
+. Ali	q	1
+. Bis	b	1
+. Cav	e	1
+. Cui	u	1
+. Cum	 	1
+. De 	m	1
+. Hae	 	1
+. Hoc	 	1
+. Hod	i	1
+. Max	i	1
+. Omn	e	1
+. Ovi	d	1
+. PoÃ	«	1
+. Qui	n	1
+. Si 	q	1
+. Sum	m	1
+. Ut 	c	1
+. nat	u	1
+..Ann	o	1
+..Ave	!	1
+..Bis	b	1
+..Mon	t	1
+..Pub	l	1
+.Anno	 	1
+.Ave!	 	1
+.Bisb	o	1
+.C.n.	 	1
+.Mont	i	1
+.Publ	i	1
+.n. n	a	1
+/18 T	o	1
+0 Mar	t	1
+0 chi	l	2
+01 Ca	t	1
+03 co	m	1
+099po	s	1
+1 Cat	h	1
+103 c	o	1
+15 et	 	1
+1501 	C	1
+15099	p	1
+1554,	 	1
+16 fu	i	1
+16/18	 	1
+18 To	m	1
+20 Ma	r	1
+3 a.C	.	1
+3 com	m	1
+3 inc	o	1
+3â€‰9	8	1
+4, cu	m	1
+43 a.	C	1
+5 et 	1	1
+501 C	a	1
+5099p	o	1
+54, c	u	1
+554, 	c	1
+58 10	3	1
+6 fui	t	1
+6/18 	T	1
+60 ch	i	1
+8 103	 	1
+8 Tom	i	1
+83 in	c	1
+90 ch	i	1
+983 i	n	1
+99pos	t	1
+9post	 	1
+: num	q	1
+:Pagi	n	1
+; mor	t	1
+Adde 	q	1
+Aevo 	s	1
+Agrig	e	2
+Aliqu	o	1
+Amore	s	1
+Angli	a	2
+Anno 	1	1
+Antiq	u	1
+Ars a	m	1
+Arthu	r	3
+Artur	u	1
+Ave! 	V	1
+Bisbo	n	3
+C.n. 	n	1
+Cambr	i	3
+Carol	u	1
+Catha	r	3
+Cave:	 	1
+Chris	t	1
+Cuius	 	1
+Cum A	r	1
+De mo	r	1
+Dispu	t	1
+Hae "	p	1
+Hae p	a	1
+Henri	c	4
+Heroi	d	1
+Hoc m	a	1
+Hodie	 	1
+Horat	i	1
+I Ang	l	1
+I eam	 	1
+I fac	t	1
+I, in	 	1
+IAdde	 	1
+II An	g	1
+II ea	m	1
+II fa	c	1
+II, i	n	1
+IIAdd	e	1
+III e	a	1
+III f	a	1
+III, 	i	1
+Itali	a	1
+Latin	a	1
+Luden	s	1
+MMXII	A	1
+MXIIA	d	1
+Marti	i	1
+Maxim	e	1
+Medio	 	1
+Monti	b	1
+Naso 	(	1
+Omnes	 	2
+Ovidi	a	1	u	3
+Pagin	a	2
+Panor	m	1
+Persi	c	1
+Poste	r	1
+PoÃ«s	i	1
+Prope	r	1
+Provi	n	1
+Publi	u	1
+Quint	i	1
+Regio	n	1
+Roman	u	1
+Rosal	i	1
+Sanct	a	1
+Septe	m	1
+Si qu	a	1
+Sican	i	1
+Sicil	i	3
+Sulmo	n	1
+Summu	s	1
+Tibul	l	1
+Tomis	)	1
+Tudor	i	1
+Ut co	m	1
+V duc	a	1
+VII A	n	1
+VIII 	e	1	f	1
+VIII,	 	1
+Vergi	l	1
+Vicip	a	4
+XIIAd	d	1
+a Pan	o	1
+a Reg	i	1
+a Rom	a	1
+a Ver	g	1
+a a P	a	1
+a adh	u	1
+a cui	i	1
+a eam	 	1
+a est	 	3	)	1	,	1	.	1
+a et 	i	1
+a ex 	m	1
+a fil	i	1
+a inf	r	1
+a ips	a	1
+a lib	e	1
+a mal	o	1
+a men	s	4
+a mis	s	1
+a qua	e	1
+a sit	.	1
+a vix	 	1
+a). H	o	1
+a, ab	e	1
+a, ad	d	1
+a, pr	i	1
+a, qu	a	1
+a. Cu	i	1
+a.C.n	.	1
+aOmne	s	1
+aaOmn	e	1
+aadis	t	1
+aaet 	f	1
+aaint	e	1
+aamar	i	1
+aaost	e	1
+ab Ag	r	1
+ab al	i	1
+abat 	T	1
+abbim	p	1
+abest	 	1
+abet 	5	1
+abetu	r	1
+abitu	r	1
+accip	e	1
+acere	,	1
+aci m	a	1
+actum	 	1
+ad ca	s	1
+ad co	n	2
+addid	e	1
+addpa	g	1
+addqu	a	1
+adhuc	c	1
+adist	i	1
+adseq	u	1
+ae "p	a	1
+ae He	n	1
+ae Ro	s	1
+ae du	c	1
+ae es	s	1
+ae et	 	1
+ae pa	g	1
+ae sc	i	1
+ae su	n	1	p	1
+ae te	s	1
+ae ub	i	1
+ae ut	 	1
+ae vi	c	1
+ae" s	u	1
+ae, A	r	1
+ae. M	a	1
+ae:Pa	g	1
+aec p	a	1
+aecla	r	1
+aecul	i	1
+aedam	 	1
+aedia	 	3	e	1	n	1
+aeeBi	s	1
+aeean	t	1
+aeecl	a	1
+aesen	t	1
+aet f	e	1
+afflu	u	1
+agina	 	6	e	2	m	2	s	2
+agist	e	1
+ainte	r	1
+aioru	m	1
+ali A	g	1
+aliae	 	1	e	1
+aliis	 	1
+alior	u	1
+alis.	 	1
+aliss	n	1
+alium	 	1
+aloru	m	1
+am Ar	t	1
+am al	i	1
+am ap	u	1
+am de	s	1
+am ho	d	1
+am in	n	1
+am me	n	1
+am pa	g	1
+am ta	l	1
+am vi	s	1
+amari	t	1
+amato	r	1
+ambri	a	3
+ament	i	1
+ana, 	q	1
+ancta	e	1
+andam	 	1
+ani d	e	1
+anis 	c	1
+anno 	1	1
+annos	 	1
+anoni	c	1
+anorm	o	1
+anoru	m	1
+anter	i	1
+antiq	u	1
+antur	!	1	.	1
+anus 	O	1
+anus.	 	1
+aoste	n	1
+apite	 	1
+appel	l	1
+apud 	D	1
+ara e	s	1
+ari m	e	1
+ariae	"	1
+arina	 	2	a	1
+ariqu	e	1
+aritu	m	1
+arius	 	1
+arolu	s	1
+artii	 	1
+arum 	L	1	f	1	s	1
+arum,	 	1
+arumm	n	1
+as ca	n	1
+as me	n	2
+as pr	o	1
+as" a	b	1
+asciv	i	1
+aso (	S	1
+assic	a	1
+astel	l	1
+asâ€”	h	1
+at Ti	b	1
+at pa	g	1
+at..B	i	1
+ata e	s	3
+ata s	i	1
+ata, 	a	1
+ate P	o	1
+atem 	a	1
+athar	i	3
+ati d	i	1
+atina	r	1
+atio 	V	1
+ation	e	2
+atium	m	1
+atore	 	1
+atori	a	1
+atque	 	1
+atrem	 	1
+atrim	o	3
+atris	 	1
+atum 	c	1	f	1
+atur.	 	1
+atus 	e	1
+atus;	 	1
+aurum	 	1
+ausa)	.	1
+ave: 	n	1
+axime	 	1
+b Agr	i	1
+b ali	i	1
+bat T	i	1
+bbimp	e	1
+bent.	 	1
+beraa	i	1
+best 	a	1
+bet 5	8	1
+betur	 	1
+bimpe	r	1
+bique	 	1
+bitur	,	1
+blius	 	1
+bona 	e	1
+bonae	 	1
+bonen	s	1
+bria 	m	1
+briae	 	2
+bris 	M	1
+bs It	a	1
+buend	u	1
+bullo	 	1
+bus S	i	1
+bus. 	C	1
+c mat	r	1
+c pag	i	1
+cae s	u	1
+canis	 	1
+canon	i	1
+capit	e	1
+cari 	m	1
+caria	e	1
+caste	l	1
+cati 	d	1
+causa	)	1
+cchab	e	1
+ccipe	r	1
+cendu	m	1
+ceps 	C	1
+cere,	,	1
+certu	s	1
+cessi	t	1
+chabe	t	1
+chi e	l	1
+chilo	m	2
+chola	r	1
+ci VI	I	2
+ci ma	g	1
+cia R	e	1
+cilia	 	1	,	1	e	1
+cinis	,	1
+cipae	d	4
+ciper	e	1
+cipiu	m	1
+circi	t	2
+circu	m	1
+cis v	i	1
+cis, 	s	1
+citer	 	2
+civio	r	1
+civit	a	2
+clara	 	1
+class	i	1
+clopa	e	1
+colae	e	1
+colar	u	1
+colle	c	1
+comit	a	1
+comme	n	2
+commu	n	2
+conce	s	1
+conse	n	1
+consi	l	1
+contr	i	1
+coron	a	1
+corum	 	1
+cos l	i	1
+creat	a	1
+creet	u	1
+ctae 	R	1
+ction	e	2
+ctum 	e	1
+cuiiC	a	1
+culis	s	1
+cultu	r	1	s	1
+cum V	I	1
+cum e	t	1
+cum p	a	1
+cumda	t	1
+cus V	I	1
+cyclo	p	1
+d Dis	p	1
+d add	i	1
+d cas	t	1
+d con	s	1	t	1
+d mem	e	1
+d quo	d	1
+daliu	m	1
+dam p	a	1
+dam t	a	1
+data,	 	1
+dde q	u	1
+ddide	r	1
+ddpag	i	1
+ddqua	s	1
+de qu	a	1
+deben	t	1
+deeeo	 	1
+dem p	u	1
+densi	s	1
+deris	 	1
+des, 	A	1	d	1
+desig	n	1
+dhucc	h	1
+dia a	d	1
+dia e	s	1
+dia l	i	1
+diae:	P	1
+diana	,	1
+diani	 	1
+dider	i	1
+die 2	0	1
+die p	e	1	r	1
+dific	a	1
+digni	t	1
+dio A	e	1
+direc	t	1
+dispu	t	1
+disti	c	1
+dit. 	U	1
+ditat	.	1
+dium 	q	1
+dius 	N	1	p	1
+dori,	,	1
+dpagi	n	1
+dquas	 	1
+dsequ	i	1
+ducat	i	1
+ducen	d	1
+dum i	n	1
+dum. 	D	1
+duxit	 	1
+e "pa	g	1
+e 20 	M	1
+e 90 	c	1
+e Ant	i	1
+e Cat	h	1
+e Hen	r	1
+e Pos	t	1
+e Ros	a	1
+e Sic	i	2
+e ab 	a	1
+e cre	a	1
+e deb	e	1
+e die	 	1
+e duc	e	1
+e ess	e	1
+e et 	m	1
+e in 	s	1
+e iux	t	1
+e mor	e	1
+e pag	i	1
+e per	e	1
+e pra	e	1
+e qua	e	1
+e sci	s	1
+e sun	t	1
+e sup	p	1
+e tes	t	1
+e ubi	q	1
+e ut 	p	1
+e vic	a	1
+e! Vi	c	1
+e" su	n	1
+e, Ar	t	1
+e, qu	o	1
+e,,so	d	1
+e. Ma	x	1
+e. Po	Ã	1
+e. Su	m	1
+e: nu	m	1
+e:Pag	i	1
+eBisb	o	1
+eam a	p	1
+eam i	n	1
+eanti	q	1
+eata 	e	1
+ebent	.	1
+ec pa	g	1
+eclar	a	1
+eclas	s	1
+ectio	n	2
+eculi	s	1
+ed me	m	1
+edam 	t	1
+edia 	a	1	e	1	l	1
+ediae	:	1
+edian	i	1
+edio 	A	1
+edire	c	1
+edita	t	1
+eeBis	b	1
+eeant	i	1
+eecla	s	1
+eeeo 	c	1
+eeet 	M	1
+eeo c	o	1
+eepos	s	1
+eet M	e	1
+eetur	 	1
+egemm	A	1
+egiac	i	1
+egion	a	1	e	1
+ei co	n	1
+elegi	a	1
+elior	a	1
+ellan	t	1
+ellum	 	1
+em Ar	t	1
+em He	n	1
+em ad	s	1
+em es	s	1
+em fa	c	1
+em mi	n	1
+em pu	t	1
+em th	e	1
+em, p	r	1
+embri	s	1
+ement	o	1
+emmAn	g	1
+encyc	l	1
+endit	.	1
+endum	 	1	.	1
+enes 	a	1
+ennem	 	1
+enric	i	2	u	2
+ensem	 	1
+enses	 	3
+ensis	â	1	 	3	,	1	.	1
+ent. 	S	1
+entar	i	1
+entat	i	1
+ente.	 	1
+entem	,	1
+enti 	p	1
+entia	,	1	m	1
+entin	a	1
+entir	e	1
+ento 	c	1	i	1
+eo co	n	1
+eposs	e	1
+eps C	a	1
+eptem	b	1
+equen	t	1
+equit	u	1
+er 3â	€	1
+er 60	 	1
+er an	n	1
+er ha	b	1
+er po	Ã	1
+er tr	e	1
+eraai	n	1
+eraru	m	1
+erato	r	1
+eratu	r	1
+ere 9	0	1
+ere,,	s	1
+erenn	e	1
+eret 	(	1
+ergil	i	1
+erior	e	2
+eris 	m	1
+eroid	e	1
+erret	i	1
+ersic	o	1
+ertio	o	1
+ertus	 	1
+erviv	e	1
+es ad	 	1	d	1
+es af	f	1
+es an	t	1
+es ap	p	1
+es pa	g	1
+es po	Ã	1	s	1
+es qu	a	1
+es, A	m	1	r	1
+es, d	i	1
+es, p	r	1
+es..A	n	1
+esaur	u	1
+esent	e	1
+esign	a	1
+esse.	 	1
+esset	,	1
+essit	 	1
+est a	b	1	d	1
+est c	e	1
+est i	n	1
+est o	p	1
+est u	r	1
+est).	 	1
+est, 	e	1
+est. 	A	1
+est..	A	1
+estam	e	1
+estat	u	1
+estil	e	1
+et "c	i	1
+et (H	e	1
+et 16	 	1
+et 58	 	1
+et Ho	r	1
+et Me	d	1
+et Pr	o	1
+et fe	r	1
+et in	 	1
+et mu	n	1
+et, a	d	1
+et, i	n	1
+etial	i	1
+etiam	 	1
+etra 	a	1
+etraa	e	1
+etur 	a	1	e	1
+eudal	i	1
+evo s	i	1
+ex ma	i	1
+exxCh	r	1
+facer	e	1
+factu	m	1
+fere 	9	1
+feuda	l	1
+fexxC	h	1
+ffluu	n	1
+fiat 	p	1
+ficar	i	1
+filio	 	1
+fluun	t	1
+fraao	s	1
+fratr	e	1
+frequ	e	1
+fuit 	p	1	u	1
+futur	u	1
+gemmA	n	1
+genti	n	1
+gento	 	1
+giaci	 	1
+giaee	c	1
+giliu	m	1
+gina 	i	1	m	4	q	1
+ginae	 	2
+ginam	 	2
+ginas	 	2
+giona	l	1
+gione	 	1
+giste	r	1
+gliae	 	1	,	1
+gnata	 	1
+gnita	t	1
+grige	n	2
+habet	 	1	u	1
+haec 	p	1
+harin	a	3
+hesau	r	1
+hi el	e	1
+hilom	e	2
+hodie	 	1
+holar	u	1
+holog	i	1
+hrist	i	1
+hucch	a	1
+huri,	 	1
+huro 	T	1
+hurum	m	1
+i 43 	a	1
+i Agr	i	1
+i VII	 	1	I	1
+i Vic	i	1
+i con	c	1
+i dee	e	1
+i dig	n	1
+i ele	g	1
+i mag	i	1
+i mel	i	1
+i pat	r	1
+i qua	n	1
+i, fu	t	1
+i,,nu	p	1
+iCaro	l	1
+ia Re	g	1
+ia ad	h	1
+ia es	t	1
+ia et	 	1
+ia li	b	1
+ia mi	s	1
+ia, a	d	1
+ia, p	r	1
+iaadi	s	1
+iaci 	m	1
+iae H	e	1
+iae d	u	1
+iae e	s	1	t	1
+iae" 	s	1
+iae, 	A	1
+iae. 	M	1
+iae:P	a	1
+iaeea	n	1
+iaeec	l	1
+ialis	.	1
+iam A	r	1
+iam d	e	1
+iam h	o	1
+iana,	 	1
+iani 	d	1
+ianor	u	1
+ianus	 	1
+iat p	a	1
+ibera	a	1
+ibuen	d	1
+ibull	o	1
+ibus 	S	1
+ibus.	 	1
+icae 	s	1
+icani	s	1
+icari	 	1	a	1
+ichi 	e	1
+ici V	I	2
+icili	a	3
+icini	s	1
+icipa	e	4
+icipi	u	1
+icoru	m	1
+icos 	l	1
+icum 	V	1
+icus 	V	1
+id qu	o	1
+idem 	p	1
+ideri	s	1
+ides,	 	1
+idian	a	1
+idium	 	1
+idius	 	2
+ie 20	 	1
+ie pe	r	1
+ie pr	a	1
+ifexx	C	1
+ifica	r	1
+igent	i	1	o	1
+ignat	a	1
+ignit	a	1
+ii 43	 	1
+iiCar	o	1
+iis u	s	1
+ilent	i	1
+ilia 	e	1
+ilia,	 	1
+iliae	.	1
+ilian	u	1
+ilio 	H	1
+ilium	 	2
+ilome	t	2
+ima c	u	1
+imasâ	€	1
+ime i	n	1
+imi V	i	1
+imoni	u	3
+imoru	m	1
+imper	a	1
+imula	t	1
+imumm	p	1
+imus 	c	1
+in 15	5	1
+in Pr	o	1
+in Si	c	1
+in cu	l	1
+in lo	c	1
+in ma	t	1
+in mu	l	1
+in sa	e	1
+ina f	i	1
+ina i	n	1	p	1
+ina m	e	4
+ina q	u	1
+ina. 	C	1
+inaam	a	1
+inae 	u	1	v	1
+inam 	m	1	v	1
+inaru	m	1
+inas 	m	2
+incep	s	1
+incia	 	1
+incol	a	2
+infra	a	1
+inis,	 	1
+innCa	m	1
+innma	t	1
+innre	g	1
+inore	m	1
+inter	 	2	r	1
+intil	i	1
+invit	a	1
+io Ae	v	1
+io He	n	1
+io Vi	c	1
+ional	i	1
+ione 	S	1
+ionem	 	1
+iones	 	2	.	1
+ioola	s	1
+iorar	i	1
+ioree	e	1
+iorem	 	1
+iores	,	1	.	1
+iorum	 	2
+ipaed	i	4
+ipere	t	1
+ipium	 	1
+ipsa 	v	1
+ique 	A	1
+iquee	p	1
+iquis	s	1
+iquit	a	1
+iquot	 	1
+ircit	e	2
+ircum	d	1
+ire d	e	1
+irect	i	1
+is MM	X	1
+is Ov	i	1
+is Se	p	1
+is ca	u	1
+is ci	r	1
+is in	n	1
+is mo	d	1	n	1
+is pa	g	1
+is us	o	1
+is vi	c	1
+is) f	u	1
+is, i	n	1
+is, p	l	1
+is, s	e	1
+is. O	m	1
+is..P	u	1
+isbon	a	2	e	1
+isput	a	2
+iss15	 	1
+issim	u	2
+issno	n	1
+issus	 	1
+ister	 	1
+istia	n	1
+istic	h	1
+isâ€”	p	1
+it po	Ã	1
+it te	s	1
+it un	a	1
+it ut	 	1
+it, C	a	1
+it. C	u	1
+it. H	a	1
+it. U	t	1
+itant	u	1
+itas"	 	1
+itat.	.	1
+itata	 	1
+itate	 	1	m	1
+itatu	m	1
+ite S	i	1
+iter 	3	1	6	1
+itter	a	1
+itum 	s	1
+itur 	(	1
+itur,	 	1
+ium C	a	1
+ium a	c	1	n	1
+ium c	i	1
+ium d	u	1
+ium e	t	1
+ium i	n	1	u	1
+ium q	u	1
+iummi	n	1
+iuraa	O	1
+ius N	a	1
+ius O	v	1
+ius f	i	1
+ius i	n	1
+ius p	o	1
+iuven	e	1
+iuxta	 	1
+ivent	e	1
+ivior	e	1
+ivita	s	1	t	1
+ix su	p	1
+laeeB	i	1
+lantu	r	1
+lara 	e	1
+larum	 	1	,	1
+lasci	v	1
+lassi	c	1
+lata 	e	1
+lecti	o	1
+legia	c	1
+lenti	a	1
+li Ag	r	1
+lia e	t	1
+lia, 	p	1
+liae 	H	1	e	1
+liae,	 	1
+liae.	 	1
+liaee	a	1
+lianu	s	1
+liber	a	1
+liis 	u	1
+lio H	e	1
+liora	r	1
+lioru	m	1
+liquo	t	1
+lis. 	O	1
+liss1	5	1
+lissn	o	1
+litte	r	1
+lium 	C	1	e	1	i	1
+lius 	O	1
+llant	u	1
+llect	i	1
+llo e	t	1
+llum 	L	1
+lmone	 	1
+lo et	 	1
+locis	 	1
+logia	e	1
+lomet	r	2
+lopae	d	1
+lorum	m	1
+ltaru	m	1
+ltura	 	1
+ltus.	 	1
+lum L	u	1
+lurim	i	1
+lus V	 	1
+luunt	t	1
+m Art	h	2	u	1
+m Cam	b	1
+m Hen	r	1
+m Lat	i	1
+m Lud	e	1
+m VII	I	1
+m acc	i	1
+m ads	e	1
+m ali	o	1
+m ann	o	1
+m apu	d	1
+m cir	c	1
+m civ	i	1
+m col	l	1
+m com	i	1	m	1
+m des	i	1
+m dux	i	1
+m ei 	c	1
+m ess	e	1
+m est	.	1
+m et 	"	1	H	1
+m et,	 	1
+m fac	e	1
+m feu	d	1
+m fre	q	1
+m hod	i	1
+m in 	S	1
+m inn	m	1
+m inv	i	1
+m iur	a	1
+m iuv	e	1
+m men	s	1
+m min	o	1
+m myt	h	1
+m pag	i	2
+m put	a	1
+m qui	d	1
+m reg	e	1
+m sch	o	1
+m suu	m	1
+m tal	i	1
+m the	s	1
+m vis	 	1
+m, in	n	1
+m, pr	i	1
+m. De	 	1
+mAngl	i	1
+mPers	i	1
+ma cu	i	1
+magis	t	1
+maior	u	1
+malor	u	1
+manus	.	1
+marit	u	1
+masâ€	”	1
+mator	i	1
+matri	m	3
+matum	 	1
+mbria	 	1	e	2
+mbris	 	1
+mdata	,	1
+me in	 	1
+melio	r	1
+memen	t	1
+mense	m	1	s	2
+mensi	s	5
+menta	r	1	t	1
+menti	 	1
+mento	 	1
+merat	u	1
+metra	 	1	a	1
+mi Vi	c	1
+minor	e	1
+minte	r	1
+mis) 	f	1
+missu	s	1
+mitat	a	1
+mmAng	l	1
+mmPer	s	1
+mment	a	2
+mmint	e	1
+mmnum	e	1
+mmpro	p	1
+mmsum	p	1
+mmune	,	1
+mmuni	u	1
+mmus 	p	1
+mnes 	a	1	p	1
+mnume	r	1
+mo, c	a	1
+modif	i	1
+mone 	d	1
+moniu	m	3
+monst	r	1
+more 	C	1
+mores	,	1
+mortu	u	1
+morum	 	1
+mpera	t	1
+mprop	t	1
+mpsit	,	1
+mquam	 	1
+msump	s	1
+mulat	a	1
+multa	r	1
+mummp	r	1
+mune,	 	1
+munic	i	1
+muniu	m	1
+mus c	u	1
+mus p	o	1
+mytho	l	1
+n 155	4	1
+n Pro	v	1
+n Sic	i	1
+n cul	t	1
+n iam	 	1
+n loc	i	1
+n mat	r	1
+n mul	t	1
+n sae	c	1
+n. na	t	1
+nCamb	r	1
+na es	t	1
+na ex	 	1
+na fi	l	1
+na in	f	1
+na ip	s	1
+na me	n	4
+na qu	a	1
+na, q	u	1
+na. C	u	1
+naama	r	1
+nae t	e	1
+nae u	t	1
+nae v	i	1
+nali 	A	1
+nam m	e	1
+nam v	i	1
+narum	m	1
+nas m	e	2
+nata 	s	1
+natio	n	1
+natus	;	1
+nceps	 	1
+ncess	i	1
+ncia 	R	1
+ncola	e	1	r	1
+nctae	 	1
+ncycl	o	1
+ndam 	p	1
+ndit.	 	1
+ndum 	i	1
+ndum.	 	1
+ne Si	c	1
+ne di	e	1
+ne, q	u	1
+nem H	e	1
+nem t	h	1
+nense	s	1
+nes a	d	2	f	1
+nes p	a	1
+nes q	u	1
+nes..	.	1
+nfraa	o	1
+nglia	e	2
+ni de	e	1
+nicip	i	1
+nicos	 	1
+nis c	i	1
+nis, 	i	1
+nitat	e	1
+nium 	a	2	d	1	i	1
+nmatr	i	1
+nnCam	b	1
+nnem 	t	1
+nnmat	r	1
+nno 1	5	2
+nnos 	1	1
+nnreg	i	1
+no 15	0	2
+non i	a	1
+nonic	o	1
+norem	 	1
+normo	,	1
+norum	 	1
+nos 1	6	1
+nregi	o	1
+nrici	 	2
+nricu	m	1	s	1
+nsem 	f	1
+nsent	i	1
+nses 	a	2	p	1
+nsili	u	1
+nsis 	S	1	i	1	m	1
+nsis,	 	1
+nsis.	.	1
+nsisâ	€	1
+nstra	b	1
+nt He	r	1
+nt re	d	1
+nt. S	i	1
+ntari	u	1
+ntati	o	1
+nte. 	S	1
+ntem,	 	1
+nter 	a	1	t	1
+nteri	o	1
+nterr	e	1
+nti p	a	1
+ntia,	 	1
+ntiam	 	1
+ntibu	s	1
+ntife	x	1
+ntili	a	1
+ntina	.	1
+ntiqu	i	2
+ntire	 	1
+nto c	i	1
+nto i	d	1
+ntrib	u	1
+nttHa	e	1
+ntur!	 	1
+ntur.	.	1
+numer	a	1
+numqu	a	1
+nupsi	t	1
+nus O	v	1
+nus. 	O	1
+nvita	n	1
+o (Su	l	1
+o 150	1	1	9	1
+o Aev	o	1
+o Hen	r	1
+o Tud	o	1
+o Vic	i	1
+o cir	c	1
+o con	s	1
+o cre	e	1
+o et 	P	1
+o id 	q	1
+o sim	u	1
+o, ca	p	1
+oc ma	t	1
+ocis 	v	1
+od ad	d	1
+odes,	 	1
+odie 	p	2
+odifi	c	1
+ogiae	e	1
+oides	,	1
+olaee	B	1
+olaru	m	2
+olasc	i	1
+ollec	t	1
+ologi	a	1
+olus 	V	1
+omanu	s	1
+ometr	a	2
+omis)	 	1
+omita	t	1
+ommen	t	2
+ommun	e	1	i	1
+on ia	m	1
+ona e	s	1
+onae 	t	1
+onali	 	1
+onati	o	1
+onces	s	1
+one S	i	1
+one d	i	1
+onem 	H	1
+onens	e	1
+ones 	a	1	q	1
+ones.	.	1
+onico	s	1
+onium	 	3
+onsen	t	1
+onsil	i	1
+onstr	a	1
+ontib	u	1
+ontif	e	1
+ontri	b	1
+oolas	c	1
+opaed	i	1
+opert	i	1
+opter	 	1
+opus 	c	1
+orari	q	1
+orati	u	1
+ore C	a	1
+ore c	r	1
+oreee	t	1
+orem 	A	1	e	1
+ores,	 	2
+ores.	.	1
+ori,,	n	1
+oriaa	d	1
+oribu	s	1
+ormo,	 	1
+orona	t	1
+ortuu	s	1
+orum 	c	2	e	2	i	1
+orumm	P	1
+os 16	/	1
+os li	t	1
+osali	a	1
+osse 	a	1
+ost c	o	1
+ost p	e	1
+osten	d	1
+oster	i	1
+ot me	n	1
+otiss	i	1
+ovinc	i	1
+oxima	s	1
+oximo	r	1
+oÃ«ma	t	1
+oÃ«si	s	1
+oÃ«ta	 	1	s	1
+paedi	a	5
+pagin	a	10
+patri	s	1
+pedit	a	1
+pella	n	1
+perat	o	1
+peren	n	1
+peret	 	1
+perti	o	1
+pervi	v	1
+pesti	l	1
+pite 	S	1
+pium 	c	1
+pluri	m	1
+ponti	f	1
+posse	 	1
+post 	c	1	p	1
+potis	s	1
+poÃ«m	a	1
+poÃ«t	a	2
+ppedi	t	1
+ppell	a	1
+praec	l	1
+praes	e	1
+prima	 	1
+princ	e	1
+prior	e	1
+propt	e	1
+proxi	m	2
+ps Ca	m	1
+psa v	i	1
+psit,	 	1
+psit.	 	1
+ptemb	r	1
+pter 	p	1
+pud D	i	1
+pus c	o	1
+puta 	e	1
+putab	a	1
+putat	i	1
+quae 	s	2	u	1
+quaed	a	1
+quam 	a	1
+quand	a	1
+quas 	p	1
+que A	n	1
+que i	u	1
+queep	o	1
+quent	i	1
+quide	m	1
+quiss	i	1
+quita	t	1
+quitu	r	1
+quo c	r	1
+quod 	a	1
+quot 	m	1
+r (in	 	1
+r 3â€	‰	1
+r 60 	c	1
+r ann	o	1
+r atq	u	1
+r enc	y	1
+r hab	e	1
+r poÃ	«	1
+r tre	s	1
+r! Vi	c	1
+r, cu	m	1
+r. Qu	i	1
+r..Mo	n	1
+ra a 	P	1
+ra es	t	1
+ra ma	l	1
+raaOm	n	1
+raaet	 	1
+raain	t	1
+raaos	t	1
+rabit	u	1
+raecl	a	1
+raese	n	1
+rariq	u	1
+rarum	 	1
+ratiu	m	1
+rator	e	1
+ratre	m	1
+ratur	.	1
+rbs I	t	1
+rcite	r	2
+rcumd	a	1
+re 90	 	1
+re Ca	t	1
+re cr	e	1
+re de	b	1
+re,,s	o	1
+reata	 	1
+recti	o	1
+redir	e	1
+reeet	 	1
+reetu	r	1
+regem	m	1
+regio	n	1
+rem A	r	1
+rem e	s	1
+rem m	i	1
+renne	m	1
+reque	n	1
+res p	o	1
+res, 	A	1	p	1
+res..	A	1
+ret (	H	1
+retia	l	1
+rgili	u	1
+ri me	l	1
+ri, f	u	1
+ri,,n	u	1
+ria m	i	1
+riaad	i	1
+riae 	d	1	e	1
+riae"	 	1
+ribue	n	1
+ribus	.	1
+rici 	V	2
+ricum	 	1
+ricus	 	1
+rigen	t	2
+rima 	c	1
+rimi 	V	1
+rimon	i	3
+rina 	f	1	i	1
+rinaa	m	1
+rince	p	1
+riore	e	1	s	2
+rique	e	1
+ris M	M	1
+ris c	a	1
+ris m	o	1
+risti	a	1
+ritum	 	1
+rius 	f	1
+rmo, 	c	1
+ro Tu	d	1
+roide	s	1
+rolus	 	1
+ronat	i	1
+roper	t	1
+ropte	r	1
+rovin	c	1
+roxim	a	1	o	1
+rreti	a	1
+rs am	a	1
+rsico	r	1
+rthur	i	1	o	1	u	1
+rtii 	4	1
+rtioo	l	1
+rturu	s	1
+rtus 	S	1
+rtuus	s	1
+rum L	a	1
+rum c	i	1	o	1
+rum e	i	1	t	1
+rum f	r	1
+rum i	u	1
+rum m	y	1
+rum r	e	1
+rum s	c	1
+rum, 	i	1
+rummP	e	1
+rummn	u	1
+rumms	u	1
+rus p	r	1
+rvive	n	1
+s 16/	1	1
+s Cam	b	1
+s Ita	l	1
+s MMX	I	1
+s Nas	o	1
+s Ovi	d	3
+s San	c	1
+s Sep	t	1
+s Sic	a	1
+s V d	u	1
+s VII	I	1
+s ad 	c	1
+s add	p	1
+s aff	l	1
+s ama	t	1
+s ant	e	1
+s app	e	1
+s can	o	1
+s cau	s	1
+s cir	c	1
+s com	m	1
+s cul	t	1
+s est	 	2
+s fia	t	1
+s inc	o	1
+s inn	C	1
+s lit	t	1
+s men	s	2
+s mod	i	1
+s mon	s	1
+s pag	i	2
+s pon	t	1
+s pos	t	1
+s pot	i	1
+s poÃ	«	1
+s pri	n	1
+s pro	x	1
+s qua	e	1
+s uso	r	1
+s vic	i	1
+s" ab	b	1
+s) fu	i	1
+s, Am	o	1
+s, Ar	s	1
+s, di	s	1
+s, in	 	1
+s, pl	u	1
+s, pr	o	1
+s, se	d	1
+s. Ca	v	1
+s. Ho	d	1
+s. Om	n	1
+s. Ov	i	1
+s..An	n	1
+s..Pu	b	1
+s15 e	t	1
+s; mo	r	1
+sa vi	x	1
+sa). 	H	1
+saecu	l	1
+salia	e	1
+sauru	m	1
+sbona	 	1	e	1
+sbone	n	1
+schol	a	1
+scis,	 	1
+scivi	o	1
+se ab	 	1
+se. P	o	1
+sed m	e	1
+sem f	a	1
+sente	m	1
+senti	r	1
+sequi	t	1
+ses a	n	1	p	1
+ses p	o	1
+set, 	a	1
+sicae	 	1
+sicor	u	1
+signa	t	1
+siliu	m	1
+simul	a	1
+simum	m	1
+simus	 	1
+sinte	r	1
+sis O	v	1
+sis S	e	1
+sis i	n	1
+sis m	o	1
+sis, 	p	1
+sis..	P	1
+sisâ€	”	1
+sit u	t	1
+sit, 	C	1
+sit. 	C	1	H	1
+snon 	i	1
+so (S	u	1
+sodes	,	1
+sorib	u	1
+sputa	 	1	t	1
+ss15 	e	1
+sse a	b	1
+sse. 	P	1
+sset,	 	1
+ssica	e	1
+ssimu	m	1	s	1
+ssint	e	1
+ssit 	u	1
+ssnon	 	1
+ssus 	e	1
+st ab	 	1
+st ad	 	1
+st ce	r	1
+st co	r	1
+st in	 	1
+st op	u	1
+st pe	s	1
+st ur	b	1
+st). 	B	1
+st, e	t	1
+st. A	l	1
+st..A	v	1
+stame	n	1
+statu	s	1
+stell	u	1
+stend	i	1
+ster 	h	1
+steri	o	1
+stian	o	1
+stich	i	1
+stile	n	1
+strab	i	1
+sumps	i	1
+sunt 	H	1	r	1
+super	v	1
+suppe	d	1
+sus e	s	1
+suum 	c	1
+sâ€”h	a	1
+sâ€”p	r	1
+t "ci	v	1
+t (He	n	1
+t 16 	f	1
+t 58 	1	1
+t Her	o	1
+t Hor	a	1
+t Med	i	1
+t Pro	p	1
+t Tib	u	1
+t ab 	A	1
+t ad 	c	1
+t cer	t	1
+t com	m	1
+t cor	o	1
+t fer	e	1
+t fra	t	1
+t in 	P	1	c	1
+t men	s	1
+t mun	i	1
+t opu	s	1
+t pag	i	2
+t pes	t	1
+t poÃ	«	1
+t red	i	1
+t tes	t	1
+t una	 	1
+t urb	s	1
+t ut 	f	1
+t). B	i	1
+t, Ca	t	1
+t, ad	 	1
+t, et	i	1
+t, in	 	1
+t. Al	i	1
+t. Cu	m	1
+t. Ha	e	1
+t. Si	 	1
+t. Ut	 	1
+t..Av	e	1
+t..Bi	s	1
+tHae 	p	1
+ta Ro	m	1
+ta Ve	r	1
+ta ea	m	1
+ta es	t	3
+ta si	t	1
+ta, a	b	1
+tabat	 	1
+tae R	o	1
+talia	e	1
+talis	s	1
+tamen	t	1
+tantu	r	1
+tariu	s	1
+tarum	 	1
+tas c	a	1
+tas" 	a	1
+tat..	B	1
+tata 	e	1
+tate 	P	1
+tatem	 	1
+tatio	 	1	n	1
+tatum	 	1
+tatus	 	1
+te Po	s	1
+te Si	c	1
+te. S	u	1
+tellu	m	1
+tem a	d	1
+tem, 	p	1
+tembr	i	1
+tendi	t	1
+ter 3	â	1
+ter 6	0	1
+ter a	n	1
+ter h	a	1
+ter p	o	1
+ter t	r	1
+terar	u	1
+terio	r	2
+terre	t	1
+testa	m	1	t	1
+thari	n	3
+thesa	u	1
+tholo	g	1
+thuri	,	1
+thuro	 	1
+thuru	m	1
+ti di	g	1
+ti pa	t	1
+tia, 	a	1
+tiali	s	1
+tiam 	A	1	h	1
+tiano	r	1
+tibus	 	1
+tichi	 	1
+tifex	x	1
+tii 4	3	1
+tilen	t	1
+tilia	n	1
+tina.	 	1
+tinar	u	1
+tio V	i	1
+tione	m	1	s	3
+tiool	a	1
+tiqui	s	1	t	1
+tire 	d	1
+tissi	m	1
+tiumm	i	1
+to ci	r	1
+to id	 	1
+tore 	c	1
+toria	a	1
+tque 	i	1
+tra a	 	1
+traae	t	1
+trabi	t	1
+trem 	m	1
+tres 	p	1
+tribu	e	1
+trimo	n	3
+tris 	c	1
+ttHae	 	1
+ttera	r	1
+tum c	o	1
+tum e	s	1
+tum f	e	1
+tum s	u	1
+tur (	i	1
+tur a	t	1
+tur e	n	1
+tur! 	V	1
+tur, 	c	1
+tur. 	Q	1
+tur..	M	1
+tura 	m	1
+turum	 	1
+turus	 	1
+tus S	a	1
+tus e	s	1
+tus. 	H	1
+tus; 	m	1
+tuuss	i	1
+uae s	c	1	u	1
+uae u	b	1
+uaeda	m	1
+uam a	l	1
+uanda	m	1
+uas p	r	1
+ubiqu	e	1
+ubliu	s	1
+ucati	 	1
+uccha	b	1
+ucend	u	1
+ud Di	s	1
+udali	u	1
+udens	i	1
+udori	,	1
+ue An	t	1
+ue iu	x	1
+ueepo	s	1
+uendu	m	1
+uenti	a	1
+uidem	 	1
+uiiCa	r	1
+uinti	l	1
+uissi	m	1
+uit p	o	1
+uit u	n	1
+uitat	e	1
+uitur	 	1
+uius 	i	1
+ulata	 	1
+uliss	1	1
+ullo 	e	1
+ulmon	e	1
+ultar	u	1
+ultur	a	1
+ultus	.	1
+um Ar	t	1
+um Ca	m	1
+um La	t	1
+um Lu	d	1
+um VI	I	1
+um ac	c	1
+um an	n	1
+um ci	r	1	v	1
+um co	l	1	m	2
+um du	x	1
+um ei	 	1
+um es	t	1
+um et	 	2	,	1
+um fe	u	1
+um fr	e	1
+um in	 	1	v	1
+um iu	r	1	v	1
+um my	t	1
+um pa	g	1
+um qu	i	1
+um re	g	1
+um sc	h	1
+um su	u	1
+um, i	n	1
+um. D	e	1
+umdat	a	1
+umera	t	1
+ummPe	r	1
+ummin	t	1
+ummnu	m	1
+ummpr	o	1
+ummsu	m	1
+ummus	 	1
+umpsi	t	1
+umqua	m	1
+una e	x	1
+une, 	q	1
+unici	p	1
+unium	 	1
+unt H	e	1
+unt r	e	1
+unttH	a	1
+uo cr	e	1
+uod a	d	1
+uot m	e	1
+uperv	i	1
+upped	i	1
+upsit	.	1
+ur (i	n	1
+ur at	q	1
+ur en	c	1
+ur! V	i	1
+ur, c	u	1
+ur. Q	u	1
+ur..M	o	1
+ura m	a	1
+uraaO	m	1
+urbs 	I	1
+uri, 	f	1
+urimi	 	1
+uro T	u	1
+urum 	m	1	r	1
+urumm	s	1
+urus 	p	1
+us Na	s	1
+us Ov	i	2
+us Sa	n	1
+us Si	c	1
+us V 	d	1
+us VI	I	1
+us co	m	1
+us cu	l	1
+us es	t	2
+us fi	a	1
+us in	c	1
+us po	n	1	t	1
+us pr	i	1
+us. C	a	1
+us. H	o	1
+us. O	v	1
+us; m	o	1
+usa).	 	1
+usori	b	1
+ussin	t	1
+ut fr	a	1
+ut pa	g	1
+uta e	a	1
+utaba	t	1
+utati	o	1
+uturu	m	1
+uum c	o	1
+uuntt	H	1
+uussi	n	1
+uvene	s	1
+uxit 	t	1
+uxta 	V	1
+ve! V	i	1
+ve: n	u	1
+venes	 	1
+vente	.	1
+vicar	i	1
+vicin	i	1
+vidia	n	1
+vidiu	m	1	s	2
+vinci	a	1
+viore	m	1
+vis p	a	1
+vitan	t	1
+vitas	"	1
+vitat	u	1
+viven	t	1
+vix s	u	1
+vo si	m	1
+x mai	o	1
+x sup	e	1
+xChri	s	1
+ximas	â	1
+xime 	i	1
+ximor	u	1
+xit t	e	1
+xta V	e	1
+xxChr	i	1
+yclop	a	1
+ythol	o	1
+€‰983	 	1
+€”hae	c	1
+€”pra	e	1
+‰983 	i	1
+”haec	 	1
+”prae	s	1
+«matu	m	1
+«sis 	O	1
+«ta R	o	1
+«tas 	c	1
+Ã«mat	u	1
+Ã«sis	 	1
+Ã«ta 	R	1
+Ã«tas	 	1
+â€‰98	3	1
+â€”ha	e	1
+â€”pr	a	1

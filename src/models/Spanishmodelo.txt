@@ -1,0 +1,1737 @@
+5	0.1
+ (AFI	:	1
+ (nom	b	1
+ 122 	k	1
+ 16 d	e	1
+ 166g	√	1
+ 2005	.	1
+ 225 	e	1
+ 404.	4	1
+ 6 t√	©	1
+ Al i	n	1
+ Ciud	a	2
+ Colc	h	2
+ Colo	n	1
+ Cont	e	1
+ Desd	e	1
+ Dist	r	1
+ Dura	n	1
+ Ennc	o	1
+ Exis	t	1
+ Fede	r	2
+ Fina	l	1
+ Glor	i	1
+ II C	o	1
+ INEG	I	1
+ Las 	e	1
+ Los 	m	1
+ M√©x	i	4
+ Per√	≠	1
+ Pobl	a	1
+ Por 	o	1
+ Prec	l	1
+ Sand	e	1
+ Se l	o	1
+ Wiki	p	1
+ XV. 	D	1
+ Xoch	i	6
+ [ Éo	t	1
+ a Wi	k	1
+ a la	 	2
+ a pe	s	1
+ alca	l	1
+ algu	n	1
+ alim	e	1
+ alt√	©	1
+ apro	x	1
+ avan	c	1
+ a√±o	s	1
+ cada	 	1
+ cato	r	1
+ cent	r	1
+ cien	t	1
+ colc	h	2
+ como	 	1
+ con 	6	1	e	1
+ cono	c	1
+ cons	e	1	t	1
+ cont	e	1
+ corm	o	1
+ cual	 	1	e	1
+ cult	u	1
+ de 1	2	1
+ de 4	0	1
+ de M	√	4
+ de P	o	1
+ de X	o	4
+ de a	l	1
+ de c	o	1
+ de d	i	1
+ de e	s	2
+ de f	i	1
+ de l	a	7	o	1
+ de o	v	1
+ de p	l	1
+ de s	e	1	u	1
+ de v	a	1
+ deea	c	1
+ deel	a	1
+ deep	l	1
+ del 	D	1	a	1	c	1	s	1
+ dele	g	2
+ dell	D	1	P	1
+ desc	o	1
+ dist	r	1
+ dive	r	1
+ e is	l	1
+ econ	√	1
+ edit	a	1
+ el I	I	1	N	1
+ el c	u	1
+ el m	e	1
+ el s	i	1	u	1
+ el t	e	2	r	1
+ ella	 	1
+ ellh	o	1
+ en 1	6	1
+ en 2	0	1
+ en e	l	4
+ en p	r	1
+ enci	c	1
+ encu	e	2
+ enti	d	1
+ era 	u	1
+ es u	n	1
+ espe	c	3
+ esta	 	2	m	1
+ fami	l	3
+ fili	a	1
+ flor	e	1
+ form	a	1
+ fue 	s	1
+ fuer	o	1
+ gen√	©	1
+ gine	c	1
+ gran	d	1
+ g√©n	e	1
+ habi	t	1
+ herb	√	1
+ impo	r	2
+ inde	p	1
+ indu	s	1
+ ind√	≠	1
+ inic	i	1
+ isla	s	1
+ kil√	≥	1
+ la C	i	2	o	1
+ la d	e	1
+ la e	n	1
+ la f	a	1
+ la m	a	1
+ la u	r	1
+ la v	i	1
+ la z	o	2
+ la √	©	1
+ laam	a	1
+ lacu	s	1
+ lado	,	1
+ las 	1	1
+ libr	e	2
+ loca	l	1
+ los 	c	1	g	1	p	1
+ manc	h	1
+ mejo	r	1
+ meso	a	1
+ mexi	c	1
+ miem	b	1
+ mont	a	1
+ much	o	1
+ natu	r	1
+ nort	e	1
+ oori	z	1
+ orna	m	1
+ or√≠	g	1
+ otro	 	1
+ ovar	i	1
+ para	 	2
+ part	e	1
+ pere	n	1
+ pesa	r	1
+ plan	t	1
+ plen	a	1
+ pobl	a	1
+ por 	c	1	e	1	s	2
+ porr	l	1
+ pose	e	1
+ preh	i	1
+ prim	e	1
+ prod	u	1
+ prov	e	1
+ pueb	l	2
+ que 	c	2	f	1	s	1	t	1
+ rasg	o	1
+ real	i	1
+ reco	n	1
+ remo	n	1
+ repr	o	1
+ rese	r	1
+ ribe	r	1
+ rode	a	1
+ se e	n	2
+ se r	e	3
+ se u	t	1
+ seea	s	1
+ seec	o	1	u	1
+ serv	i	1
+ sigl	o	1
+ some	t	1
+ son 	u	1
+ su c	u	1
+ su g	i	1
+ supe	r	1
+ sur 	y	1
+ sure	s	1
+ sus 	f	1	r	1
+ terr	i	2
+ tien	e	1
+ todo	s	1
+ trad	i	1
+ trat	a	1
+ t√©p	a	1
+ un a	l	1
+ un e	s	1
+ un i	m	1
+ una 	d	1	f	1	p	1	s	1
+ unoo	d	1
+ urba	n	2
+ usua	l	1
+ util	i	1
+ vari	a	1
+ vida	 	2
+ vist	o	1
+ y Sa	n	1
+ y de	 	1
+ y en	 	2
+ y la	 	1
+ y lo	s	1
+ y pe	r	1
+ y po	r	1	s	1
+ yyhe	r	1
+ zona	 	2	s	1
+ √©po	c	1
+(AFI:	 	1
+(nomb	r	1
+) es 	u	1
+) son	 	1
+, Glo	r	1
+, Xoc	h	1
+, a p	e	1
+, cad	a	1
+, con	 	1
+, dee	a	1
+, el 	t	1
+, la 	e	1	z	1
+, vis	t	1
+, y e	n	1
+, y p	o	2
+,,las	 	1
+,,var	i	1
+,las 	m	1
+,vari	a	1
+. Al 	i	1
+. Des	d	1
+. Dur	a	1
+. Enn	c	1
+. Exi	s	1
+. Fin	a	1
+. Las	 	1
+. Los	 	1
+. Por	 	1
+. Se 	l	1
+. Xoc	h	1
+..En 	e	1
+..Las	 	1
+..Los	 	1
+..Xoc	h	1
+.458 	h	1
+.En e	l	1
+.Las 	c	1
+.Los 	o	1
+.Xoch	i	1
+005..	L	1
+04.45	8	1
+05..L	o	1
+122 k	i	1
+16 de	l	1
+166g√	©	1
+2 kil	√	1
+2005.	.	1
+22 ki	l	1
+225 e	s	1
+25 es	p	1
+4.458	 	1
+404.4	5	1
+458 h	a	1
+5 esp	e	1
+5..Lo	s	1
+58 ha	b	1
+6 del	e	1
+6 t√©	p	1
+66g√©	n	1
+6g√©n	e	1
+8 hab	i	1
+: [ É	o	1
+AFI: 	[	1
+Al in	i	1
+Bienv	e	1
+Ciuda	d	2
+Colch	i	2
+Colon	i	1
+Conte	o	1
+Desde	e	1
+Distr	i	2
+Duran	t	1
+EGI e	n	1
+En el	 	1
+Ennco	n	1
+Exist	e	1
+FI: [	 	1
+Feder	a	2
+Final	m	1
+GI en	 	1
+Glori	o	1
+I Con	t	1
+I en 	2	1
+I: [ 	É	1
+II Co	n	1
+INEGI	 	1
+Las c	o	1
+Las e	s	1
+Los m	i	1
+Los o	r	1
+M√©xi	c	4
+NEGI 	e	1
+Per√≠	o	1
+Pobla	c	1
+Por o	t	1
+Poscl	√	1
+Precl	√	1
+Sande	r	1
+Se lo	c	1
+V. Du	r	1
+Wikip	e	1
+XV. D	u	1
+Xochi	m	7
+[ Éot	 	1
+]) es	 	1
+a Ciu	d	2
+a Col	o	1
+a Wik	i	1
+a a l	a	1
+a de 	c	1	l	3
+a dee	p	1
+a del	e	1
+a eco	n	1
+a el 	c	1	t	1
+a en 	e	1
+a enc	i	1
+a ent	i	1
+a fam	i	3
+a ind	√	1	e	1
+a la 	√	1	C	1	m	1
+a lac	u	1
+a man	c	1
+a nat	u	1
+a nor	t	1
+a par	a	1
+a pes	a	1
+a ple	n	1
+a pob	l	1
+a pre	h	1
+a pro	d	1
+a se 	r	1
+a see	a	1	c	1
+a sup	e	1
+a tra	d	1
+a un 	e	1	i	1
+a uno	o	1
+a urb	a	2
+a vid	a	2
+a y S	a	1
+a y l	o	1
+a zon	a	2
+a √©p	o	1
+a, a 	p	1
+a, la	 	1
+a, y 	p	1
+a. Al	 	1
+a. De	s	1
+aamay	o	1
+abita	n	1
+aceae	)	1
+acion	e	1
+aci√≥	n	5
+acuer	d	1
+acust	r	1
+ad de	 	2
+ada a	 	1
+ada u	n	1
+adame	n	1
+addfe	d	1
+ades 	y	1
+adici	o	1
+ado p	o	1
+ado,,	v	1
+ados.	 	1
+adrad	o	1
+ae) s	o	1
+al de	 	1	l	1
+al se	 	1
+al yy	h	1
+al..L	a	1
+alcal	o	1
+ales 	r	1	y	1
+ales.	.	1
+algun	a	1
+alime	n	1
+aliza	 	1	d	1
+almen	t	2
+aloid	e	1
+alos 	u	1
+alt√©	p	1
+amayo	r	1
+ambre	,	1
+ament	a	1	e	2
+ameri	c	1
+amien	t	2
+amili	a	3
+an a 	l	1
+an al	g	1
+an ca	t	1
+an co	m	1
+an mu	c	1
+an pa	r	1
+ana d	e	1
+ance 	d	1
+ancha	 	1
+ander	s	1
+andes	,	1
+aniza	c	1
+ano s	u	1
+antas	 	1	.	1
+ante 	a	1	d	1	g	1	l	1
+antes	,	1
+aprox	i	1
+ar de	 	1	l	1
+ar..X	o	1
+ara e	l	1
+ara l	a	1
+arias	 	1	s	1
+arioo	s	1
+arios	 	1
+arte 	d	1	i	1
+as (n	o	1
+as 16	 	1
+as co	l	1
+as de	l	1
+as e 	i	1
+as en	 	2
+as es	p	2
+as fu	e	1
+as he	r	1
+as in	d	1
+as mo	n	1
+as y 	p	1
+as zo	n	1
+as, c	o	1
+as. E	x	1
+as. P	o	1
+asgos	 	1
+asien	t	1
+assen	f	1
+astan	t	1
+atami	e	1
+ates,	 	1
+ativa	,	1
+atorc	e	1
+atura	l	1
+avanc	e	1
+ayor 	r	1
+a√±as	 	1
+a√±os	 	1
+bana 	d	1
+baniz	a	1
+basta	n	1
+beras	 	1
+bitan	t	1
+blaci	√	2
+blos 	d	1
+bloss	o	1
+bre c	i	1
+bre q	u	1
+bre, 	y	1
+bres,	 	1
+bros 	d	1
+buida	s	1
+b√°ce	a	1
+ca de	 	1
+ca pr	e	1
+ca. D	e	1
+cacea	e	1
+cada 	u	1
+caliz	a	1
+caloi	d	1
+cano 	s	1
+cas e	n	1
+cator	c	1
+ce de	 	1
+ce pu	e	1
+ceae)	 	1
+ceas 	(	1	y	1
+cen p	o	2
+cen u	n	1
+centr	o	1
+ceo d	e	1
+cha u	r	1
+chica	c	1
+chici	n	1
+chicu	m	1
+chic√	°	1
+chimi	l	7
+chos 	r	1
+cia i	n	1
+ciclo	p	1
+cida.	 	1
+cidoo	c	1
+cie d	e	1
+cient	√	1
+cies 	d	3
+cina 	e	1
+cio d	e	1
+ciona	l	1
+cione	s	1
+cios 	q	1
+ci√≥n	 	3	.	2
+clope	d	1
+cl√°s	i	2
+co (A	F	1
+co Co	l	1
+co de	 	1
+co er	a	1
+co me	s	1
+co se	 	3	e	1
+co ti	e	1
+co, X	o	1
+co, e	l	1
+co, y	 	1
+co. S	e	1
+co..E	n	1
+colch	i	2
+como 	c	1	o	1
+con 6	 	1
+con e	l	1
+conoc	e	1	i	2
+conse	r	1
+const	i	1
+conte	n	1
+contr	a	1
+convi	r	1
+con√≥	m	1
+cormo	s	1
+cuadr	a	1
+cual 	s	1
+cuale	s	1
+cuent	r	2
+cuerd	o	1
+culti	v	1
+cultu	r	1
+cum, 	G	1
+custr	e	1
+c√°ce	a	1
+d de 	M	2
+da a 	l	1
+da ec	o	1
+da in	d	1
+da un	o	1
+da. A	l	1
+dad d	e	2
+daddf	e	1
+dades	 	1
+damen	t	1
+das e	n	1
+ddfed	e	1
+de 12	2	1
+de 40	4	1
+de M√	©	4
+de Po	b	1
+de Xo	c	4
+de al	i	1
+de co	n	2
+de di	v	1
+de es	t	2
+de fi	l	1
+de la	 	5	a	1	s	1
+de lo	s	2
+de ov	a	1
+de pl	a	1
+de se	r	1
+de su	 	1
+de va	r	1
+dea u	n	1
+deeac	u	1
+deeel	 	1
+deela	 	1
+deepl	a	1
+del D	i	1
+del a	v	1
+del c	e	1
+del s	u	1
+deleg	a	2
+dellD	i	1
+dellP	o	1
+den e	d	1
+depen	d	1
+deral	 	1	.	1
+derat	i	1
+derso	n	1
+des y	 	1
+des, 	v	1
+desco	n	1
+dfede	r	1
+dia d	e	1
+dia, 	l	1
+dicio	n	1
+dient	e	1
+distr	i	1
+ditar	.	1
+diver	s	1
+do Pr	e	1
+do co	n	1
+do li	b	1
+do po	r	2
+do,,v	a	1
+dooco	m	1
+dor d	e	1
+dos a	 	1
+dos. 	X	1
+dossp	u	1
+drado	s	1
+ducen	 	2
+dustr	i	1
+d√≠ge	n	1
+e 122	 	1
+e 225	 	1
+e 404	.	1
+e M√©	x	4
+e Pob	l	1
+e Xoc	h	4
+e ali	m	1
+e alt	√	1
+e cie	n	1
+e con	o	1	s	2	t	1
+e de 	1	1	M	1	X	1	e	1	l	3
+e del	 	1
+e div	e	1
+e enc	u	2
+e est	a	2
+e fil	i	1
+e fue	 	1
+e gra	n	1
+e imp	o	1
+e isl	a	1
+e la 	C	2	d	1	f	1	u	1	v	1
+e laa	m	1
+e las	 	1
+e lib	r	1
+e loc	a	1
+e los	 	2
+e ova	r	1
+e pla	n	1
+e pue	b	1
+e que	 	1
+e rec	o	1
+e rem	o	1
+e rep	r	1
+e se 	r	1
+e ser	v	1
+e som	e	1
+e su 	c	1
+e tod	o	1
+e una	 	2
+e uti	l	1
+e var	i	1
+e) so	n	1
+e, y 	p	1
+e,,la	s	1
+ea un	 	1
+eacue	r	1
+eae) 	s	1
+ealiz	a	1
+eas (	n	1
+eas y	 	1
+easie	n	1
+eblos	 	1	s	1
+eceo 	d	1
+ecies	 	3
+ecl√°	s	1
+econo	c	1
+econv	i	1
+econ√	≥	1
+ecult	i	1
+edade	s	1
+eden 	e	1
+edera	l	2	t	1
+edia 	d	1
+edia,	 	1
+edita	r	1
+edor 	d	1
+ee un	a	1
+eeacu	e	1
+eeasi	e	1
+eecon	v	1
+eecul	t	1
+eedor	 	1
+eeel 	P	1
+eeint	e	1
+eel P	e	1
+eela 	v	1
+eepla	n	1
+egaci	√	1	o	1
+egrad	a	1
+ehisp	√	1
+einte	g	1
+ejora	m	1
+el Di	s	1
+el II	 	1
+el IN	E	1
+el Pe	r	1
+el av	a	1
+el ce	n	1
+el cu	a	1
+el me	j	1
+el si	g	1
+el su	r	2
+el te	r	2
+el tr	a	1
+ela v	i	1
+elega	c	2
+ellDi	s	1
+ellPo	s	1
+ella 	s	1
+ellho	g	1
+embro	s	1
+emont	a	1
+en 16	6	1
+en 20	0	1
+en ap	r	1
+en ed	i	1
+en el	 	3	l	1
+en po	r	2
+en pr	o	1
+en un	 	1
+ena, 	a	1
+ename	n	1
+encia	 	1
+encic	l	1
+encue	n	2
+endie	n	1
+ene u	n	1
+enes 	d	1
+enfer	m	1
+enido	 	1	s	1
+ennes	 	1
+ennpa	r	1
+ental	e	1
+entan	 	1
+ente 	2	1	d	1	l	1
+ente,	,	1
+entee	i	1
+entid	a	1
+ento 	d	1	g	1
+entos	 	1
+entra	 	1	n	1
+entro	 	1
+ent√≠	f	1
+enven	i	1
+en√©t	i	1
+eo de	 	2
+epend	i	1
+eplan	t	1
+eprod	u	1
+era u	n	1
+eral 	d	1
+eral.	.	1
+eras 	e	1
+erati	v	1
+erb√°	c	1
+erdo 	c	1
+erenc	i	1
+erenn	e	1
+erfic	i	1
+erica	n	1
+ermed	a	1
+ero. 	L	1
+eron 	e	1
+eros 	C	1	a	1
+eros.	 	1
+errit	o	2
+erson	i	1
+ersos	 	1
+erva 	n	1
+ervan	 	1
+ervic	i	1
+er√≠o	d	1
+es de	 	3	l	1
+es di	s	1
+es qu	e	1
+es ro	d	1
+es un	a	1
+es y 	d	1	e	1
+es, c	a	1
+es, d	e	1
+es, l	a	1
+es, v	i	1
+esar 	d	1
+escon	o	1
+esdee	e	1
+eserv	a	1
+esoam	e	1
+espec	i	3
+essba	s	1
+esta 	e	1	f	1
+estam	b	1
+este 	d	1
+etido	 	1
+etl q	u	1
+etros	s	1
+exica	s	1
+famil	i	3
+feder	a	1
+ferme	d	1
+ficie	 	1
+fico 	C	1
+filia	c	1
+flore	s	1
+forma	n	1
+fue s	o	1
+fuero	n	1
+gacio	n	1
+gaci√	≥	1
+gar d	e	1
+gena,	 	1
+genes	 	1
+gen√©	t	1
+ginar	i	1
+ginec	e	1
+glo X	V	1
+gos d	e	1
+grada	 	1
+grand	e	1
+gunas	 	1
+g√©ne	r	2
+ha ur	b	1
+habit	a	1
+herb√	°	1
+heren	c	1
+hicac	e	1
+hicin	a	1
+hicum	,	1
+hic√°	c	1
+himil	c	7
+hisp√	°	1
+hogar	 	1
+hos r	a	1
+ia de	 	1	e	1
+ia in	d	1
+ia pr	o	1
+ia se	 	1	e	1
+ia y 	l	1
+ia, l	a	1
+iaci√	≥	1
+iales	 	1
+ias e	s	1
+iasse	n	1
+ibera	s	1
+ibre 	q	1
+ibres	,	1
+ibuid	a	1
+ica d	e	1
+ica. 	D	1
+icace	a	1
+icano	 	1
+icas 	e	1
+icie 	d	1
+icina	 	1
+icio 	d	1
+icion	a	1
+icios	 	1
+iclop	e	1
+ico C	o	1
+ico d	e	1
+ico m	e	1
+ico, 	X	1	e	1	y	1
+ico. 	S	1
+ico..	E	1
+icum,	 	1
+ic√°c	e	1
+ida e	c	1
+ida i	n	1
+ida. 	A	1
+idadd	f	1
+idas 	e	1
+ide c	o	1
+ido l	i	1
+ido p	o	1
+idooc	o	1
+idos 	a	1
+ie de	 	1
+iembr	o	1
+iene 	u	1
+ienta	n	1
+iente	 	1
+iento	 	2
+ient√	≠	1
+ienve	n	1
+ies d	e	2	i	1
+igina	r	1
+iglo 	X	1
+ikipe	d	1
+ilco 	(	1	e	1	s	4	t	1
+ilia 	d	1	p	1	s	1
+iliac	i	1
+iliza	 	1
+ilko]	)	1
+il√≥m	e	1
+imada	m	1
+iment	o	1
+imero	s	1
+imilc	o	7
+impor	t	2
+ina e	l	1
+inalm	e	1
+inari	o	1
+indep	e	1
+indus	t	1
+ind√≠	g	1
+inece	o	1
+inici	o	1
+integ	r	1
+io de	 	2	l	1
+ional	 	1
+iones	 	1
+ioos√	∫	1
+ios q	u	2
+iosa 	y	1
+ipedi	a	1
+irti√	≥	1
+islas	 	1
+isp√°	n	1
+isten	 	1
+istos	a	1
+istri	b	1	t	2
+itant	e	1
+itar.	.	1
+ito F	e	2
+itori	o	2
+ituye	n	1
+iudad	 	2
+iva, 	y	1
+ivan 	c	1
+ivers	o	1
+iza e	n	1
+iza p	a	1
+izaci	√	1
+izado	 	1
+izoma	s	1
+i√≥ e	n	1
+i√≥n 	d	2	r	1
+i√≥n.	 	2
+iÀàmi	l	1
+joram	i	1
+kil√≥	m	1
+kiped	i	1
+ko]) 	e	1
+l Dis	t	1
+l II 	C	1
+l INE	G	1
+l Per	√	1
+l ava	n	1
+l cen	t	1
+l cua	l	1
+l de 	M	1
+l del	 	1
+l ini	c	1
+l mej	o	1
+l que	 	1
+l se 	u	1
+l sig	l	1
+l sur	 	1	e	1
+l ter	r	2
+l tra	t	1
+l yyh	e	1
+l..La	s	1
+lDist	r	1
+lPosc	l	1
+la Ci	u	2
+la Co	l	1
+la de	l	1
+la en	c	1
+la fa	m	1
+la ma	n	1
+la se	e	1
+la ur	b	1
+la vi	d	2
+la zo	n	2
+la √©	p	1
+laama	y	1
+laci√	≥	2
+lacus	t	1
+lado,	,	1
+lanta	s	2
+las 1	6	1
+las f	u	1
+las m	o	1
+lcalo	i	1
+lchic	√	1	a	1	i	1	u	1
+lco (	A	1
+lco e	r	1
+lco s	e	4
+lco t	i	1
+legac	i	2
+lenam	e	1
+les r	o	1
+les y	 	1
+les..	.	1
+lguna	s	1
+lhoga	r	1
+lia d	e	1
+lia p	r	1
+lia s	e	1
+liaci	√	1
+libre	 	1	s	1
+limen	t	1
+liza 	e	1	p	1
+lizad	o	1
+lko])	 	1
+llDis	t	1
+llPos	c	1
+lla s	e	1
+llhog	a	1
+lment	e	2
+lo XV	.	1
+local	i	1
+loide	 	1
+lonia	 	1
+loped	i	1
+lores	s	1
+lorio	s	1
+los c	u	1
+los d	e	1
+los g	√	1
+los m	e	1
+los p	r	1
+los u	s	1
+losso	r	1
+ltiva	n	1
+ltura	 	1
+lt√©p	e	1
+l√°si	c	2
+l√≥me	t	1
+m, Gl	o	1
+madam	e	1
+man p	a	1
+manch	a	1
+mas. 	E	1
+mayor	 	1
+mbre 	c	1
+mbre,	 	1
+mbros	 	1
+medad	e	1
+mejor	a	1
+menta	l	1
+mente	 	2	,	1	e	1
+mento	s	1
+meric	a	1
+meros	 	1
+mesoa	m	1
+metid	o	1
+metro	s	1
+mexic	a	1
+mica 	d	1
+miemb	r	1
+mient	o	2
+milco	 	7
+milia	 	3
+milko	]	1
+mo co	l	1
+mo or	n	1
+monta	√	1	n	1
+mos o	o	1
+mport	a	2
+mucho	s	1
+n 166	g	1
+n 200	5	1
+n 6 t	√	1
+n a l	a	1
+n alc	a	1
+n alg	u	1
+n apr	o	1
+n cat	o	1
+n com	o	1
+n de 	4	1
+n des	c	1
+n edi	t	1
+n el 	I	1	m	1	s	2	t	1
+n ell	a	1	h	1
+n est	a	1
+n imp	o	1
+n muc	h	1
+n par	t	1
+n por	 	2
+n pro	v	1
+n rea	l	1
+n un 	a	1
+n una	 	1
+n. En	n	1
+n. Fi	n	1
+na de	 	2
+na el	 	1
+na fa	m	1
+na la	c	1
+na no	r	1
+na po	b	1
+na su	p	1
+na, a	 	1
+nal y	y	1
+nalme	n	1
+namen	t	2
+nario	s	1
+nas i	n	1
+nas z	o	1
+natur	a	1
+nce d	e	1
+ncha 	u	1
+ncia 	i	1
+ncicl	o	1
+ncont	r	1
+ncuen	t	2
+ndepe	n	1
+nders	o	1
+ndes,	 	1
+ndien	t	1
+ndust	r	1
+nd√≠g	e	1
+ne un	a	1
+neceo	 	1
+neros	 	1	.	1
+nes d	e	2
+nes q	u	1
+nferm	e	1
+nia s	e	1
+nia y	 	1
+nica.	 	1
+nicio	 	1
+nido 	l	1
+nidos	 	1
+nizac	i	1
+nncon	t	1
+nnes 	q	1
+nnpar	t	1
+no su	s	1
+nocen	 	1
+nocid	a	1	o	1
+nombr	e	1
+noode	 	1
+norte	 	1
+npart	e	1
+nserv	a	1
+nstit	u	1
+ntale	s	1
+ntan 	a	2
+ntas 	h	1
+ntas.	 	1
+nta√±	a	1
+nte 2	2	1
+nte a	l	1
+nte d	e	2
+nte g	r	1
+nte l	a	1	i	1
+nte,,	l	1
+nteei	n	1
+ntegr	a	1
+nteni	d	1
+nteo 	d	1
+ntes,	 	1
+ntida	d	1
+nto d	e	1
+nto g	e	1
+ntos 	p	1
+ntra 	p	1
+ntran	 	1
+ntrat	e	1
+ntro 	f	1
+nt√≠f	i	1
+nveni	d	1
+nvirt	i	1
+n√©ti	c	1
+n√≥mi	c	1
+o (AF	I	1
+o Col	c	1
+o Fed	e	2
+o Pre	c	1
+o XV.	 	1
+o col	c	1
+o con	 	1
+o de 	P	1	X	2	o	1	p	1	v	1
+o del	l	1
+o era	 	1
+o for	m	1
+o gen	√	1
+o lad	o	1
+o lib	r	1
+o mes	o	1
+o orn	a	1
+o por	 	1	r	1
+o se 	e	2	r	1
+o see	c	1
+o sus	 	1
+o tie	n	1
+o, Xo	c	1
+o, el	 	1
+o, y 	e	1
+o,,va	r	1
+o. La	s	1
+o. Se	 	1
+o..En	 	1
+o]) e	s	1
+oamer	i	1
+oblac	i	2
+oca p	r	1
+ocali	z	1
+ocen 	p	1
+ochim	i	7
+ocida	.	1
+ocido	o	1
+ocomo	 	1
+ode l	o	1
+odea 	u	1
+odo P	r	1
+odoss	p	1
+oduce	n	2
+ogar 	d	1
+oide 	c	1
+olchi	c	4
+oloni	a	1
+omas.	 	1
+ombre	 	1
+ometi	d	1
+omo c	o	1
+omo o	r	1
+on 6 	t	1
+on el	 	1	l	1
+on un	a	1
+ona l	a	1
+ona n	o	1
+onal 	y	1
+onas 	i	1
+ones 	d	1
+onia 	s	1	y	1
+onoce	n	1
+onoci	d	2
+onser	v	1
+onsti	t	1
+ontan	 	1
+onta√	±	1
+onten	i	1
+onteo	 	1
+ontra	t	1
+onvir	t	1
+on√≥m	i	1
+oocom	o	1
+oode 	l	1
+ooriz	o	1
+oos√∫	p	1
+opedi	a	1
+or co	r	1
+or de	 	1
+or el	 	1
+or ot	r	1
+or re	s	1
+or su	 	1	s	1
+orami	e	1
+orce 	p	1
+oress	b	1
+origi	n	1
+orio 	d	2
+orios	a	1
+orizo	m	1
+orman	 	1
+ormos	 	1
+ornam	e	1
+orrlo	s	1
+ortan	t	2
+orte 	d	1
+or√≠g	e	1
+os Co	l	1
+os a 	W	1
+os a√	±	1
+os cu	a	1
+os de	 	3	e	1
+os g√	©	1
+os me	x	1
+os mi	e	1
+os oo	r	1
+os or	√	1
+os pa	r	1
+os pr	i	1
+os pu	e	1
+os qu	e	2
+os ra	s	1
+os us	u	1
+os. L	o	1
+os. X	o	1
+osa y	 	1
+osas,	 	1
+oscl√	°	1
+osee 	u	1
+osscu	a	1
+ossor	i	1
+osspu	e	1
+os√∫p	e	1
+otro 	l	1
+ot Éi	À	1
+ovari	o	1
+oveed	o	1
+oxima	d	1
+palos	 	1
+para 	e	1	l	1
+parte	 	2
+pecie	s	3
+pedia	 	1	,	1
+pendi	e	1
+peren	n	1
+perfi	c	1
+pero.	 	1
+pesar	 	1
+petl 	q	1
+plant	a	2
+plena	m	1
+pobla	c	1
+poca 	p	1
+por c	o	1
+por e	l	1
+por s	u	2
+porrl	o	1
+porta	n	2
+posee	 	1
+prehi	s	1
+prime	r	1
+produ	c	2
+prove	e	1
+proxi	m	1
+puebl	o	2
+puede	n	1
+p√°ni	c	1
+que c	o	2
+que f	u	1
+que s	e	1
+que t	o	1
+r cor	m	1
+r de 	a	1	d	1
+r del	 	1
+r el 	I	1
+r otr	o	1
+r res	e	1
+r su 	g	1
+r sus	 	1
+r y l	a	1
+r..Xo	c	1
+ra el	 	1
+ra la	 	1
+ra pl	e	1
+ra tr	a	1
+ra un	 	1
+rada 	a	1
+radic	i	1
+rados	.	1
+ral d	e	2
+ral..	L	1
+ramie	n	1
+ran c	a	1
+rande	s	1
+rante	 	1
+ras e	 	1
+rasgo	s	1
+ratam	i	1
+rates	,	1
+rativ	a	1
+rbana	 	1
+rbani	z	1
+rb√°c	e	1
+rce p	u	1
+rdo c	o	1
+re ci	e	1
+re de	l	1
+re qu	e	1
+re, y	 	1
+reali	z	1
+recl√	°	1
+recon	o	1
+rehis	p	1
+remon	t	1
+renci	a	1
+renne	s	1
+repro	d	1
+res, 	c	1
+reser	v	1
+ressb	a	1
+reste	 	1
+rfici	e	1
+riale	s	1
+rias 	e	1
+riass	e	1
+riber	a	1
+ribui	d	1
+rican	o	1
+rigin	a	1
+rimer	o	1
+rio d	e	2
+rioos	√	1
+rios 	q	1
+riosa	 	1
+rito 	F	2
+ritor	i	2
+rizom	a	1
+rlos 	m	1
+rman 	p	1
+rmeda	d	1
+rmos 	o	1
+rname	n	1
+ro fo	r	1
+ro la	d	1
+ro. L	a	1
+rodea	 	1
+roduc	e	2
+ron e	l	1
+ros C	o	1
+ros a	√	1
+ros d	e	1
+ros. 	L	1
+rossc	u	1
+rovee	d	1
+roxim	a	1
+rrito	r	2
+rrlos	 	1
+rsoni	a	1
+rsos 	p	1
+rtant	e	2
+rte d	e	2
+rte i	m	1
+rti√≥	 	1
+rva n	a	1
+rvan 	m	1
+rvici	o	1
+r√≠ge	n	1
+r√≠od	o	1
+s (no	m	1
+s 16 	d	1
+s Col	c	1
+s a W	i	1
+s a√±	o	1
+s col	c	1
+s cua	l	1
+s de 	X	1	e	1	f	1	l	2	s	1
+s dee	l	1
+s del	 	1	l	1
+s dis	t	1
+s e i	s	1
+s en 	1	1	e	1
+s esp	e	2
+s flo	r	1
+s fue	r	1
+s g√©	n	1
+s her	b	1
+s ind	u	1
+s mex	i	1
+s mie	m	1
+s mon	t	1
+s oor	i	1
+s or√	≠	1
+s par	a	1
+s pri	m	1
+s pue	b	1
+s que	 	3
+s ras	g	1
+s rib	e	1
+s rod	e	1
+s una	 	1
+s usu	a	1
+s y d	e	1
+s y e	n	1
+s y p	e	1
+s zon	a	1
+s, ca	d	1
+s, co	n	1
+s, de	e	1
+s, la	 	1
+s, vi	s	1
+s. Ex	i	1
+s. Lo	s	1
+s. Po	r	1
+s. Xo	c	1
+sa y 	S	1
+sar d	e	1
+sas, 	c	1
+sbast	a	1
+scl√°	s	1
+scono	c	1
+scuad	r	1
+sdeee	l	1
+se en	c	2
+se re	c	1	m	1	p	1
+se ut	i	1
+see u	n	1
+seeas	i	1
+seeco	n	1
+seecu	l	1
+senfe	r	1
+serva	 	1	n	1
+servi	c	1
+sgos 	d	1
+sico 	m	1
+sico,	 	1
+sient	a	1
+siglo	 	1
+slas 	f	1
+soame	r	1
+somet	i	1
+son u	n	1
+sonia	 	1
+sorig	i	1
+sos p	u	1
+speci	e	3
+spued	e	1
+sp√°n	i	1
+ssbas	t	1
+sscua	d	1
+ssenf	e	1
+ssori	g	1
+sspue	d	1
+sta e	n	1
+sta f	a	1
+stamb	r	1
+stant	e	1
+ste d	e	1
+sten 	a	1
+stitu	y	1
+stosa	s	1
+stre 	d	1
+stria	l	1
+strib	u	1
+strit	o	2
+su cu	l	1
+su gi	n	1
+sualm	e	1
+super	f	1
+sur y	 	1
+sures	t	1
+sus f	l	1
+sus r	i	1
+s√∫pe	r	1
+ta en	t	1
+ta fa	m	1
+tales	.	1
+tambr	e	1
+tamie	n	1
+tan a	 	1	l	1
+tante	 	3	s	1
+tar..	X	1
+tas h	e	1
+tas. 	P	1
+ta√±a	s	1
+te 22	5	1
+te al	t	1
+te de	 	5
+te gr	a	1
+te im	p	1
+te la	 	1
+te li	b	1
+te,,l	a	1
+teein	t	1
+tegra	d	1
+ten a	p	1
+tenid	o	1
+teo d	e	1
+terri	t	2
+tes, 	d	1	l	1
+tico 	d	1
+tidad	d	1
+tido 	p	1
+tiene	 	1
+tiliz	a	1
+tituy	e	1
+tiva,	 	1
+tivan	 	1
+ti√≥ 	e	1
+tl qu	e	1
+to Fe	d	2
+to de	 	1
+to ge	n	1
+todos	s	1
+torce	 	1
+torio	 	2
+tos p	a	1
+tosas	,	1
+tra p	l	1
+tradi	c	1
+tran 	c	1
+trata	m	1
+trate	s	1
+tre d	e	1
+trial	e	1
+tribu	i	1
+trito	 	2
+tro f	o	1
+tro l	a	1
+tross	c	1
+tura 	t	1
+tural	 	1
+tuyen	n	1
+t√©pa	l	1
+t√©pe	t	1
+t√≠fi	c	1
+t ÉiÀ	à	1
+u cul	t	1
+u gin	e	1
+uadra	d	1
+ual s	e	1
+uales	 	1
+ualme	n	1
+ucen 	p	1	u	1
+uchos	 	1
+udad 	d	2
+ue co	n	2
+ue fu	e	1
+ue se	 	1
+ue so	m	1
+ue to	d	1
+ueblo	s	2
+ueden	 	1
+uentr	a	2
+uerdo	 	1
+ueron	 	1
+uidas	 	1
+ultiv	a	1
+ultur	a	1
+um, G	l	1
+un al	c	1
+un es	t	1
+un im	p	1
+una d	e	1
+una f	a	1
+una p	o	1
+una s	u	1
+unas 	z	1
+unood	e	1
+uperf	i	1
+ur y 	l	1
+ura t	r	1
+ural 	d	1
+urant	e	1
+urban	a	1	i	1
+urest	e	1
+us fl	o	1
+us ri	b	1
+ustre	 	1
+ustri	a	1
+usual	m	1
+utili	z	1
+uyenn	p	1
+va na	t	1
+va, y	 	1
+van c	o	1
+van m	u	1
+vance	 	1
+varia	s	2
+vario	o	1
+veedo	r	1
+venid	o	1
+verso	s	1
+vicio	s	1
+vida 	e	1	i	1
+virti	√	1
+visto	s	1
+xicas	 	1
+xico,	 	2
+xico.	 	1	.	1
+ximad	a	1
+xiste	n	1
+y San	d	1
+y de 	s	1
+y en 	e	2
+y la 	z	1
+y los	 	1
+y per	e	1
+y por	 	1
+y pos	e	1
+yennp	a	1
+yhere	n	1
+yor r	e	1
+yyher	e	1
+za en	 	1
+za pa	r	1
+zaci√	≥	1
+zado 	p	1
+zomas	.	1
+zona 	l	1	n	1
+zonas	 	1
+ÉiÀàm	i	1
+Éot É	i	1
+àmilk	o	1
+°ceas	 	2
+°nica	.	1
+°sico	 	1	,	1
+©nero	s	2
+©palo	s	1
+©petl	 	1
+©poca	 	1
+©tico	 	1
+©xico	,	2	.	2
+≠fico	 	1
+≠gena	,	1
+≠gene	s	1
+≠odo 	P	1
+±as d	e	1
+±os d	e	1
+≥ en 	p	1
+≥metr	o	1
+≥mica	 	1
+≥n de	 	1	s	1
+≥n re	a	1
+≥n. E	n	1
+≥n. F	i	1
+∫pero	.	1
+√°cea	s	2
+√°nic	a	1
+√°sic	o	2
+√©ner	o	2
+√©pal	o	1
+√©pet	l	1
+√©poc	a	1
+√©tic	o	1
+√©xic	o	4
+√≠fic	o	1
+√≠gen	a	1	e	1
+√≠odo	 	1
+√±as 	d	1
+√±os 	d	1
+√≥ en	 	1
+√≥met	r	1
+√≥mic	a	1
+√≥n d	e	2
+√≥n r	e	1
+√≥n. 	E	1	F	1
+√∫per	o	1
+ ÉiÀà	m	1
+ Éot 	É	1
+Ààmil	k	1

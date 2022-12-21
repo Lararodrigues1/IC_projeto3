@@ -35,11 +35,8 @@ int main(int argc, char** argv)
         
         f.getModelo(model, argv[i]);
         
-    
-
         f.estimate(model, argv[argc-1]);
-        // cout << "distancia estimada: " << f.distance << endl;
-        // cout << "entropia estimada: " << f.estimatedEntropy << endl;
+
 
         if(i == 1) {
             modelLang = argv[i];
@@ -54,7 +51,23 @@ int main(int argc, char** argv)
         cout << "Model loaded sucessfully!" << endl;
     }
 
-    cout << "\nGuess for the language in which a text was written: " << modelLang << endl;
+    string filename = modelLang;
+    int flag = 0;
+    string linguagem_final;
+
+    for (int i = string(filename).size(); i-- > 0;){
+        if( filename[i] == '/'){
+            flag++;
+        }
+        if(flag == 1){
+            linguagem_final = filename[i] + linguagem_final;
+        }
+        if( filename[i] == '.'){
+            flag++;
+        }
+        
+    }
+    cout << "\nLanguage of " << argv[argc-1] << " is " << linguagem_final << endl;
     
     return 0;
 }

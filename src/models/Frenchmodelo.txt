@@ -1,0 +1,2235 @@
+5	0.1
+ 000 	h	1	s	1
+ 1460	,	1
+ 1461	 	1
+ 28 0	0	1
+ 50 0	0	1
+ ; pa	r	1
+ Angl	e	1
+ Apr√	®	1
+ Cert	a	1
+ Cet 	e	1
+ Comm	o	1
+ Crea	t	1
+ C‚Äô	e	1
+ Deux	-	1
+ Henr	i	2
+ IV r	e	1
+ La b	a	1
+ Lanc	a	3
+ Mais	o	2
+ Marg	u	1
+ Plan	t	1
+ Rame	a	1
+ Rich	a	4
+ Selo	n	1
+ Son 	g	1
+ Sonn	c	1
+ Towt	o	3
+ VI a	 	1
+ VI s	u	2
+ Wake	f	1
+ Wiki	p	2
+ York	i	1
+ a li	e	1
+ a po	u	1
+ a un	 	1
+ acco	r	1
+ acte	 	1
+ ains	i	3
+ angl	a	1
+ apr√	®	1
+ arme	s	1
+ arm√	©	1
+ arti	c	4
+ au c	o	1
+ au s	u	1
+ au t	r	1
+ aupr	√	1
+ avec	 	1
+ avoi	r	1
+ bafo	u	1
+ bata	i	6
+ bons	 	1
+ by-s	a	1
+ cadr	e	1
+ capt	u	1
+ cara	c	1
+ ce d	i	1
+ ceux	 	1
+ chac	u	1
+ cham	p	1
+ chan	g	1
+ chro	n	1
+ civi	l	1
+ coll	e	1
+ comb	a	1
+ comm	e	3	u	1
+ comp	t	1
+ cond	i	3
+ cons	i	1
+ cont	e	3
+ copi	√	1
+ cour	s	1
+ d'en	 	1
+ de 5	0	1
+ de L	a	1
+ de R	i	2
+ de T	o	3
+ de W	a	1
+ de b	a	1
+ de d	e	1
+ de l	‚	1	a	1
+ de n	o	1
+ de q	u	1
+ de r	√	1
+ de s	a	1	o	1
+ de t	o	2
+ deer	e	1
+ des 	D	1	L	1	M	1	R	1	a	2	c	1	f	1	p	1
+ deux	 	1
+ dima	n	1
+ disp	o	1
+ doit	 	1
+ droi	t	2
+ du c	o	2
+ du p	r	1
+ du r	o	2
+ duuw	i	1
+ d√©f	i	1
+ d√©g	√	1
+ d√©p	l	1	o	1
+ d‚Äô	A	2	Y	4	a	2	e	2	o	1
+ en 1	4	1
+ en A	n	1
+ en f	r	1
+ en g	u	1
+ en l	i	1
+ enco	u	1
+ enga	g	1
+ entr	e	1
+ esse	n	1
+ est 	d	1	s	1	t	1	u	1
+ et c	e	1
+ et d	e	1
+ et f	o	1
+ et l	√	1	a	2
+ et n	e	1
+ et p	e	1
+ et s	e	2
+ et u	n	1
+ et v	√	1
+ et √	â	1
+ ettS	a	1
+ etta	m	1
+ ettd	a	1
+ ettr	√	1
+ etts	a	1
+ faib	l	1
+ fils	 	1	s	1
+ fins	 	1
+ fonc	t	1
+ fond	a	1
+ forc	e	1
+ for√	ß	1
+ fran	√	1
+ gouv	e	1
+ gran	d	1
+ guer	r	2
+ heur	e	1
+ homm	e	1
+ h√©s	i	1
+ imm√	©	1
+ inef	f	1
+ jour	n	1
+ jusq	u	1
+ la b	a	2
+ la c	a	1	o	1
+ la f	o	1
+ la g	u	1
+ la j	o	1
+ la m	√	1
+ la p	l	3
+ la s	i	1
+ la v	√	1
+ le c	h	1
+ le d	r	1
+ le m	a	1
+ le p	r	1
+ le s	o	1
+ le t	r	2
+ lee2	9	1
+ leeP	a	1
+ leed	u	1
+ lequ	e	1
+ les 	L	1	Y	1	c	2	n	1	p	2	r	1	v	1
+ less	p	1
+ libr	e	1
+ lice	n	2
+ lieu	 	1
+ lign	√	1	e	1
+ livr	√	1
+ l√®v	e	1
+ l‚Äô	A	2	a	3	h	1
+ mani	p	1
+ mars	 	1
+ ment	a	1
+ mill	e	1
+ modi	f	1
+ mult	i	1
+ m√©t	√	1
+ m√™m	e	2
+ ne d	i	1
+ nobl	e	3
+ obje	c	2
+ ont 	b	1
+ ontt	p	1
+ ou c	o	1
+ ou l	‚	1
+ par 	d	1	l	3
+ parr	e	1
+ part	i	2
+ pas 	d	1
+ pass	e	1
+ pend	a	1
+ peut	 	3
+ plus	 	4	i	1	s	1
+ pour	 	2	r	1
+ prin	c	3
+ proc	l	2
+ proj	e	2
+ prov	o	1
+ pr√©	t	1
+ publ	i	1
+ qual	i	1
+ que 	2	1	c	1	l	2	s	1
+ qui 	h	1
+ rapp	o	1
+ refu	s	1
+ remp	l	1
+ resp	e	1
+ roi 	p	1
+ roi,	 	1
+ roi.	 	1
+ r√®g	l	1
+ r√©g	n	1
+ sa M	a	1
+ sang	l	1
+ selo	n	1
+ sema	i	1
+ ses 	d	1	p	1
+ sess	f	1	t	1
+ situ	a	1
+ soit	 	1
+ sol 	a	1
+ sold	a	1
+ son 	f	2
+ sonn	v	1
+ sont	 	2
+ sous	 	2	s	1
+ sout	e	1	i	1
+ succ	√	1
+ sud-	o	1
+ suff	i	1
+ sur 	l	6
+ surr	I	1
+ s‚Äô	e	1
+ tout	e	2
+ tran	s	1
+ trou	v	1
+ tr√¥	n	3
+ tu√©	 	1
+ un a	c	1
+ un c	a	1	h	1	o	1
+ un p	r	1
+ une 	a	1	p	1	s	1
+ univ	e	1
+ vill	a	1
+ v√©r	i	2
+ ¬´ a	r	1
+ ¬´ b	o	1
+ ¬ª o	u	1
+ ¬ª..	C	1
+ √âdo	u	3
+ √† H	e	1
+ √† a	v	1
+ √† c	o	1
+ √† d	e	1
+ √† l	a	1
+ √† s	‚	1	o	2
+ √† √	â	1
+ √††c	o	1
+ √©ta	b	2
+ √©t√	©	1
+ √™tr	e	1
+ ‚Äì 	m	1	s	1
+'en r	e	1
+, Wik	i	1
+, ent	r	1
+, et 	u	1
+, la 	v	1
+, lee	P	1	d	1
+, mul	t	1
+, obj	e	1
+, plu	s	1
+, que	 	1
+, ref	u	1
+, son	 	1
+, uni	v	1
+, √âd	o	1
+, √† 	c	1
+,,l‚Ä	ô	1
+,l‚Äô	√	1
+-Rose	s	1
+-oues	t	1
+-sa e	t	1
+. Apr	√	1
+. Cer	t	1
+. Cet	 	1
+. C‚Ä	ô	1
+. La 	b	1
+. Mar	g	1
+. Ric	h	1
+. Sel	o	1
+. Son	 	1	n	1
+. Wik	i	1
+..Act	u	1
+..Cha	c	1
+..Hen	r	1
+..La 	b	1
+..Le 	c	1
+.Actu	e	1
+.Chac	u	1
+.Henr	i	1
+.La b	a	1
+.Le c	a	1
+0 000	 	1
+0 hom	m	1
+0 sol	d	1
+0, le	e	1
+00 ho	m	1
+00 so	l	1
+000 h	o	1
+000 s	o	1
+1 au 	s	1
+1460,	 	1
+1461 	a	1
+28 00	0	1
+29 ma	r	1
+460, 	l	1
+461 a	u	1
+50 00	0	1
+60, l	e	1
+61 au	 	1
+8 000	 	1
+9 mar	s	1
+; par	r	1
+Actue	l	1
+Angle	t	4
+Anjou	,	1
+Apr√®	s	1
+Certa	i	1
+Cet e	n	1
+Chacu	n	1
+Commo	n	1
+Creat	i	1
+C‚Äôe	s	1
+Deux-	R	1
+Henri	 	3
+I a u	n	1
+I sur	 	2
+IV re	m	1
+Inter	n	1
+La ba	t	2
+Lanca	s	3
+Le ca	d	1
+Maiso	n	2
+Margu	e	1
+Parle	m	1
+Plant	a	1
+Ramea	u	1
+Richa	r	4
+Roses	 	1
+Saxto	n	1
+Selon	 	1
+Son g	o	1
+Sonnc	o	1
+Towto	n	3
+V rem	p	1
+VI a 	u	1
+VI su	r	2
+Wakef	i	1
+Wikip	√	3
+York 	e	2
+York,	 	1
+York.	 	1
+Yorki	s	1
+a Mai	s	1
+a a p	o	1
+a bat	a	4
+a cap	t	1
+a com	m	1
+a en 	f	1
+a est	 	1
+a et 	p	1
+a for	c	1
+a gue	r	1
+a jou	r	1
+a lie	u	1
+a lig	n	1
+a m√™	m	1
+a plu	s	3
+a pou	r	1
+a sit	u	1
+a un 	c	1
+a v√©	r	1
+abili	t	1
+able,	 	2
+ables	,	1
+ablie	 	1	s	1
+accep	t	1
+accor	d	3
+ace e	n	1
+acte 	d	1
+actee	d	1
+act√®	r	1
+acult	√	1
+acun 	p	2
+admis	s	1
+adre 	d	1
+afou√	©	1
+age l	e	1
+ageme	n	1
+agen√	™	1
+ages 	d	1
+aible	 	1
+aide 	d	1
+aient	 	2
+aille	 	5	.	1
+aine 	a	1
+ainqu	e	1
+ains 	n	1
+ainsi	 	3
+ais a	i	1
+ais c	o	1
+ais √	©	1
+aison	 	1	s	1
+akefi	e	1
+ales 	‚	1
+ales,	 	1
+ales.	 	1
+alit√	©	1
+alors	 	1
+amais	 	1
+amati	o	1
+ameau	x	1
+amer 	r	1
+ammen	t	1
+amp d	e	1
+am√©l	i	1
+ancas	t	3
+anche	 	1
+ande 	e	1
+angem	e	1
+angla	i	1	n	1
+anipu	l	1
+ans d	e	3
+ansmi	s	1
+ant H	e	1
+ant l	e	1
+ant p	l	1
+ant s	u	1
+antag	e	1
+ante 	b	1
+an√ßa	i	1
+appor	t	1
+apr√®	s	1
+aptur	e	1
+ar de	s	1
+ar la	 	2
+ar le	s	1
+aract	√	1
+archi	q	1
+ard I	V	1
+ard P	l	1
+ard c	o	1
+ard d	‚	1
+ard e	t	1
+ard t	r	1
+ard, 	s	1
+argue	r	1
+arlem	e	1
+armes	.	1
+arm√©	e	1
+arrex	e	1
+ars 1	4	1
+artic	l	4
+artis	a	2
+as de	 	1
+asse 	u	1
+astre	 	2	e	1
+atail	l	6
+ateme	n	1
+ateur	s	1
+ation	 	1	n	1
+ative	 	1
+ats d	e	1
+attus	 	1
+au co	u	1
+au su	d	1
+au tr	√	1
+aupr√	®	1
+aut√©	 	1
+aux p	a	1	e	1
+avec 	l	1
+avoir	r	1
+axton	.	1
+a√ßan	t	1
+a√Æn√	©	1
+bafou	√	1
+batai	l	6
+battu	s	1
+bilit	√	2
+bject	i	2
+ble e	t	1
+ble, 	o	1	q	1
+bles 	√	1	q	1
+bles,	 	1
+bless	m	1
+blie 	s	1
+blier	 	1
+blies	 	1
+bons 	a	1
+breme	n	1
+by-sa	 	1
+c d‚Ä	ô	1
+c l‚Ä	ô	1
+cace 	e	1
+cadre	 	1
+captu	r	1
+carac	t	1
+castr	e	3
+ccept	e	1
+ccord	 	2	e	1
+cc√©d	e	1
+ce Cr	e	1
+ce de	s	1
+ce di	m	1
+ce en	c	1
+ce ‚Ä	ì	1
+cence	 	2
+cepte	r	1
+ceux 	d	1
+chacu	n	1
+champ	 	1
+chang	e	1
+chard	 	4
+che d	e	1
+chiqu	e	1
+chron	i	1
+ciale	s	1
+cipau	x	1
+cipe 	d	1
+cipes	 	1
+civil	e	1
+clama	t	1
+clame	r	1
+cles 	¬	1	d	1
+cles.	.	1
+cless	d	1
+clop√	©	1
+colle	c	1
+comba	t	1
+comme	 	2	r	1
+commu	n	1
+compl	o	1
+compt	e	1
+condi	t	3
+consi	d	1
+conte	n	5
+copi√	©	1
+cord 	e	1	s	1
+corde	r	1
+coura	g	1
+cours	 	1
+cte d	‚	1
+cteed	‚	1
+cter 	l	2
+ctif 	d	1	e	1
+ction	n	1
+ctive	 	1
+ctuel	l	1
+ct√®r	e	1
+cult√	©	1
+cun p	e	2
+cyclo	p	1
+c√©de	r	1
+d IV 	r	1
+d Pla	n	1
+d con	s	1
+d d‚Ä	ô	1
+d et 	√	1	s	1
+d ett	s	1
+d sel	o	1
+d tro	u	1
+d'en 	r	1
+d, so	n	1
+d-oue	s	1
+dans 	d	1
+dant 	p	1
+dateu	r	1
+dats 	d	1
+de 50	 	1
+de La	n	1
+de Ri	c	2
+de To	w	3
+de Wa	k	1
+de ba	t	1
+de de	 	1	u	1
+de et	 	1
+de la	 	1
+de l‚	Ä	1
+de no	b	1
+de qu	a	1
+de r√	©	1
+de sa	 	1
+de se	s	1
+de so	u	1
+de to	u	2
+deere	s	1
+der √	†	1
+derai	e	1
+des D	e	1
+des L	a	1
+des M	a	1
+des R	a	1
+des a	r	2
+des c	o	1
+des f	i	1
+des p	r	1
+deux 	m	1
+dia a	 	1
+dia e	n	1	s	1
+diate	m	1
+die c	o	1
+diffu	s	1
+difie	r	1
+diman	c	1
+dispo	s	1
+disti	n	1
+ditio	n	3
+di√©v	a	1
+dmiss	i	1
+doit 	a	1
+douar	d	3
+dre d	u	1
+droit	 	1	s	1
+du co	n	2
+du pr	o	1
+du ro	i	2
+duc d	‚	1
+duuwi	k	1
+d√®re	n	1
+d√©fi	n	1
+d√©g√	©	1
+d√©pl	o	1
+d√©po	s	1
+d√©©d	e	1
+d‚ÄôA	n	2
+d‚ÄôY	o	4
+d‚Äôa	c	3
+d‚Äôe	n	1	u	1
+d‚Äôo	f	1
+e 28 	0	1
+e 50 	0	1
+e Com	m	1
+e Cre	a	1
+e Lan	c	1
+e Ric	h	2
+e Tow	t	3
+e Wak	e	1
+e apr	√	1
+e arm	√	1
+e art	i	1
+e ave	c	1
+e bat	a	2
+e cad	r	1
+e cha	c	1	m	1
+e civ	i	1
+e col	l	1
+e cop	i	1
+e d'e	n	1
+e de 	T	2	W	1	l	1	n	1	t	1
+e des	 	3
+e deu	x	1
+e dim	a	1
+e dis	p	1
+e dro	i	1
+e du 	p	1	r	2
+e duu	w	1
+e d‚Ä	ô	3
+e en 	A	1	g	1
+e enc	o	1
+e et 	f	1	l	1	n	1
+e fai	b	1
+e la 	g	1	j	1	p	1
+e les	 	4
+e lic	e	1
+e l‚Ä	ô	2
+e man	i	1
+e nob	l	1
+e ont	 	1
+e par	 	1
+e pas	 	1	s	1
+e plu	s	1
+e pri	n	1
+e pro	c	2
+e qua	l	1
+e que	 	1
+e rap	p	1
+e r√©	g	1
+e sa 	M	1
+e sem	a	1
+e ses	 	1
+e sol	 	1
+e son	 	1	t	2
+e sou	t	1
+e suc	c	1
+e suf	f	1
+e sur	 	1	r	1
+e tou	t	2
+e tr√	¥	2
+e un 	a	1	c	1
+e une	 	2
+e ¬´ 	a	1	b	1
+e √† 	a	1	d	1	s	1
+e √©t	a	1
+e ‚Äì	 	1
+e, la	 	1
+e, mu	l	1
+e, ob	j	1
+e, qu	e	1
+e, √â	d	1
+e, √†	 	1
+e. Ce	t	1
+e. Ma	r	1
+e. Se	l	1
+e29 m	a	1
+eParl	e	1
+eativ	e	1
+eaux 	p	1
+ec l‚	Ä	1
+ecter	 	2
+ectif	 	2
+ectiv	e	1
+educ 	d	1
+ed‚Äô	a	1
+ee29 	m	1
+eePar	l	1
+eeduc	 	1
+eed‚Ä	ô	1
+eeent	r	1
+eeet 	f	1
+eentr	e	1
+eeres	p	1
+eese 	s	1
+eet f	o	1
+effic	a	1
+efiel	d	1
+efuse	 	1
+el Ri	c	1
+eld e	t	1
+elle,	 	1
+ellem	e	1
+elles	 	1
+elon 	l	2
+emain	e	1
+ement	 	4	,	1	t	2
+empla	√	1
+emple	,	1
+en 14	6	1
+en An	g	1
+en au	p	1
+en fr	a	1
+en gu	e	1
+en li	g	1
+en re	s	1
+ence 	‚	1	C	1
+encou	r	1
+encyc	l	1
+endan	t	1
+engag	e	1
+enir 	l	1
+enri 	V	3
+ent d	‚	1	e	1	u	1
+ent i	n	1
+ent j	u	1
+ent p	r	1
+ent q	u	1
+ent √	†	1
+ent, 	W	1
+ental	e	1
+entie	l	1
+entio	n	2
+entre	 	2
+ents.	 	1
+enttm	o	1
+enttr	√	1
+enu e	n	1	s	1
+enu l	i	1
+enu o	u	1
+en√™t	,	1
+epter	 	1
+equel	 	1
+er et	 	1	t	1
+er im	m	1
+er le	s	2
+er po	u	1
+er qu	e	1
+er ro	i	1
+er su	r	1
+er √†	 	1
+er..H	e	1
+er..L	e	1
+eraie	n	1
+ercia	l	1
+eresp	e	1
+erite	 	1
+ernem	e	1
+ernet	,	1
+erre 	c	1	d	1	p	2
+erre,	 	1
+erre.	 	1
+ersel	l	1
+ertai	n	1
+erve 	d	1
+es De	u	1
+es La	n	2
+es Ma	i	1
+es Ra	m	1
+es Yo	r	1
+es ar	m	1	t	1
+es ch	r	1
+es co	n	2
+es de	 	2
+es dr	o	1
+es d√	©	1
+es en	 	1
+es es	s	1
+es et	 	1	t	1
+es fi	n	1
+es fo	n	1
+es le	e	1
+es no	b	1
+es on	t	1
+es pa	r	2
+es pr	√	1	i	2
+es qu	i	1
+es r√	®	1
+es se	s	1
+es vi	l	1
+es ¬ª	.	1
+es √†	†	1
+es √©	t	1
+es ‚Ä	ì	1
+es, e	t	1
+es, p	l	1
+es. S	o	1
+es..L	a	1
+ese s	o	1
+espec	t	2
+essdi	s	1
+essen	t	1
+essfa	c	1
+essm√	©	2
+esspr	√	1
+essti	t	1
+est d	√	1	‚	1
+est l	a	1
+est s	o	1
+est t	u	1
+est u	n	1
+et ce	u	1
+et de	 	1
+et d‚	Ä	1
+et en	g	1
+et es	t	1
+et fo	n	1	r	1
+et la	 	2
+et l√	®	1
+et ne	 	1
+et pe	u	1
+et se	s	2
+et un	e	1
+et v√	©	1
+et √â	d	1
+et, u	n	1
+eterr	e	4
+ettSa	x	1
+ettam	√	1
+ettda	n	1
+ettr√	©	1
+ettsa	 	1
+eu au	 	1
+eur l	e	1
+eures	 	1
+eurs 	h	1
+eurs.	 	1
+eurtr	i	1
+eut m	o	1
+eut p	u	1
+eut √	™	1
+eux d	e	1
+eux m	i	1
+eux p	o	1
+eux-R	o	1
+exemp	l	1
+exile	r	1
+f d‚Ä	ô	1
+f et 	v	1
+facul	t	1
+faibl	e	1
+ffica	c	1
+ffisa	m	1
+ffrir	 	1
+ffus√	©	1
+fiabi	l	1
+fiabl	e	1
+ficac	e	1
+field	 	1
+fier 	e	1
+fils 	s	1
+filss	a	1
+fini 	p	1
+fins 	c	1
+fisam	m	1
+fonct	i	1
+fonda	t	1
+force	 	1
+for√ß	a	1
+fou√©	 	1
+fran√	ß	1
+frir 	u	1
+fuse 	d	1
+fus√©	e	1
+gagem	e	1
+ge le	s	1
+gemen	t	2
+gen√™	t	1
+ges d	e	1
+gique	s	1
+glais	 	1
+glant	e	1
+gles 	e	1
+glete	r	4
+gne, 	√	1
+gner 	s	1
+gn√©e	 	1
+gouve	r	1
+grand	e	1
+gue e	t	1
+gueri	t	1
+guerr	e	2
+gu√©s	 	1
+g√©n√	®	1
+hacun	 	2
+hamp 	d	1
+hange	m	1
+hard 	P	1	c	1	d	1	e	1
+he de	s	1
+heure	s	1
+hique	 	1
+histo	i	1
+homme	s	1
+hroni	q	1
+h√©si	t	1
+i VI 	a	1	s	2
+i acc	o	1
+i d√©	p	1
+i h√©	s	1
+i par	 	2
+i que	 	1
+i sur	 	1
+i, re	f	1
+i. La	 	1
+i. Wi	k	1
+ia a 	p	1
+ia en	 	1
+ia es	t	1
+iabil	i	1
+iable	,	1
+iales	 	1
+iatem	e	1
+ibili	t	1
+ible 	e	1
+ibrem	e	1
+icace	 	1
+icenc	e	2
+ichar	d	4
+icles	 	2	.	1	s	1
+ide d	e	1
+id√®r	e	1
+ie co	l	1
+ie su	r	1
+ield 	e	1
+ielle	s	1
+ien a	u	1
+ient 	√	1	j	1
+ier e	t	1
+ier i	m	1
+ies p	a	1
+ieu a	u	1
+ieurs	 	1
+if d‚	Ä	1
+if et	 	1
+iffus	√	1
+ifiab	i	1	l	1
+ifier	 	1
+igne,	 	1
+ign√©	e	1
+iki. 	W	1
+ikip√	©	3
+ileee	n	1
+iler.	.	1
+iling	u	1
+ilisa	b	1
+ilis√	©	1
+ilit√	©	2
+illag	e	1
+ille 	√	1	a	1	d	3	r	1
+ille.	 	1
+ils s	o	1
+ilssa	√	1
+imanc	h	1
+imm√©	d	1
+incip	a	1	e	2
+ine a	p	1
+ineff	i	1
+ingue	 	1
+ingu√	©	1
+ini p	a	1
+inque	u	1
+ins c	o	1
+ins n	o	1
+insi 	a	1	d	1	q	1
+ion d	√	1	e	1
+ionna	n	1
+ionnd	i	1
+ions 	a	1	d	1	m	1
+ions.	.	1
+iorer	.	1
+ipaux	 	1
+ipe d	u	1
+ipes 	f	1
+ipule	r	1
+ip√©d	i	3
+ique 	e	1
+iques	 	1	s	1
+ir le	s	1
+ir un	 	1
+ire d	e	1
+irrja	m	1
+is ai	n	1
+is co	m	1
+is √†	 	1
+is √©	t	1
+isabl	e	1
+isamm	e	1
+isans	 	2
+ison 	e	1
+isons	 	1
+ispos	e	1
+issib	i	1
+istes	 	1
+istin	g	1
+istoi	r	1
+is√© 	s	1
+it ai	n	2
+it de	 	1
+itaie	n	1
+ite d	‚	1
+ition	 	1	s	2
+itres	 	1
+its e	t	1
+ituat	i	1
+it√© 	¬	1	d	2
+ive C	o	1
+ive √	©	1
+ivers	e	1
+ivile	e	1
+ivr√©	e	1
+i√®re	 	1
+i√© e	t	1
+i√©va	l	1
+jamai	s	1
+jecti	f	2
+jet d	‚	1
+jet e	s	1
+jou,,	l	1
+journ	√	1
+jusqu	‚	1
+k est	 	1
+k et 	d	1
+k, en	t	1
+k. Ap	r	1
+kefie	l	1
+ki. W	i	1
+kip√©	d	3
+kiste	s	1
+l Ric	h	1
+l ang	l	1
+la ba	t	2
+la ca	p	1
+la co	m	1
+la fo	r	1
+la gu	e	1
+la jo	u	1
+la m√	™	1
+la pl	u	3
+la si	t	1
+la v√	©	1
+lages	 	1
+lais 	a	1
+lamat	i	1
+lamer	 	1
+lanta	g	1
+lante	 	1
+la√ßa	n	1
+ld et	 	1
+ldats	 	1
+le ar	t	1
+le ch	a	1
+le de	 	3
+le dr	o	1
+le et	 	1
+le ma	n	1
+le pr	i	1
+le ra	p	1
+le so	l	1
+le tr	√	2
+le √†	 	1
+le, l	a	1
+le, m	u	1
+le, o	b	1
+le, q	u	1
+le. C	e	1
+lecti	v	1
+lee29	 	1
+leePa	r	1
+leedu	c	1
+leeen	t	1
+lemen	t	2
+leque	l	1
+ler e	t	1
+ler..	H	1
+les L	a	1
+les Y	o	1
+les c	h	1	o	1
+les d	e	1
+les e	s	1
+les n	o	1
+les p	a	1	r	1
+les q	u	1
+les r	√	1
+les v	i	1
+les ¬	ª	1
+les √	†	1	©	1
+les ‚	Ä	1
+les, 	e	1	p	1
+les. 	S	1
+les..	L	1
+lessd	i	1
+lessm	√	1
+lessp	r	1
+leter	r	4
+libre	m	1
+licen	c	2
+lie s	u	1
+lier 	i	1
+lies 	p	1
+lieu 	a	1
+ligne	,	1
+lign√	©	1
+lingu	e	1
+liore	r	1
+lisab	l	1
+lis√©	 	1
+lit√©	 	3
+livr√	©	1
+llage	s	1
+lle a	r	1
+lle d	e	3
+lle r	a	1
+lle √	†	1
+lle, 	m	1
+lle. 	C	1
+llect	i	1
+lleme	n	1
+lles 	√	1
+logiq	u	1
+lon l	e	2
+lop√©	d	1
+lorab	l	1
+lors 	√	1
+loter	 	1
+ls so	i	1
+lssa√	Æ	1
+ltili	n	1
+lt√©s	 	1
+lus d	e	2
+lus g	r	1
+lus s	a	1
+lusie	u	1
+lussm	e	1
+l√®ve	 	1
+l‚ÄôA	n	2
+l‚Äôa	c	1	d	1	i	1
+l‚Äôh	i	1
+l‚Äô√	©	1
+maine	 	1
+mais 	√	1
+manch	e	1
+manip	u	1
+mars 	1	1
+matio	n	1
+mbatt	u	1
+me li	c	1
+me ¬´	 	2
+me √†	 	1
+meaux	 	1
+ment 	d	3	i	1	p	1
+ment,	 	1
+menta	l	1
+mentt	m	1	r	1
+mer r	o	1
+merci	a	1
+mes o	n	1
+mes..	.	1
+meurt	r	1
+mille	 	1
+mis √	†	1
+missi	b	1
+mme ¬	´	2
+mment	 	1
+mmerc	i	1
+mmes 	o	1
+mmons	 	1
+mmuna	u	1
+mm√©d	i	1
+modif	i	1
+monar	c	1
+mons 	b	1
+mp de	 	1
+mpla√	ß	1
+mple,	 	1
+mplot	e	1
+mpte 	p	1
+multi	l	1
+munau	t	1
+m√©co	n	1
+m√©di	√	1	a	1
+m√©e 	a	1
+m√©li	o	1
+m√©t√	©	1
+m√™me	 	2
+n 146	0	1
+n Ang	l	1
+n a l	i	1
+n act	e	1
+n aup	r	1
+n car	a	1
+n cha	n	1
+n con	t	1
+n dee	r	1
+n doi	t	1
+n d√©	g	1
+n et 	c	1
+n ett	S	1
+n fil	s	2
+n fra	n	1
+n gou	v	1
+n gue	r	1
+n leq	u	1
+n les	 	1
+n lig	n	1
+n peu	t	2
+n pro	j	1
+n res	p	1
+n. C‚	Ä	1
+nant 	s	1
+narch	i	1
+naut√	©	1
+ncast	r	3
+nce C	r	1
+nce ‚	Ä	1
+nche 	d	1
+ncipa	u	1
+ncipe	 	1	s	1
+ncont	e	1
+ncour	a	1
+nctio	n	1
+ncycl	o	1
+ndant	 	1
+ndate	u	1
+nde e	t	1
+ndiff	u	1
+nditi	o	3
+ne ap	r	1
+ne ar	m	1
+ne di	s	1
+ne pr	o	1
+ne se	m	1
+ne so	n	1
+ne, √	†	1
+ne. M	a	1
+neeet	 	1
+neffi	c	1
+nemen	t	1
+ner s	u	1
+net, 	u	1
+ngage	m	1
+ngeme	n	1
+nglai	s	1
+nglan	t	1
+nglet	e	4
+ngue 	e	1
+ngu√©	s	1
+ni pa	r	1
+nipul	e	1
+nique	s	1
+nir l	e	1
+niver	s	1
+njou,	,	1
+nnant	 	1
+nncon	t	1
+nndif	f	1
+nnvai	n	1
+noble	s	3
+nqueu	r	1
+nri V	I	3
+ns ar	t	1
+ns au	 	1
+ns by	-	1
+ns co	m	1
+ns de	 	2	s	2
+ns d‚	Ä	1
+ns m√	©	1
+ns no	b	1
+ns..A	c	1
+nsi a	c	1
+nsi d	√	1
+nsi q	u	1
+nsid√	®	1
+nsmis	 	1
+nt He	n	1
+nt ba	f	1
+nt co	m	1
+nt de	 	1
+nt du	 	1
+nt d‚	Ä	1
+nt in	e	1
+nt ju	s	1
+nt le	s	1
+nt pl	u	1
+nt pr	o	1
+nt qu	e	1
+nt su	r	1
+nt tr	a	1
+nt √†	 	1
+nt, W	i	1
+ntage	n	1
+ntale	s	1
+nte b	a	1
+ntent	s	1
+ntenu	 	4
+ntern	e	1
+ntiel	l	1
+ntion	s	2
+ntre 	l	2
+nts. 	R	1
+nttmo	n	1
+nttp√	©	1
+nttr√	©	1
+nu en	 	1
+nu es	t	1
+nu li	b	1
+nu ou	 	1
+nvain	q	1
+n√ßai	s	1
+n√®re	 	1
+n√©. 	C	1
+n√©e 	l	1	s	1
+n√™t,	 	1
+objec	t	2
+obles	 	2	s	1
+oclam	a	1	e	1
+odifi	e	1
+offri	r	1
+ogiqu	e	1
+oi pa	r	1
+oi, r	e	1
+oi. L	a	1
+oire 	d	1
+oirrj	a	1
+oit a	i	2
+oit d	e	1
+oits 	e	1
+ojet 	d	1	e	1
+ol an	g	1
+oldat	s	1
+ollec	t	1
+ologi	q	1
+ombat	t	1
+omme 	¬	2
+ommer	c	1
+ommes	 	1
+ommon	s	1
+ommun	a	1
+omplo	t	1
+ompte	 	1
+on a 	l	1
+on de	e	1
+on do	i	1
+on d√	©	1
+on et	 	1	t	1
+on fi	l	2
+on go	u	1
+on le	q	1	s	1
+on. C	‚	1
+onarc	h	1
+oncti	o	1
+ondat	e	1
+ondit	i	3
+oniqu	e	1
+onnan	t	1
+onnco	n	1
+onndi	f	1
+onnva	i	1
+ons a	r	1	u	1
+ons b	y	1
+ons d	‚	1	e	1
+ons m	√	1
+ons..	A	1
+onsid	√	1
+ont b	a	1
+ont c	o	1
+ont t	r	1
+onten	t	1	u	4
+onttp	√	1
+opi√©	 	1
+op√©d	i	1
+oque 	u	1
+orabl	e	1
+orce 	d	1
+ord e	t	1
+ord s	e	1
+order	 	1
+orer.	.	1
+ork e	s	1	t	1
+ork, 	e	1
+ork. 	A	1
+orkis	t	1
+orolo	g	1
+ors √	†	1
+orte 	q	1
+or√ßa	n	1
+ose p	a	1
+oses 	l	1
+oss√©	d	1
+oter 	p	1
+ou co	m	1
+ou l‚	Ä	1
+ou,,l	‚	1
+ouard	 	2	,	1
+ouest	 	1
+our l	e	1
+our o	b	1
+ourag	e	1
+ourn√	©	1
+ourrs	e	1
+ours 	d	1
+ous l	a	1	i	1
+ouse 	d	1
+oussr	√	1
+oute 	l	1
+outen	i	1
+outes	 	1
+outie	n	1
+ouve 	s	1
+ouver	n	1
+ou√© 	l	1
+ovoqu	e	1
+owton	 	3
+p de 	b	1
+par d	e	1
+par l	a	2	e	1
+parre	x	1
+parti	s	2
+pas d	e	1
+passe	 	1
+paux 	p	1
+pe du	u	1
+pecte	r	2
+penda	n	1
+pes f	o	1
+peut 	√	1	m	1	p	1
+pi√© 	e	1
+pla√ß	a	1
+ple, 	l	1
+plora	b	1
+plote	r	1
+plus 	d	2	g	1	s	1
+plusi	e	1
+pluss	m	1
+porte	 	1
+pose 	p	1
+poss√	©	1
+pour 	l	1	o	1
+pourr	s	1
+pouse	 	1
+pport	e	1
+princ	i	3
+procl	a	2
+proje	t	2
+provo	q	1
+pr√®s	 	3
+pr√©t	e	2
+pte p	l	1
+pter 	q	1
+pture	 	1
+publi	e	1
+puler	 	1
+p√©di	a	3	e	1
+p√©ri	 	1
+quali	t	1
+que 2	8	1
+que c	h	1
+que e	n	1
+que l	a	1	e	1
+que s	o	1
+que u	n	1
+quel 	R	1
+ques 	d	1
+quess	m	1
+queur	 	1
+qui h	√	1
+qu‚Äô	a	1
+r des	 	1
+r et 	l	1
+r ett	a	1
+r imm	√	1
+r la 	c	1	f	1
+r le 	c	1	d	1	m	1	p	1	s	1	t	2
+r les	 	3	s	1
+r l‚Ä	ô	1
+r obj	e	1
+r pou	r	1
+r que	 	1
+r roi	.	1
+r sur	 	1
+r un 	c	1
+r √† 	s	1
+r..He	n	1
+r..Le	 	1
+rInte	r	1
+rable	s	1
+ract√	®	1
+rage 	l	1
+raien	t	1
+rande	 	1
+ransm	i	1
+ran√ß	a	1
+rappo	r	1
+rce d	e	1
+rchiq	u	1
+rcial	e	1
+rd IV	 	1
+rd Pl	a	1
+rd co	n	1
+rd d‚	Ä	1
+rd et	 	1	t	1
+rd se	l	1
+rd tr	o	1
+rd, s	o	1
+rder 	√	1
+re ci	v	1
+re co	p	1
+re de	 	2	s	1
+re du	 	2
+re en	 	1
+re fa	i	1
+re le	s	2
+re on	t	1
+re pa	r	1	s	1
+re √†	 	1
+re, √	â	1
+re. S	e	1
+reati	v	1
+reese	 	1
+refus	e	1
+remen	t	1
+rempl	a	1
+rent 	q	1
+rer..	L	1
+res e	t	2
+respe	c	2
+rexem	p	1
+rguer	i	1
+ri VI	 	3
+ri su	r	1
+rifia	b	2
+rinci	p	3
+rir u	n	1
+rite 	d	1
+ri√®r	e	1
+rjama	i	1
+rk es	t	1
+rk et	 	1
+rk, e	n	1
+rk. A	p	1
+rkist	e	1
+rleme	n	1
+rmes.	.	1
+rm√©e	 	1
+rneme	n	1
+rnet,	 	1
+rn√©e	 	1
+rocla	m	2
+roi p	a	1
+roi, 	r	1
+roi. 	L	1
+roit 	d	1
+roits	 	1
+rojet	 	2
+rolog	i	1
+roniq	u	1
+rouve	 	1
+rovoq	u	1
+rrInt	e	1
+rre c	i	1
+rre d	e	1
+rre p	a	2
+rre, 	√	1
+rre. 	S	1
+rrexe	m	1
+rrjam	a	1
+rrse 	p	1
+rs 14	6	1
+rs de	 	1
+rs he	u	1
+rs √†	 	1
+rs. S	o	1
+rse p	r	1
+rsell	e	1
+rtain	s	1
+rte q	u	1
+rticl	e	4
+rtisa	n	2
+rtri√	®	1
+rve d	'	1
+r√ßan	t	1
+r√®gl	e	1
+r√®s 	d	1	l	2
+r√©e 	s	1
+r√©gn	e	1
+r√©se	r	1
+r√©te	n	2
+r√©ut	i	2
+r√¥ne	 	1	.	1	e	1
+s 146	1	1
+s Deu	x	1
+s Lan	c	2
+s Mai	s	1
+s Ram	e	1
+s Yor	k	1
+s ain	s	1
+s arm	e	1
+s art	i	2
+s au 	t	1
+s by-	s	1
+s ce 	d	1
+s chr	o	1
+s com	m	2	p	1
+s con	d	2
+s de 	5	1	R	1	T	1	d	1	l	1	q	1	s	1	t	1
+s des	 	3
+s dro	i	1
+s d√©	p	1
+s d‚Ä	ô	2
+s en 	1	1
+s ess	e	1
+s et 	l	1	s	1
+s ett	d	1
+s fin	s	1
+s fon	d	1
+s gra	n	1
+s heu	r	1
+s la 	b	1	c	1	m	1
+s lee	2	1
+s lic	e	1
+s men	t	1
+s m√©	t	1
+s nob	l	2
+s ont	t	1
+s par	 	1	t	1
+s pri	n	2
+s pr√	©	1
+s qui	 	1
+s r√®	g	1
+s san	g	1
+s ses	s	1
+s soi	t	1
+s vil	l	1
+s ¬ª.	.	1
+s √† 	√	1	s	1
+s √††	c	1
+s √©t	√	1	a	1
+s ‚Äì	 	1
+s, et	 	1
+s, pl	u	1
+s. Ri	c	1
+s. So	n	2
+s..Ac	t	1
+s..La	 	1
+sa Ma	i	1
+sa et	 	1
+sa li	g	1
+sable	,	1
+samme	n	1
+sangl	a	1
+sans 	d	2
+sa√Æn	√	1
+sdist	i	1
+se du	 	1
+se d‚	Ä	1
+se pa	s	1
+se pr	o	1
+se so	n	1
+se un	 	1
+selle	,	1
+selon	 	1
+semai	n	1
+senti	e	1
+serve	 	1
+ses d	r	1
+ses l	e	1
+ses p	r	1
+sessf	a	1
+sesst	i	1
+sfacu	l	1
+si ac	c	1
+si d√	©	1
+si qu	e	1
+sibil	i	1
+sid√®	r	1
+sieur	s	1
+sitai	e	1
+situa	t	1
+smeur	t	1
+smis 	√	1
+sm√©c	o	1
+sm√©d	i	1
+soit 	a	1
+sol a	n	1
+solda	t	1
+son e	t	1
+son f	i	2
+sonnv	a	1
+sons 	d	1
+sont 	c	1	t	1
+sous 	l	2
+souss	r	1
+soute	n	1
+souti	e	1
+spect	e	2
+spose	 	1
+spr√©	t	1
+squ‚Ä	ô	1
+sr√©s	e	1
+ssa√Æ	n	1
+ssdis	t	1
+sse u	n	1
+ssent	i	1
+ssfac	u	1
+ssibi	l	1
+ssmeu	r	1
+ssm√©	c	1	d	1
+sspr√	©	1
+ssr√©	s	1
+sstit	r	1
+ss√©d	√	1
+st d√	©	1
+st d‚	Ä	1
+st la	 	1
+st so	u	1
+st tu	√	1
+st un	 	1
+stes 	e	1
+sting	u	1
+stitr	e	1
+stoir	e	1
+stre 	√	1	o	1
+stree	s	1
+succ√	©	1
+sud-o	u	1
+suffi	s	1
+sur l	‚	1	e	5
+surrI	n	1
+s√© s	o	1
+s√©d√	©	1
+s√©e 	u	1
+s‚Äôe	x	1
+t Hen	r	1
+t ain	s	2
+t baf	o	1
+t ceu	x	1
+t com	b	1
+t de 	L	1	r	1	s	1
+t du 	c	1
+t d√©	f	1
+t d‚Ä	ô	3
+t eng	a	1
+t est	 	1
+t fon	c	1
+t for	√	1
+t ine	f	1
+t jus	q	1
+t la 	p	2	s	1
+t les	 	1
+t l√®	v	1
+t mod	i	1
+t ne 	d	1
+t peu	t	1
+t plu	s	1
+t pro	v	1
+t pub	l	1
+t que	 	1
+t ses	 	1	s	1
+t sou	s	1
+t sur	 	1
+t tra	n	1
+t tu√	©	1
+t un 	p	1
+t une	 	1
+t v√©	r	1
+t √âd	o	1
+t √† 	H	1
+t √™t	r	1
+t, Wi	k	1
+t, le	e	1
+t, un	i	1
+tSaxt	o	1
+tabli	e	2
+tagen	√	1
+taien	t	1
+taill	e	6
+tains	 	1
+tales	.	1
+tam√©	l	1
+tdans	 	1
+te ba	t	1
+te d‚	Ä	2
+te l‚	Ä	1
+te pl	u	1
+te qu	e	1
+teed‚	Ä	1
+temen	t	1
+tenir	 	1
+tenti	o	2
+tents	.	1
+tenu 	e	2	l	1	o	1
+ter l	e	2
+ter p	o	1
+ter q	u	1
+terne	t	1
+terre	 	2	,	1	.	1
+tes e	n	1
+tes s	e	1
+teurs	.	1
+ticle	s	4
+tiell	e	1
+tien 	a	1
+tif d	‚	1
+tif e	t	1
+tilin	g	1
+tilis	√	1	a	1
+tingu	√	1
+tion 	d	2
+tionn	a	1	d	1
+tions	 	3	.	1
+tisan	s	2
+titre	s	1
+tive 	√	1	C	1
+tmona	r	1
+toire	 	1
+ton a	 	1
+ton d	o	1
+ton e	t	1
+ton. 	C	1
+toute	 	1	s	1
+tp√©r	i	1
+trans	m	1
+tre c	o	1
+tre l	e	2
+tre o	n	1
+tre √	†	1
+trees	e	1
+tres 	e	1
+tri√®	r	1
+trouv	e	1
+tr√©u	t	2
+tr√¥n	e	3
+ts de	s	1
+ts et	 	1
+ts. R	i	1
+tsa l	i	1
+ttSax	t	1
+ttam√	©	1
+ttdan	s	1
+ttmon	a	1
+ttp√©	r	1
+ttr√©	u	2
+ttsa 	l	1
+ttus 	c	1
+tuati	o	1
+tuell	e	1
+ture 	d	1
+tus c	e	1
+tu√© 	√	1
+t√®re	 	1
+t√© ;	 	1
+t√© d	e	1	u	1
+t√© l	i	1
+t√© ¬	ª	1
+t√©or	o	1
+t√©s 	m	1
+u au 	c	1
+u com	m	1
+u con	t	2
+u cou	r	1
+u en 	l	1
+u est	 	1
+u lib	r	1
+u l‚Ä	ô	1
+u ou 	l	1
+u pro	j	1
+u roi	 	1	,	1
+u sud	-	1
+u tr√	¥	1
+u,,l‚	Ä	1
+ualit	√	1
+uard 	I	1	t	1
+uard,	 	1
+uatio	n	1
+ublie	r	1
+uc d‚	Ä	1
+ucc√©	d	1
+ud-ou	e	1
+ue 28	 	1
+ue ch	a	1
+ue en	 	1
+ue et	 	1
+ue la	 	1
+ue le	s	1
+ue so	n	1
+ue un	 	1
+uel R	i	1
+uelle	m	1
+uerit	e	1
+uerre	 	2
+ues d	√	1
+uessm	√	1
+uest 	d	1
+ueur 	l	1
+uffis	a	1
+ui h√	©	1
+uler 	e	1
+ultil	i	1
+ult√©	s	1
+un ac	t	1
+un ca	r	1
+un ch	a	1
+un co	n	1
+un pe	u	2
+un pr	o	1
+unaut	√	1
+une a	r	1
+une p	r	1
+une s	e	1
+unive	r	1
+upr√®	s	1
+ur le	 	7
+ur l‚	Ä	1
+ur ob	j	1
+urage	 	1
+ure d	u	1
+ures 	e	1
+urn√©	e	1
+urrIn	t	1
+urrse	 	1
+urs d	e	1
+urs h	e	1
+urs. 	S	1
+urtri	√	1
+us ce	 	1
+us de	 	2
+us gr	a	1
+us la	 	1
+us li	c	1
+us sa	n	1
+use d	‚	1	u	1
+usieu	r	1
+usqu‚	Ä	1
+ussme	u	1
+ussr√	©	1
+us√©e	 	1
+ut mo	d	1
+ut pu	b	1
+ut √™	t	1
+ute l	‚	1
+uteni	r	1
+utes 	s	1
+utien	 	1
+utili	s	2
+ut√© 	;	1
+uuwik	i	1
+uve s	u	1
+uvern	e	1
+uwiki	.	1
+ux de	 	1
+ux mi	l	1
+ux pa	r	1
+ux pe	n	1
+ux po	u	1
+ux-Ro	s	1
+u√© l	‚	1
+u√© √	†	1
+u√©s 	c	1
+u‚Äôa	l	1
+vainq	u	1
+vales	,	1
+ve Co	m	1
+ve d'	e	1
+ve su	f	1
+ve un	e	1
+ve √©	t	1
+vec l	‚	1
+verne	m	1
+verse	l	1
+vilee	e	1
+villa	g	1
+voirr	j	1
+voque	 	1
+vr√©e	 	1
+v√©ri	f	2
+wiki.	 	1
+wton 	a	1	d	1	e	1
+x de 	R	1
+x mil	l	1
+x par	t	1
+x pen	d	1
+x pou	r	1
+x-Ros	e	1
+xempl	e	1
+xiler	.	1
+xton.	 	1
+y-sa 	e	1
+yclop	√	1
+Äì m√	™	1
+Äì so	u	1
+ÄôAng	l	3
+ÄôAnj	o	1
+ÄôYor	k	4
+Äôacc	e	1	o	2
+Äôact	e	1
+Äôadm	i	1
+Äôaid	e	1
+Äôalo	r	1
+Äôenc	y	1
+Äôest	 	1
+Äôeux	 	1
+Äôexi	l	1
+Äôhis	t	1
+Äôoff	r	1
+Äô√©p	o	1
+âdoua	r	3
+ì m√™	m	1
+ì sou	s	1
+ôAngl	e	3
+ôAnjo	u	1
+ôYork	 	2	,	1	.	1
+ôacce	p	1
+ôacco	r	2
+ôacte	e	1
+ôadmi	s	1
+ôaide	 	1
+ôalor	s	1
+ôency	c	1
+ôest 	l	1
+ôeux 	p	1
+ôexil	e	1
+ôhist	o	1
+ôoffr	i	1
+ô√©po	u	1
+† Hen	r	1
+† avo	i	1
+† con	d	1
+† des	 	1
+† la 	b	1
+† son	n	1
+† sou	t	1
+† s‚Ä	ô	1
+† √âd	o	1
+†comp	l	1
+††com	p	1
+ßais 	c	1
+ßant 	H	1	l	1
+®gles	 	1
+®re d	e	1
+®re e	n	1
+®re f	a	1
+®rent	 	1
+®s d‚	Ä	1
+®s la	 	2
+®ve u	n	1
+© ; p	a	1
+© des	 	1
+© du 	c	1
+© ett	r	1
+© liv	r	1
+© l‚Ä	ô	1
+© sou	s	1
+© ¬ª 	o	1
+© √† 	l	1
+©. Ce	r	1
+©cont	e	1
+©de s	e	1
+©dera	i	1
+©dia 	a	1	e	2
+©diat	e	1
+©die 	c	1
+©di√©	v	1
+©d√©©	d	1
+©e av	e	1
+©e la	 	1
+©e su	c	1	r	1
+©e un	e	1
+©fini	 	1
+©gner	 	1
+©g√©n	√	1
+©lior	e	1
+©n√®r	e	1
+©orol	o	1
+©plor	a	1
+©poss	√	1
+©pous	e	1
+©ri s	u	1
+©rifi	a	2
+©s co	m	1
+©s me	n	1
+©serv	e	1
+©sita	i	1
+©tabl	i	2
+©tent	i	2
+©t√© 	l	1
+©t√©o	r	1
+©util	i	2
+©vale	s	1
+©©de 	s	1
+™me l	i	1
+™me √	†	1
+™t, l	e	1
+™tre 	c	1
+´ art	i	1
+´ bon	s	1
+Æn√©.	 	1
+¥ne s	o	1
+¥ne. 	M	1
+¥neee	t	1
+ª ou 	c	1
+ª..Ch	a	1
+¬´ ar	t	1
+¬´ bo	n	1
+¬ª ou	 	1
+¬ª..C	h	1
+√âdou	a	3
+√† He	n	1
+√† av	o	1
+√† co	n	1
+√† de	s	1
+√† la	 	1
+√† so	n	1	u	1
+√† s‚	Ä	1
+√† √â	d	1
+√††co	m	1
+√ßais	 	1
+√ßant	 	2
+√®gle	s	1
+√®re 	d	1	e	1	f	1
+√®ren	t	1
+√®s d	‚	1
+√®s l	a	2
+√®ve 	u	1
+√© ; 	p	1
+√© de	s	1
+√© du	 	1
+√© et	t	1
+√© li	v	1
+√© l‚	Ä	1
+√© so	u	1
+√© ¬ª	 	1
+√© √†	 	1
+√©. C	e	1
+√©con	t	1
+√©der	a	1
+√©dia	 	3	t	1
+√©die	 	1
+√©di√	©	1
+√©d√©	©	1
+√©e a	v	1
+√©e l	a	1
+√©e s	u	2
+√©e u	n	1
+√©fin	i	1
+√©gne	r	1
+√©g√©	n	1
+√©lio	r	1
+√©n√®	r	1
+√©oro	l	1
+√©plo	r	1
+√©pos	s	1
+√©pou	s	1
+√©ri 	s	1
+√©rif	i	2
+√©s c	o	1
+√©s m	e	1
+√©ser	v	1
+√©sit	a	1
+√©tab	l	2
+√©ten	t	2
+√©t√©	 	1	o	1
+√©uti	l	2
+√©val	e	1
+√©©de	 	1
+√™me 	√	1	l	1
+√™t, 	l	1
+√™tre	 	1
+√Æn√©	.	1
+√¥ne 	s	1
+√¥ne.	 	1
+√¥nee	e	1
+‚Äì m	√	1
+‚Äì s	o	1
+‚ÄôAn	g	3	j	1
+‚ÄôYo	r	4
+‚Äôac	c	3	t	1
+‚Äôad	m	1
+‚Äôai	d	1
+‚Äôal	o	1
+‚Äôen	c	1
+‚Äôes	t	1
+‚Äôeu	x	1
+‚Äôex	i	1
+‚Äôhi	s	1
+‚Äôof	f	1
+‚Äô√©	p	1
