@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lara/Desktop/IC_projeto3/src/fcm.cpp
+fstream
+-
+string
+-
+iostream
+-
+cmath
+-
+sstream
+-
+map
+-
+string
+-
+vector
+-
+iterator
+-
+numeric
+-
+
+/home/lara/Desktop/IC_projeto3/src/findlang.cpp
+fcm.cpp
+/home/lara/Desktop/IC_projeto3/src/fcm.cpp
+
